@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss-discard-empty/download/postcss-discard-empty-2.1.0.tgz#d2b4bd9d5ced5ebd8dcade7640c7d7cd7f4f92b5",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss-discard-empty/download/postcss-discard-empty-2.1.0.tgz",
+    "hash": "d2b4bd9d5ced5ebd8dcade7640c7d7cd7f4f92b5",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d2b4bd9d5ced5ebd8dcade7640c7d7cd7f4f92b5"
+}

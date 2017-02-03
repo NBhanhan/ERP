@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/cli-usage/download/cli-usage-0.1.4.tgz#7c01e0dc706c234b39c933838c8e20b2175776e2",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/cli-usage/download/cli-usage-0.1.4.tgz",
+    "hash": "7c01e0dc706c234b39c933838c8e20b2175776e2",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "7c01e0dc706c234b39c933838c8e20b2175776e2"
+}

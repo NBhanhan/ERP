@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss-message-helpers/download/postcss-message-helpers-2.0.0.tgz#a4f2f4fab6e4fe002f0aed000478cdf52f9ba60e",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss-message-helpers/download/postcss-message-helpers-2.0.0.tgz",
+    "hash": "a4f2f4fab6e4fe002f0aed000478cdf52f9ba60e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a4f2f4fab6e4fe002f0aed000478cdf52f9ba60e"
+}

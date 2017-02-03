@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/brace-expansion/download/brace-expansion-1.1.6.tgz#7197d7eaa9b87e648390ea61fc66c84427420df9",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/brace-expansion/download/brace-expansion-1.1.6.tgz",
+    "hash": "7197d7eaa9b87e648390ea61fc66c84427420df9",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "7197d7eaa9b87e648390ea61fc66c84427420df9"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/domhandler/download/domhandler-2.3.0.tgz#2de59a0822d5027fabff6f032c2b25a2a8abe738",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/domhandler/download/domhandler-2.3.0.tgz",
+    "hash": "2de59a0822d5027fabff6f032c2b25a2a8abe738",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "2de59a0822d5027fabff6f032c2b25a2a8abe738"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss-svgo/download/postcss-svgo-2.1.6.tgz#b6df18aa613b666e133f08adb5219c2684ac108d",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss-svgo/download/postcss-svgo-2.1.6.tgz",
+    "hash": "b6df18aa613b666e133f08adb5219c2684ac108d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b6df18aa613b666e133f08adb5219c2684ac108d"
+}

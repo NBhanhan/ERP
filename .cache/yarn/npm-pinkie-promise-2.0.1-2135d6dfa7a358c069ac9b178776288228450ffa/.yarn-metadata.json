@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/pinkie-promise/download/pinkie-promise-2.0.1.tgz#2135d6dfa7a358c069ac9b178776288228450ffa",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/pinkie-promise/download/pinkie-promise-2.0.1.tgz",
+    "hash": "2135d6dfa7a358c069ac9b178776288228450ffa",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "2135d6dfa7a358c069ac9b178776288228450ffa"
+}

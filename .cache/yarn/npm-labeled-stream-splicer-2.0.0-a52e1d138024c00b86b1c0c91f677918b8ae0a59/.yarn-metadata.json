@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/labeled-stream-splicer/download/labeled-stream-splicer-2.0.0.tgz#a52e1d138024c00b86b1c0c91f677918b8ae0a59",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/labeled-stream-splicer/download/labeled-stream-splicer-2.0.0.tgz",
+    "hash": "a52e1d138024c00b86b1c0c91f677918b8ae0a59",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a52e1d138024c00b86b1c0c91f677918b8ae0a59"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss-discard-comments/download/postcss-discard-comments-2.0.4.tgz#befe89fafd5b3dace5ccce51b76b81514be00e3d",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss-discard-comments/download/postcss-discard-comments-2.0.4.tgz",
+    "hash": "befe89fafd5b3dace5ccce51b76b81514be00e3d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "befe89fafd5b3dace5ccce51b76b81514be00e3d"
+}

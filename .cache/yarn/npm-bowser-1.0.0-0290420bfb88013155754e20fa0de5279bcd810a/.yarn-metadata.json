@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/bowser/download/bowser-1.0.0.tgz#0290420bfb88013155754e20fa0de5279bcd810a",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/bowser/download/bowser-1.0.0.tgz",
+    "hash": "0290420bfb88013155754e20fa0de5279bcd810a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "0290420bfb88013155754e20fa0de5279bcd810a"
+}

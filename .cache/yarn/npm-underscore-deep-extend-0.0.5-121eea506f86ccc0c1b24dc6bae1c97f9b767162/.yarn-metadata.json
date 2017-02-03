@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/underscore-deep-extend/download/underscore-deep-extend-0.0.5.tgz#121eea506f86ccc0c1b24dc6bae1c97f9b767162",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/underscore-deep-extend/download/underscore-deep-extend-0.0.5.tgz",
+    "hash": "121eea506f86ccc0c1b24dc6bae1c97f9b767162",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "121eea506f86ccc0c1b24dc6bae1c97f9b767162"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/expect/download/expect-1.20.2.tgz#d458fe4c56004036bae3232416a3f6361f04f965",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/expect/download/expect-1.20.2.tgz",
+    "hash": "d458fe4c56004036bae3232416a3f6361f04f965",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d458fe4c56004036bae3232416a3f6361f04f965"
+}

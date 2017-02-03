@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/es6-symbol/download/es6-symbol-3.1.0.tgz#94481c655e7a7cad82eba832d97d5433496d7ffa",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/es6-symbol/download/es6-symbol-3.1.0.tgz",
+    "hash": "94481c655e7a7cad82eba832d97d5433496d7ffa",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "94481c655e7a7cad82eba832d97d5433496d7ffa"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-code-frame/download/babel-code-frame-6.20.0.tgz#b968f839090f9a8bc6d41938fb96cb84f7387b26",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-code-frame/download/babel-code-frame-6.20.0.tgz",
+    "hash": "b968f839090f9a8bc6d41938fb96cb84f7387b26",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b968f839090f9a8bc6d41938fb96cb84f7387b26"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/htmlparser2/download/htmlparser2-3.8.3.tgz#996c28b191516a8be86501a7d79757e5c70c1068",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/htmlparser2/download/htmlparser2-3.8.3.tgz",
+    "hash": "996c28b191516a8be86501a7d79757e5c70c1068",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "996c28b191516a8be86501a7d79757e5c70c1068"
+}

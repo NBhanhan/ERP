@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/minimatch/download/minimatch-3.0.3.tgz#2a4e4090b96b2db06a9d7df01055a62a77c9b774",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/minimatch/download/minimatch-3.0.3.tgz",
+    "hash": "2a4e4090b96b2db06a9d7df01055a62a77c9b774",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "2a4e4090b96b2db06a9d7df01055a62a77c9b774"
+}

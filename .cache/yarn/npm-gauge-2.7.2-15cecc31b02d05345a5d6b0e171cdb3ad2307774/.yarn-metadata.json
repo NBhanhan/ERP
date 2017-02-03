@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/gauge/download/gauge-2.7.2.tgz#15cecc31b02d05345a5d6b0e171cdb3ad2307774",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/gauge/download/gauge-2.7.2.tgz",
+    "hash": "15cecc31b02d05345a5d6b0e171cdb3ad2307774",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "15cecc31b02d05345a5d6b0e171cdb3ad2307774"
+}

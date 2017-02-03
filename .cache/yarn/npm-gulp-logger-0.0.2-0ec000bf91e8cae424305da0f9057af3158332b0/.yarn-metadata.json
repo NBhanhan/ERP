@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/gulp-logger/download/gulp-logger-0.0.2.tgz#0ec000bf91e8cae424305da0f9057af3158332b0",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/gulp-logger/download/gulp-logger-0.0.2.tgz",
+    "hash": "0ec000bf91e8cae424305da0f9057af3158332b0",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "0ec000bf91e8cae424305da0f9057af3158332b0"
+}

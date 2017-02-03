@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/coa/download/coa-1.0.1.tgz#7f959346cfc8719e3f7233cd6852854a7c67d8a3",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/coa/download/coa-1.0.1.tgz",
+    "hash": "7f959346cfc8719e3f7233cd6852854a7c67d8a3",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "7f959346cfc8719e3f7233cd6852854a7c67d8a3"
+}

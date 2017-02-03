@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-object-super/download/babel-plugin-transform-es2015-object-super-6.8.0.tgz#1b858740a5a4400887c23dcff6f4d56eea4a24c5",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-object-super/download/babel-plugin-transform-es2015-object-super-6.8.0.tgz",
+    "hash": "1b858740a5a4400887c23dcff6f4d56eea4a24c5",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1b858740a5a4400887c23dcff6f4d56eea4a24c5"
+}

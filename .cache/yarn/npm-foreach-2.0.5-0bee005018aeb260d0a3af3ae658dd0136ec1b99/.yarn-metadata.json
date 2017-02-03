@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/foreach/download/foreach-2.0.5.tgz#0bee005018aeb260d0a3af3ae658dd0136ec1b99",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/foreach/download/foreach-2.0.5.tgz",
+    "hash": "0bee005018aeb260d0a3af3ae658dd0136ec1b99",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "0bee005018aeb260d0a3af3ae658dd0136ec1b99"
+}

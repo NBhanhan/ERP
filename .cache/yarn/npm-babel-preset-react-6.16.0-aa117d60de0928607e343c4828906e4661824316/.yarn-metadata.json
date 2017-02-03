@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-preset-react/download/babel-preset-react-6.16.0.tgz#aa117d60de0928607e343c4828906e4661824316",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-preset-react/download/babel-preset-react-6.16.0.tgz",
+    "hash": "aa117d60de0928607e343c4828906e4661824316",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "aa117d60de0928607e343c4828906e4661824316"
+}

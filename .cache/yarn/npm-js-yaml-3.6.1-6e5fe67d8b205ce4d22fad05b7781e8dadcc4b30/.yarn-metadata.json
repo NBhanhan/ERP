@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/js-yaml/download/js-yaml-3.6.1.tgz#6e5fe67d8b205ce4d22fad05b7781e8dadcc4b30",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/js-yaml/download/js-yaml-3.6.1.tgz",
+    "hash": "6e5fe67d8b205ce4d22fad05b7781e8dadcc4b30",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6e5fe67d8b205ce4d22fad05b7781e8dadcc4b30"
+}

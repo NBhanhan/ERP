@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/gaze/download/gaze-1.1.2.tgz#847224677adb8870d679257ed3388fdb61e40105",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/gaze/download/gaze-1.1.2.tgz",
+    "hash": "847224677adb8870d679257ed3388fdb61e40105",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "847224677adb8870d679257ed3388fdb61e40105"
+}

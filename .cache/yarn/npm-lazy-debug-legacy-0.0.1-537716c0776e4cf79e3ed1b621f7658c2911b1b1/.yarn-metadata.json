@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/lazy-debug-legacy/download/lazy-debug-legacy-0.0.1.tgz#537716c0776e4cf79e3ed1b621f7658c2911b1b1",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/lazy-debug-legacy/download/lazy-debug-legacy-0.0.1.tgz",
+    "hash": "537716c0776e4cf79e3ed1b621f7658c2911b1b1",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "537716c0776e4cf79e3ed1b621f7658c2911b1b1"
+}

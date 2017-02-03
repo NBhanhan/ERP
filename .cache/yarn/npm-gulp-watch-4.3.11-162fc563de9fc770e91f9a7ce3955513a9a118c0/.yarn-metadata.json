@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/gulp-watch/download/gulp-watch-4.3.11.tgz#162fc563de9fc770e91f9a7ce3955513a9a118c0",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/gulp-watch/download/gulp-watch-4.3.11.tgz",
+    "hash": "162fc563de9fc770e91f9a7ce3955513a9a118c0",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "162fc563de9fc770e91f9a7ce3955513a9a118c0"
+}

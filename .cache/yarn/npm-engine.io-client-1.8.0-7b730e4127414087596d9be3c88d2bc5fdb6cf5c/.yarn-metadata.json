@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/engine.io-client/download/engine.io-client-1.8.0.tgz#7b730e4127414087596d9be3c88d2bc5fdb6cf5c",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/engine.io-client/download/engine.io-client-1.8.0.tgz",
+    "hash": "7b730e4127414087596d9be3c88d2bc5fdb6cf5c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "7b730e4127414087596d9be3c88d2bc5fdb6cf5c"
+}

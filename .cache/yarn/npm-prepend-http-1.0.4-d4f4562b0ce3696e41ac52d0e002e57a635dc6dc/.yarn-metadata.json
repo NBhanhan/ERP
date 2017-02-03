@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/prepend-http/download/prepend-http-1.0.4.tgz#d4f4562b0ce3696e41ac52d0e002e57a635dc6dc",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/prepend-http/download/prepend-http-1.0.4.tgz",
+    "hash": "d4f4562b0ce3696e41ac52d0e002e57a635dc6dc",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d4f4562b0ce3696e41ac52d0e002e57a635dc6dc"
+}

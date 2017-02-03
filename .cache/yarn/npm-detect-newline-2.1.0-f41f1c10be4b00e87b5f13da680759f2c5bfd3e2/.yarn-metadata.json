@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/detect-newline/download/detect-newline-2.1.0.tgz#f41f1c10be4b00e87b5f13da680759f2c5bfd3e2",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/detect-newline/download/detect-newline-2.1.0.tgz",
+    "hash": "f41f1c10be4b00e87b5f13da680759f2c5bfd3e2",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f41f1c10be4b00e87b5f13da680759f2c5bfd3e2"
+}

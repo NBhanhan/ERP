@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/has-gulplog/download/has-gulplog-0.1.0.tgz#6414c82913697da51590397dafb12f22967811ce",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/has-gulplog/download/has-gulplog-0.1.0.tgz",
+    "hash": "6414c82913697da51590397dafb12f22967811ce",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6414c82913697da51590397dafb12f22967811ce"
+}

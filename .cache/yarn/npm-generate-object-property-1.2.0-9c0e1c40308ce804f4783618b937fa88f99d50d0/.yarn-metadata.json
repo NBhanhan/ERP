@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/generate-object-property/download/generate-object-property-1.2.0.tgz#9c0e1c40308ce804f4783618b937fa88f99d50d0",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/generate-object-property/download/generate-object-property-1.2.0.tgz",
+    "hash": "9c0e1c40308ce804f4783618b937fa88f99d50d0",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "9c0e1c40308ce804f4783618b937fa88f99d50d0"
+}

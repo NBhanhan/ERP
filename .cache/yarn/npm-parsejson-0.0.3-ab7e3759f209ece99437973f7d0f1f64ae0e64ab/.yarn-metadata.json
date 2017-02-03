@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/parsejson/download/parsejson-0.0.3.tgz#ab7e3759f209ece99437973f7d0f1f64ae0e64ab",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/parsejson/download/parsejson-0.0.3.tgz",
+    "hash": "ab7e3759f209ece99437973f7d0f1f64ae0e64ab",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ab7e3759f209ece99437973f7d0f1f64ae0e64ab"
+}

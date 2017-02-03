@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/lodash.partialright/download/lodash.partialright-4.2.1.tgz#0130d80e83363264d40074f329b8a3e7a8a1cc4b",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/lodash.partialright/download/lodash.partialright-4.2.1.tgz",
+    "hash": "0130d80e83363264d40074f329b8a3e7a8a1cc4b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "0130d80e83363264d40074f329b8a3e7a8a1cc4b"
+}

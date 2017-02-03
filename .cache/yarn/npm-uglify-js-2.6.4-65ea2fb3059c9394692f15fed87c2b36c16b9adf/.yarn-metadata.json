@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/uglify-js/download/uglify-js-2.6.4.tgz#65ea2fb3059c9394692f15fed87c2b36c16b9adf",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/uglify-js/download/uglify-js-2.6.4.tgz",
+    "hash": "65ea2fb3059c9394692f15fed87c2b36c16b9adf",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "65ea2fb3059c9394692f15fed87c2b36c16b9adf"
+}

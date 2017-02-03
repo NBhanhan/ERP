@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/express/download/express-2.5.11.tgz#4ce8ea1f3635e69e49f0ebb497b6a4b0a51ce6f0",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/express/download/express-2.5.11.tgz",
+    "hash": "4ce8ea1f3635e69e49f0ebb497b6a4b0a51ce6f0",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "4ce8ea1f3635e69e49f0ebb497b6a4b0a51ce6f0"
+}

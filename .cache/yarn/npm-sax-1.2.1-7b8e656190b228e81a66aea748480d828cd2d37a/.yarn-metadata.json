@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/sax/download/sax-1.2.1.tgz#7b8e656190b228e81a66aea748480d828cd2d37a",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/sax/download/sax-1.2.1.tgz",
+    "hash": "7b8e656190b228e81a66aea748480d828cd2d37a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "7b8e656190b228e81a66aea748480d828cd2d37a"
+}

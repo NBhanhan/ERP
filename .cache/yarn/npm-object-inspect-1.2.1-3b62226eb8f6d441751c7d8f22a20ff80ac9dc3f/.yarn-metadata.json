@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/object-inspect/download/object-inspect-1.2.1.tgz#3b62226eb8f6d441751c7d8f22a20ff80ac9dc3f",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/object-inspect/download/object-inspect-1.2.1.tgz",
+    "hash": "3b62226eb8f6d441751c7d8f22a20ff80ac9dc3f",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "3b62226eb8f6d441751c7d8f22a20ff80ac9dc3f"
+}

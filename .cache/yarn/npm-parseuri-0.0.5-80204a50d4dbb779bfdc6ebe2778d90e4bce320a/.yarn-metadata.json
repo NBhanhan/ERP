@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/parseuri/download/parseuri-0.0.5.tgz#80204a50d4dbb779bfdc6ebe2778d90e4bce320a",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/parseuri/download/parseuri-0.0.5.tgz",
+    "hash": "80204a50d4dbb779bfdc6ebe2778d90e4bce320a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "80204a50d4dbb779bfdc6ebe2778d90e4bce320a"
+}

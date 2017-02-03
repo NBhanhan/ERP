@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-helper-hoist-variables/download/babel-helper-hoist-variables-6.18.0.tgz#a835b5ab8b46d6de9babefae4d98ea41e866b82a",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-helper-hoist-variables/download/babel-helper-hoist-variables-6.18.0.tgz",
+    "hash": "a835b5ab8b46d6de9babefae4d98ea41e866b82a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a835b5ab8b46d6de9babefae4d98ea41e866b82a"
+}

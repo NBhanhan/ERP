@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/concat-stream/download/concat-stream-1.4.10.tgz#acc3bbf5602cb8cc980c6ac840fa7d8603e3ef36",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/concat-stream/download/concat-stream-1.4.10.tgz",
+    "hash": "acc3bbf5602cb8cc980c6ac840fa7d8603e3ef36",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "acc3bbf5602cb8cc980c6ac840fa7d8603e3ef36"
+}

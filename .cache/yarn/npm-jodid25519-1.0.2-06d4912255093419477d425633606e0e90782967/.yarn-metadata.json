@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/jodid25519/download/jodid25519-1.0.2.tgz#06d4912255093419477d425633606e0e90782967",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/jodid25519/download/jodid25519-1.0.2.tgz",
+    "hash": "06d4912255093419477d425633606e0e90782967",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "06d4912255093419477d425633606e0e90782967"
+}

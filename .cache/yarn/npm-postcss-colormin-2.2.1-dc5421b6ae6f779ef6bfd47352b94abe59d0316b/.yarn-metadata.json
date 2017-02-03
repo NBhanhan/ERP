@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss-colormin/download/postcss-colormin-2.2.1.tgz#dc5421b6ae6f779ef6bfd47352b94abe59d0316b",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss-colormin/download/postcss-colormin-2.2.1.tgz",
+    "hash": "dc5421b6ae6f779ef6bfd47352b94abe59d0316b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "dc5421b6ae6f779ef6bfd47352b94abe59d0316b"
+}

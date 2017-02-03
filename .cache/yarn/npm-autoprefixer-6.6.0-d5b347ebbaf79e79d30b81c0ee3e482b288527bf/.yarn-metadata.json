@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/autoprefixer/download/autoprefixer-6.6.0.tgz#d5b347ebbaf79e79d30b81c0ee3e482b288527bf",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/autoprefixer/download/autoprefixer-6.6.0.tgz",
+    "hash": "d5b347ebbaf79e79d30b81c0ee3e482b288527bf",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d5b347ebbaf79e79d30b81c0ee3e482b288527bf"
+}

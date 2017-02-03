@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/read-pkg/download/read-pkg-1.1.0.tgz#f5ffaa5ecd29cb31c0474bca7d756b6bb29e3f28",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/read-pkg/download/read-pkg-1.1.0.tgz",
+    "hash": "f5ffaa5ecd29cb31c0474bca7d756b6bb29e3f28",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f5ffaa5ecd29cb31c0474bca7d756b6bb29e3f28"
+}

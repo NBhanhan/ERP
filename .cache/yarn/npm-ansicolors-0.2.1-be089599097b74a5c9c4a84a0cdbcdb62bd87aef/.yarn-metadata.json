@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/ansicolors/download/ansicolors-0.2.1.tgz#be089599097b74a5c9c4a84a0cdbcdb62bd87aef",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/ansicolors/download/ansicolors-0.2.1.tgz",
+    "hash": "be089599097b74a5c9c4a84a0cdbcdb62bd87aef",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "be089599097b74a5c9c4a84a0cdbcdb62bd87aef"
+}

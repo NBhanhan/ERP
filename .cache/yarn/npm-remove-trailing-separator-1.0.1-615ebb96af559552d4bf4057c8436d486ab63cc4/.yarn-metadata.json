@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/remove-trailing-separator/download/remove-trailing-separator-1.0.1.tgz#615ebb96af559552d4bf4057c8436d486ab63cc4",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/remove-trailing-separator/download/remove-trailing-separator-1.0.1.tgz",
+    "hash": "615ebb96af559552d4bf4057c8436d486ab63cc4",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "615ebb96af559552d4bf4057c8436d486ab63cc4"
+}

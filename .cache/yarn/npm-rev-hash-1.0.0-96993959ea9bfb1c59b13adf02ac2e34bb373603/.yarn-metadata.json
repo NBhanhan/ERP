@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/rev-hash/download/rev-hash-1.0.0.tgz#96993959ea9bfb1c59b13adf02ac2e34bb373603",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/rev-hash/download/rev-hash-1.0.0.tgz",
+    "hash": "96993959ea9bfb1c59b13adf02ac2e34bb373603",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "96993959ea9bfb1c59b13adf02ac2e34bb373603"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/globby/download/globby-2.1.0.tgz#9e9192bcd33f4ab6a4f894e5e7ea8b713213c482",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/globby/download/globby-2.1.0.tgz",
+    "hash": "9e9192bcd33f4ab6a4f894e5e7ea8b713213c482",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "9e9192bcd33f4ab6a4f894e5e7ea8b713213c482"
+}

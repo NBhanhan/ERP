@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/is-absolute/download/is-absolute-0.2.6.tgz#20de69f3db942ef2d87b9c2da36f172235b1b5eb",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/is-absolute/download/is-absolute-0.2.6.tgz",
+    "hash": "20de69f3db942ef2d87b9c2da36f172235b1b5eb",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "20de69f3db942ef2d87b9c2da36f172235b1b5eb"
+}

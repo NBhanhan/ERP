@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/is-unc-path/download/is-unc-path-0.1.2.tgz#6ab053a72573c10250ff416a3814c35178af39b9",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/is-unc-path/download/is-unc-path-0.1.2.tgz",
+    "hash": "6ab053a72573c10250ff416a3814c35178af39b9",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6ab053a72573c10250ff416a3814c35178af39b9"
+}

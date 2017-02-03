@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/cached-path-relative/download/cached-path-relative-1.0.0.tgz#d1094c577fbd9a8b8bd43c96af6188aa205d05f4",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/cached-path-relative/download/cached-path-relative-1.0.0.tgz",
+    "hash": "d1094c577fbd9a8b8bd43c96af6188aa205d05f4",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d1094c577fbd9a8b8bd43c96af6188aa205d05f4"
+}

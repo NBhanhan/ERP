@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/ternary-stream/download/ternary-stream-1.2.3.tgz#f1969f83847f9642261bc142e17ee200aada83fd",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/ternary-stream/download/ternary-stream-1.2.3.tgz",
+    "hash": "f1969f83847f9642261bc142e17ee200aada83fd",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f1969f83847f9642261bc142e17ee200aada83fd"
+}

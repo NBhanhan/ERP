@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-classes/download/babel-plugin-transform-es2015-classes-6.18.0.tgz#ffe7a17321bf83e494dcda0ae3fc72df48ffd1d9",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-classes/download/babel-plugin-transform-es2015-classes-6.18.0.tgz",
+    "hash": "ffe7a17321bf83e494dcda0ae3fc72df48ffd1d9",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ffe7a17321bf83e494dcda0ae3fc72df48ffd1d9"
+}

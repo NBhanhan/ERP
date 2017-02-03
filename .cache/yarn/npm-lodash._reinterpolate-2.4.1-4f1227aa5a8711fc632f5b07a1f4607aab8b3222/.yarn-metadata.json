@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/lodash._reinterpolate/download/lodash._reinterpolate-2.4.1.tgz#4f1227aa5a8711fc632f5b07a1f4607aab8b3222",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/lodash._reinterpolate/download/lodash._reinterpolate-2.4.1.tgz",
+    "hash": "4f1227aa5a8711fc632f5b07a1f4607aab8b3222",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "4f1227aa5a8711fc632f5b07a1f4607aab8b3222"
+}

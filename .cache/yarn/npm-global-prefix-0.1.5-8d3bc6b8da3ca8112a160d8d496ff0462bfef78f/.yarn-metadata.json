@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/global-prefix/download/global-prefix-0.1.5.tgz#8d3bc6b8da3ca8112a160d8d496ff0462bfef78f",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/global-prefix/download/global-prefix-0.1.5.tgz",
+    "hash": "8d3bc6b8da3ca8112a160d8d496ff0462bfef78f",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "8d3bc6b8da3ca8112a160d8d496ff0462bfef78f"
+}

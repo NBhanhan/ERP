@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/merge-stream/download/merge-stream-0.1.8.tgz#48a07b3b4a121d74a3edbfdcdb4b08adbf0240b1",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/merge-stream/download/merge-stream-0.1.8.tgz",
+    "hash": "48a07b3b4a121d74a3edbfdcdb4b08adbf0240b1",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "48a07b3b4a121d74a3edbfdcdb4b08adbf0240b1"
+}

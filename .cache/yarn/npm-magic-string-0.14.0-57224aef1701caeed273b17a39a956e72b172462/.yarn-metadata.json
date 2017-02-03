@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/magic-string/download/magic-string-0.14.0.tgz#57224aef1701caeed273b17a39a956e72b172462",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/magic-string/download/magic-string-0.14.0.tgz",
+    "hash": "57224aef1701caeed273b17a39a956e72b172462",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "57224aef1701caeed273b17a39a956e72b172462"
+}

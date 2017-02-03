@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/concat-with-sourcemaps/download/concat-with-sourcemaps-1.0.4.tgz#f55b3be2aeb47601b10a2d5259ccfb70fd2f1dd6",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/concat-with-sourcemaps/download/concat-with-sourcemaps-1.0.4.tgz",
+    "hash": "f55b3be2aeb47601b10a2d5259ccfb70fd2f1dd6",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f55b3be2aeb47601b10a2d5259ccfb70fd2f1dd6"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/lodash._shimkeys/download/lodash._shimkeys-2.4.1.tgz#6e9cc9666ff081f0b5a6c978b83e242e6949d203",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/lodash._shimkeys/download/lodash._shimkeys-2.4.1.tgz",
+    "hash": "6e9cc9666ff081f0b5a6c978b83e242e6949d203",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6e9cc9666ff081f0b5a6c978b83e242e6949d203"
+}

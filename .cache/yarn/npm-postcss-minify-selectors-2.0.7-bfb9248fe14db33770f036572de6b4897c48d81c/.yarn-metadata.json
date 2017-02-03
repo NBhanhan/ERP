@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss-minify-selectors/download/postcss-minify-selectors-2.0.7.tgz#bfb9248fe14db33770f036572de6b4897c48d81c",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss-minify-selectors/download/postcss-minify-selectors-2.0.7.tgz",
+    "hash": "bfb9248fe14db33770f036572de6b4897c48d81c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "bfb9248fe14db33770f036572de6b4897c48d81c"
+}

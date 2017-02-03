@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/css-color-names/download/css-color-names-0.0.4.tgz#808adc2e79cf84738069b646cb20ec27beb629e0",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/css-color-names/download/css-color-names-0.0.4.tgz",
+    "hash": "808adc2e79cf84738069b646cb20ec27beb629e0",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "808adc2e79cf84738069b646cb20ec27beb629e0"
+}

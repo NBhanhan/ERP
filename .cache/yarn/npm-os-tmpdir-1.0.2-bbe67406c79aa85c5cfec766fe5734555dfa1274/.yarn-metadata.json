@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/os-tmpdir/download/os-tmpdir-1.0.2.tgz#bbe67406c79aa85c5cfec766fe5734555dfa1274",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/os-tmpdir/download/os-tmpdir-1.0.2.tgz",
+    "hash": "bbe67406c79aa85c5cfec766fe5734555dfa1274",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "bbe67406c79aa85c5cfec766fe5734555dfa1274"
+}

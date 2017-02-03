@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/gulp-autoprefixer/download/gulp-autoprefixer-2.3.1.tgz#f675d3b1bd76f088df2f24ab7ad3e4a059e07e67",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/gulp-autoprefixer/download/gulp-autoprefixer-2.3.1.tgz",
+    "hash": "f675d3b1bd76f088df2f24ab7ad3e4a059e07e67",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f675d3b1bd76f088df2f24ab7ad3e4a059e07e67"
+}

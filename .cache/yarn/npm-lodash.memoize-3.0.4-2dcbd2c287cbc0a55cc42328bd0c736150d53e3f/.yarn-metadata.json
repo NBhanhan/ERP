@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/lodash.memoize/download/lodash.memoize-3.0.4.tgz#2dcbd2c287cbc0a55cc42328bd0c736150d53e3f",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/lodash.memoize/download/lodash.memoize-3.0.4.tgz",
+    "hash": "2dcbd2c287cbc0a55cc42328bd0c736150d53e3f",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "2dcbd2c287cbc0a55cc42328bd0c736150d53e3f"
+}

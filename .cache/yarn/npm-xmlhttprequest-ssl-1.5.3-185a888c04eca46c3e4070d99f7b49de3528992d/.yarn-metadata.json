@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/xmlhttprequest-ssl/download/xmlhttprequest-ssl-1.5.3.tgz#185a888c04eca46c3e4070d99f7b49de3528992d",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/xmlhttprequest-ssl/download/xmlhttprequest-ssl-1.5.3.tgz",
+    "hash": "185a888c04eca46c3e4070d99f7b49de3528992d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "185a888c04eca46c3e4070d99f7b49de3528992d"
+}

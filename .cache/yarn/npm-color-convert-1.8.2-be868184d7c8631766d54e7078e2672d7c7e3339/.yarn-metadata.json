@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/color-convert/download/color-convert-1.8.2.tgz#be868184d7c8631766d54e7078e2672d7c7e3339",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/color-convert/download/color-convert-1.8.2.tgz",
+    "hash": "be868184d7c8631766d54e7078e2672d7c7e3339",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "be868184d7c8631766d54e7078e2672d7c7e3339"
+}

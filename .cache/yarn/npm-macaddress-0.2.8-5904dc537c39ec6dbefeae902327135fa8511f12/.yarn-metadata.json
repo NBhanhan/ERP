@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/macaddress/download/macaddress-0.2.8.tgz#5904dc537c39ec6dbefeae902327135fa8511f12",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/macaddress/download/macaddress-0.2.8.tgz",
+    "hash": "5904dc537c39ec6dbefeae902327135fa8511f12",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "5904dc537c39ec6dbefeae902327135fa8511f12"
+}

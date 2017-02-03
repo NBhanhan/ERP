@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/es6-promise/download/es6-promise-2.3.0.tgz#96edb9f2fdb01995822b263dd8aadab6748181bc",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/es6-promise/download/es6-promise-2.3.0.tgz",
+    "hash": "96edb9f2fdb01995822b263dd8aadab6748181bc",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "96edb9f2fdb01995822b263dd8aadab6748181bc"
+}

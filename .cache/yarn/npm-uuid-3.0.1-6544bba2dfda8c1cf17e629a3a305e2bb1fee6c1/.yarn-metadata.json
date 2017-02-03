@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/uuid/download/uuid-3.0.1.tgz#6544bba2dfda8c1cf17e629a3a305e2bb1fee6c1",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/uuid/download/uuid-3.0.1.tgz",
+    "hash": "6544bba2dfda8c1cf17e629a3a305e2bb1fee6c1",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6544bba2dfda8c1cf17e629a3a305e2bb1fee6c1"
+}

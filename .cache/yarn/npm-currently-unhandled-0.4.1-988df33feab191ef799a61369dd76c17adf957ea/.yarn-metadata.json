@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/currently-unhandled/download/currently-unhandled-0.4.1.tgz#988df33feab191ef799a61369dd76c17adf957ea",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/currently-unhandled/download/currently-unhandled-0.4.1.tgz",
+    "hash": "988df33feab191ef799a61369dd76c17adf957ea",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "988df33feab191ef799a61369dd76c17adf957ea"
+}

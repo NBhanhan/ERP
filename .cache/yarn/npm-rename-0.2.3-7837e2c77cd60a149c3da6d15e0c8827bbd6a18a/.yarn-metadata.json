@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/rename/download/rename-0.2.3.tgz#7837e2c77cd60a149c3da6d15e0c8827bbd6a18a",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/rename/download/rename-0.2.3.tgz",
+    "hash": "7837e2c77cd60a149c3da6d15e0c8827bbd6a18a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "7837e2c77cd60a149c3da6d15e0c8827bbd6a18a"
+}

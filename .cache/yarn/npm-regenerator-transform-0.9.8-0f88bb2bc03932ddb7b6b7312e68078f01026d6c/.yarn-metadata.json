@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/regenerator-transform/download/regenerator-transform-0.9.8.tgz#0f88bb2bc03932ddb7b6b7312e68078f01026d6c",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/regenerator-transform/download/regenerator-transform-0.9.8.tgz",
+    "hash": "0f88bb2bc03932ddb7b6b7312e68078f01026d6c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "0f88bb2bc03932ddb7b6b7312e68078f01026d6c"
+}

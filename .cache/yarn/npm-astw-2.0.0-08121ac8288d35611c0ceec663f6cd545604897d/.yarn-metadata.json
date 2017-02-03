@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/astw/download/astw-2.0.0.tgz#08121ac8288d35611c0ceec663f6cd545604897d",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/astw/download/astw-2.0.0.tgz",
+    "hash": "08121ac8288d35611c0ceec663f6cd545604897d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "08121ac8288d35611c0ceec663f6cd545604897d"
+}

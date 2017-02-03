@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/parents/download/parents-1.0.1.tgz#fedd4d2bf193a77745fe71e371d73c3307d9c751",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/parents/download/parents-1.0.1.tgz",
+    "hash": "fedd4d2bf193a77745fe71e371d73c3307d9c751",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "fedd4d2bf193a77745fe71e371d73c3307d9c751"
+}

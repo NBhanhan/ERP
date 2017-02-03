@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/create-hmac/download/create-hmac-1.1.4.tgz#d3fb4ba253eb8b3f56e39ea2fbcb8af747bd3170",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/create-hmac/download/create-hmac-1.1.4.tgz",
+    "hash": "d3fb4ba253eb8b3f56e39ea2fbcb8af747bd3170",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d3fb4ba253eb8b3f56e39ea2fbcb8af747bd3170"
+}

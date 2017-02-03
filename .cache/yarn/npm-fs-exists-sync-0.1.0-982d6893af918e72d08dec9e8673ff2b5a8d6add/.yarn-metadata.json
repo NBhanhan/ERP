@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/fs-exists-sync/download/fs-exists-sync-0.1.0.tgz#982d6893af918e72d08dec9e8673ff2b5a8d6add",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/fs-exists-sync/download/fs-exists-sync-0.1.0.tgz",
+    "hash": "982d6893af918e72d08dec9e8673ff2b5a8d6add",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "982d6893af918e72d08dec9e8673ff2b5a8d6add"
+}

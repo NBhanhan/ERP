@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/cross-spawn/download/cross-spawn-3.0.1.tgz#1256037ecb9f0c5f79e3d6ef135e30770184b982",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/cross-spawn/download/cross-spawn-3.0.1.tgz",
+    "hash": "1256037ecb9f0c5f79e3d6ef135e30770184b982",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1256037ecb9f0c5f79e3d6ef135e30770184b982"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.6.1.tgz#633d16c95d88504628ad02665663cee5a4793353",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.6.1.tgz",
+    "hash": "633d16c95d88504628ad02665663cee5a4793353",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "633d16c95d88504628ad02665663cee5a4793353"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/flatten/download/flatten-1.0.2.tgz#dae46a9d78fbe25292258cc1e780a41d95c03782",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/flatten/download/flatten-1.0.2.tgz",
+    "hash": "dae46a9d78fbe25292258cc1e780a41d95c03782",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "dae46a9d78fbe25292258cc1e780a41d95c03782"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/archy/download/archy-1.0.0.tgz#f9c8c13757cc1dd7bc379ac77b2c62a5c2868c40",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/archy/download/archy-1.0.0.tgz",
+    "hash": "f9c8c13757cc1dd7bc379ac77b2c62a5c2868c40",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f9c8c13757cc1dd7bc379ac77b2c62a5c2868c40"
+}

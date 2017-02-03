@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/svgo/download/svgo-0.7.1.tgz#287320fed972cb097e72c2bb1685f96fe08f8034",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/svgo/download/svgo-0.7.1.tgz",
+    "hash": "287320fed972cb097e72c2bb1685f96fe08f8034",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "287320fed972cb097e72c2bb1685f96fe08f8034"
+}

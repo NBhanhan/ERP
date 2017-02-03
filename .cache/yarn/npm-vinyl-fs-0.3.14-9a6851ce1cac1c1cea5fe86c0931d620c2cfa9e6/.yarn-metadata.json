@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/vinyl-fs/download/vinyl-fs-0.3.14.tgz#9a6851ce1cac1c1cea5fe86c0931d620c2cfa9e6",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/vinyl-fs/download/vinyl-fs-0.3.14.tgz",
+    "hash": "9a6851ce1cac1c1cea5fe86c0931d620c2cfa9e6",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "9a6851ce1cac1c1cea5fe86c0931d620c2cfa9e6"
+}

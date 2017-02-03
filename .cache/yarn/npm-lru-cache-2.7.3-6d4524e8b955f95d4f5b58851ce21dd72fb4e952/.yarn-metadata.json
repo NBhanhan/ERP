@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/lru-cache/download/lru-cache-2.7.3.tgz#6d4524e8b955f95d4f5b58851ce21dd72fb4e952",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/lru-cache/download/lru-cache-2.7.3.tgz",
+    "hash": "6d4524e8b955f95d4f5b58851ce21dd72fb4e952",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6d4524e8b955f95d4f5b58851ce21dd72fb4e952"
+}

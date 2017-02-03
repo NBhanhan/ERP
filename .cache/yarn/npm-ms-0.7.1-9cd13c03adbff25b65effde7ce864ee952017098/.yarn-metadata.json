@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/ms/download/ms-0.7.1.tgz#9cd13c03adbff25b65effde7ce864ee952017098",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/ms/download/ms-0.7.1.tgz",
+    "hash": "9cd13c03adbff25b65effde7ce864ee952017098",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "9cd13c03adbff25b65effde7ce864ee952017098"
+}

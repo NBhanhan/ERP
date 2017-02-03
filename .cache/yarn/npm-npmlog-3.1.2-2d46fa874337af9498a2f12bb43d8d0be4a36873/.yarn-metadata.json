@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/npmlog/download/npmlog-3.1.2.tgz#2d46fa874337af9498a2f12bb43d8d0be4a36873",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/npmlog/download/npmlog-3.1.2.tgz",
+    "hash": "2d46fa874337af9498a2f12bb43d8d0be4a36873",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "2d46fa874337af9498a2f12bb43d8d0be4a36873"
+}

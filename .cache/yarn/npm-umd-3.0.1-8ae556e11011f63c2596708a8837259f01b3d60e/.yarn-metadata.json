@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/umd/download/umd-3.0.1.tgz#8ae556e11011f63c2596708a8837259f01b3d60e",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/umd/download/umd-3.0.1.tgz",
+    "hash": "8ae556e11011f63c2596708a8837259f01b3d60e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "8ae556e11011f63c2596708a8837259f01b3d60e"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss-minify-params/download/postcss-minify-params-1.2.1.tgz#c899444d9e2ff8933018befac151fbfadf10e737",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss-minify-params/download/postcss-minify-params-1.2.1.tgz",
+    "hash": "c899444d9e2ff8933018befac151fbfadf10e737",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c899444d9e2ff8933018befac151fbfadf10e737"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/component-bind/download/component-bind-1.0.0.tgz#00c608ab7dcd93897c0009651b1d3a8e1e73bbd1",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/component-bind/download/component-bind-1.0.0.tgz",
+    "hash": "00c608ab7dcd93897c0009651b1d3a8e1e73bbd1",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "00c608ab7dcd93897c0009651b1d3a8e1e73bbd1"
+}

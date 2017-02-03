@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/map-cache/download/map-cache-0.2.2.tgz#c32abd0bd6525d9b051645bb4f26ac5dc98a0dbf",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/map-cache/download/map-cache-0.2.2.tgz",
+    "hash": "c32abd0bd6525d9b051645bb4f26ac5dc98a0dbf",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c32abd0bd6525d9b051645bb4f26ac5dc98a0dbf"
+}

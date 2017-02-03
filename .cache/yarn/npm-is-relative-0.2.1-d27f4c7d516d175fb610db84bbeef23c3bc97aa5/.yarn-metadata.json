@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/is-relative/download/is-relative-0.2.1.tgz#d27f4c7d516d175fb610db84bbeef23c3bc97aa5",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/is-relative/download/is-relative-0.2.1.tgz",
+    "hash": "d27f4c7d516d175fb610db84bbeef23c3bc97aa5",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d27f4c7d516d175fb610db84bbeef23c3bc97aa5"
+}

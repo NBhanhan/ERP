@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/watchify/download/watchify-3.8.0.tgz#a5cacc3517ca1e637d7b0af745375cafb597d6bb",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/watchify/download/watchify-3.8.0.tgz",
+    "hash": "a5cacc3517ca1e637d7b0af745375cafb597d6bb",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a5cacc3517ca1e637d7b0af745375cafb597d6bb"
+}

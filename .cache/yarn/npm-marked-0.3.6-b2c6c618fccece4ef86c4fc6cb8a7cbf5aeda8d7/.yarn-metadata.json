@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/marked/download/marked-0.3.6.tgz#b2c6c618fccece4ef86c4fc6cb8a7cbf5aeda8d7",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/marked/download/marked-0.3.6.tgz",
+    "hash": "b2c6c618fccece4ef86c4fc6cb8a7cbf5aeda8d7",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b2c6c618fccece4ef86c4fc6cb8a7cbf5aeda8d7"
+}

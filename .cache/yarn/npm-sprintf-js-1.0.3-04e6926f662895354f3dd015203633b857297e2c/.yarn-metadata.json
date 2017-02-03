@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/sprintf-js/download/sprintf-js-1.0.3.tgz#04e6926f662895354f3dd015203633b857297e2c",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/sprintf-js/download/sprintf-js-1.0.3.tgz",
+    "hash": "04e6926f662895354f3dd015203633b857297e2c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "04e6926f662895354f3dd015203633b857297e2c"
+}

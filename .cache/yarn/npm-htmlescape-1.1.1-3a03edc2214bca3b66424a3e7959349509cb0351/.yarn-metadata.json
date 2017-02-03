@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/htmlescape/download/htmlescape-1.1.1.tgz#3a03edc2214bca3b66424a3e7959349509cb0351",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/htmlescape/download/htmlescape-1.1.1.tgz",
+    "hash": "3a03edc2214bca3b66424a3e7959349509cb0351",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "3a03edc2214bca3b66424a3e7959349509cb0351"
+}

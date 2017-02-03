@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/resp-modifier/download/resp-modifier-6.0.2.tgz#b124de5c4fbafcba541f48ffa73970f4aa456b4f",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/resp-modifier/download/resp-modifier-6.0.2.tgz",
+    "hash": "b124de5c4fbafcba541f48ffa73970f4aa456b4f",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b124de5c4fbafcba541f48ffa73970f4aa456b4f"
+}

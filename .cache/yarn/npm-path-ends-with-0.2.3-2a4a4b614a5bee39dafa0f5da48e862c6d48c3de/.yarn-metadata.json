@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/path-ends-with/download/path-ends-with-0.2.3.tgz#2a4a4b614a5bee39dafa0f5da48e862c6d48c3de",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/path-ends-with/download/path-ends-with-0.2.3.tgz",
+    "hash": "2a4a4b614a5bee39dafa0f5da48e862c6d48c3de",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "2a4a4b614a5bee39dafa0f5da48e862c6d48c3de"
+}

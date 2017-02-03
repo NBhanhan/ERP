@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/easy-extender/download/easy-extender-2.3.2.tgz#3d3248febe2b159607316d8f9cf491c16648221d",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/easy-extender/download/easy-extender-2.3.2.tgz",
+    "hash": "3d3248febe2b159607316d8f9cf491c16648221d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "3d3248febe2b159607316d8f9cf491c16648221d"
+}

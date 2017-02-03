@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss-convert-values/download/postcss-convert-values-2.5.0.tgz#570aceb04b3061fb25f6f46bd0329e7ab6263c0b",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss-convert-values/download/postcss-convert-values-2.5.0.tgz",
+    "hash": "570aceb04b3061fb25f6f46bd0329e7ab6263c0b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "570aceb04b3061fb25f6f46bd0329e7ab6263c0b"
+}

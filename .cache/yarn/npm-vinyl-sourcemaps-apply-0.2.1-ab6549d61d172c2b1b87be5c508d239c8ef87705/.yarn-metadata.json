@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/vinyl-sourcemaps-apply/download/vinyl-sourcemaps-apply-0.2.1.tgz#ab6549d61d172c2b1b87be5c508d239c8ef87705",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/vinyl-sourcemaps-apply/download/vinyl-sourcemaps-apply-0.2.1.tgz",
+    "hash": "ab6549d61d172c2b1b87be5c508d239c8ef87705",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ab6549d61d172c2b1b87be5c508d239c8ef87705"
+}

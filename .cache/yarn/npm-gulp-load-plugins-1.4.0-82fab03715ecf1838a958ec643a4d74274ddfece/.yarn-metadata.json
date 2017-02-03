@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/gulp-load-plugins/download/gulp-load-plugins-1.4.0.tgz#82fab03715ecf1838a958ec643a4d74274ddfece",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/gulp-load-plugins/download/gulp-load-plugins-1.4.0.tgz",
+    "hash": "82fab03715ecf1838a958ec643a4d74274ddfece",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "82fab03715ecf1838a958ec643a4d74274ddfece"
+}

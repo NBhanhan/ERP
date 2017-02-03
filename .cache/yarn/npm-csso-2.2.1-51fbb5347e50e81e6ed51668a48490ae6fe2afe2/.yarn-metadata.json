@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/csso/download/csso-2.2.1.tgz#51fbb5347e50e81e6ed51668a48490ae6fe2afe2",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/csso/download/csso-2.2.1.tgz",
+    "hash": "51fbb5347e50e81e6ed51668a48490ae6fe2afe2",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "51fbb5347e50e81e6ed51668a48490ae6fe2afe2"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/sigmund/download/sigmund-1.0.1.tgz#3ff21f198cad2175f9f3b781853fd94d0d19b590",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/sigmund/download/sigmund-1.0.1.tgz",
+    "hash": "3ff21f198cad2175f9f3b781853fd94d0d19b590",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "3ff21f198cad2175f9f3b781853fd94d0d19b590"
+}

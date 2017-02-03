@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/mkdirp/download/mkdirp-0.3.0.tgz#1bbf5ab1ba827af23575143490426455f481fe1e",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/mkdirp/download/mkdirp-0.3.0.tgz",
+    "hash": "1bbf5ab1ba827af23575143490426455f481fe1e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1bbf5ab1ba827af23575143490426455f481fe1e"
+}

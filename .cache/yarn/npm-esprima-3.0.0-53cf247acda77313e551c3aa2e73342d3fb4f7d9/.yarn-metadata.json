@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/esprima/download/esprima-3.0.0.tgz#53cf247acda77313e551c3aa2e73342d3fb4f7d9",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/esprima/download/esprima-3.0.0.tgz",
+    "hash": "53cf247acda77313e551c3aa2e73342d3fb4f7d9",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "53cf247acda77313e551c3aa2e73342d3fb4f7d9"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/detective/download/detective-4.3.2.tgz#77697e2e7947ac3fe7c8e26a6d6f115235afa91c",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/detective/download/detective-4.3.2.tgz",
+    "hash": "77697e2e7947ac3fe7c8e26a6d6f115235afa91c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "77697e2e7947ac3fe7c8e26a6d6f115235afa91c"
+}

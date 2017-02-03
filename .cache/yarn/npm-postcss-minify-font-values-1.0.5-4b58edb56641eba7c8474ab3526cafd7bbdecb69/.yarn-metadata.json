@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss-minify-font-values/download/postcss-minify-font-values-1.0.5.tgz#4b58edb56641eba7c8474ab3526cafd7bbdecb69",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss-minify-font-values/download/postcss-minify-font-values-1.0.5.tgz",
+    "hash": "4b58edb56641eba7c8474ab3526cafd7bbdecb69",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "4b58edb56641eba7c8474ab3526cafd7bbdecb69"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/prr/download/prr-0.0.0.tgz#1a84b85908325501411853d0081ee3fa86e2926a",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/prr/download/prr-0.0.0.tgz",
+    "hash": "1a84b85908325501411853d0081ee3fa86e2926a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1a84b85908325501411853d0081ee3fa86e2926a"
+}

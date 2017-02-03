@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-plugin-transform-react-jsx-source/download/babel-plugin-transform-react-jsx-source-6.9.0.tgz#af684a05c2067a86e0957d4f343295ccf5dccf00",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-plugin-transform-react-jsx-source/download/babel-plugin-transform-react-jsx-source-6.9.0.tgz",
+    "hash": "af684a05c2067a86e0957d4f343295ccf5dccf00",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "af684a05c2067a86e0957d4f343295ccf5dccf00"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-block-scoping/download/babel-plugin-transform-es2015-block-scoping-6.21.0.tgz#e840687f922e70fb2c42bb13501838c174a115ed",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-block-scoping/download/babel-plugin-transform-es2015-block-scoping-6.21.0.tgz",
+    "hash": "e840687f922e70fb2c42bb13501838c174a115ed",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e840687f922e70fb2c42bb13501838c174a115ed"
+}

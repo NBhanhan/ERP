@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/replace-ext/download/replace-ext-1.0.0.tgz#de63128373fcbf7c3ccfa4de5a480c45a67958eb",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/replace-ext/download/replace-ext-1.0.0.tgz",
+    "hash": "de63128373fcbf7c3ccfa4de5a480c45a67958eb",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "de63128373fcbf7c3ccfa4de5a480c45a67958eb"
+}

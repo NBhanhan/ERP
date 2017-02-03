@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-helper-function-name/download/babel-helper-function-name-6.18.0.tgz#68ec71aeba1f3e28b2a6f0730190b754a9bf30e6",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-helper-function-name/download/babel-helper-function-name-6.18.0.tgz",
+    "hash": "68ec71aeba1f3e28b2a6f0730190b754a9bf30e6",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "68ec71aeba1f3e28b2a6f0730190b754a9bf30e6"
+}

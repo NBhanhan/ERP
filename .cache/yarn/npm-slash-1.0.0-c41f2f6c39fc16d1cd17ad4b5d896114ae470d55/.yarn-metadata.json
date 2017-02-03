@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/slash/download/slash-1.0.0.tgz#c41f2f6c39fc16d1cd17ad4b5d896114ae470d55",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/slash/download/slash-1.0.0.tgz",
+    "hash": "c41f2f6c39fc16d1cd17ad4b5d896114ae470d55",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c41f2f6c39fc16d1cd17ad4b5d896114ae470d55"
+}

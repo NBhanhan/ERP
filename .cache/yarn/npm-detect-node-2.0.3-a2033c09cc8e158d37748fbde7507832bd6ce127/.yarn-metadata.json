@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/detect-node/download/detect-node-2.0.3.tgz#a2033c09cc8e158d37748fbde7507832bd6ce127",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/detect-node/download/detect-node-2.0.3.tgz",
+    "hash": "a2033c09cc8e158d37748fbde7507832bd6ce127",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a2033c09cc8e158d37748fbde7507832bd6ce127"
+}

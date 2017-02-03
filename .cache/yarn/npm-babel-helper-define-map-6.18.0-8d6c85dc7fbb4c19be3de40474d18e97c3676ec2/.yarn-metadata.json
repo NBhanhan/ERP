@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-helper-define-map/download/babel-helper-define-map-6.18.0.tgz#8d6c85dc7fbb4c19be3de40474d18e97c3676ec2",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-helper-define-map/download/babel-helper-define-map-6.18.0.tgz",
+    "hash": "8d6c85dc7fbb4c19be3de40474d18e97c3676ec2",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "8d6c85dc7fbb4c19be3de40474d18e97c3676ec2"
+}

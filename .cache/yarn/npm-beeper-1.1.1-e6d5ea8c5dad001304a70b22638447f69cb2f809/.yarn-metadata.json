@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/beeper/download/beeper-1.1.1.tgz#e6d5ea8c5dad001304a70b22638447f69cb2f809",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/beeper/download/beeper-1.1.1.tgz",
+    "hash": "e6d5ea8c5dad001304a70b22638447f69cb2f809",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e6d5ea8c5dad001304a70b22638447f69cb2f809"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/getpass/download/getpass-0.1.6.tgz#283ffd9fc1256840875311c1b60e8c40187110e6",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/getpass/download/getpass-0.1.6.tgz",
+    "hash": "283ffd9fc1256840875311c1b60e8c40187110e6",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "283ffd9fc1256840875311c1b60e8c40187110e6"
+}

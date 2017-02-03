@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/gulp-cssnano/download/gulp-cssnano-2.1.2.tgz#e08a09771ec5454a549f1a005bdd256cb8e5e0a3",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/gulp-cssnano/download/gulp-cssnano-2.1.2.tgz",
+    "hash": "e08a09771ec5454a549f1a005bdd256cb8e5e0a3",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e08a09771ec5454a549f1a005bdd256cb8e5e0a3"
+}

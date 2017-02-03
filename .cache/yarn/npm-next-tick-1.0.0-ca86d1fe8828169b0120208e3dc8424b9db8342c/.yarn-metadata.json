@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/next-tick/download/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/next-tick/download/next-tick-1.0.0.tgz",
+    "hash": "ca86d1fe8828169b0120208e3dc8424b9db8342c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ca86d1fe8828169b0120208e3dc8424b9db8342c"
+}

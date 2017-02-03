@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/qs/download/qs-6.2.1.tgz#ce03c5ff0935bc1d9d69a9f14cbd18e568d67625",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/qs/download/qs-6.2.1.tgz",
+    "hash": "ce03c5ff0935bc1d9d69a9f14cbd18e568d67625",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ce03c5ff0935bc1d9d69a9f14cbd18e568d67625"
+}

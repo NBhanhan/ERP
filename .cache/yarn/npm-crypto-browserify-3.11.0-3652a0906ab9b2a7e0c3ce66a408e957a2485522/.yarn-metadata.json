@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/crypto-browserify/download/crypto-browserify-3.11.0.tgz#3652a0906ab9b2a7e0c3ce66a408e957a2485522",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/crypto-browserify/download/crypto-browserify-3.11.0.tgz",
+    "hash": "3652a0906ab9b2a7e0c3ce66a408e957a2485522",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "3652a0906ab9b2a7e0c3ce66a408e957a2485522"
+}

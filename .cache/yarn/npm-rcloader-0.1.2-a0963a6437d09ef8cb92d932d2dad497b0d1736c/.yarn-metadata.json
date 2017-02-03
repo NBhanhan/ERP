@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/rcloader/download/rcloader-0.1.2.tgz#a0963a6437d09ef8cb92d932d2dad497b0d1736c",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/rcloader/download/rcloader-0.1.2.tgz",
+    "hash": "a0963a6437d09ef8cb92d932d2dad497b0d1736c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a0963a6437d09ef8cb92d932d2dad497b0d1736c"
+}

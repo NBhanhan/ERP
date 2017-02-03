@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/less/download/less-2.7.1.tgz#6cbfea22b3b830304e9a5fb371d54fa480c9d7cf",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/less/download/less-2.7.1.tgz",
+    "hash": "6cbfea22b3b830304e9a5fb371d54fa480c9d7cf",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6cbfea22b3b830304e9a5fb371d54fa480c9d7cf"
+}

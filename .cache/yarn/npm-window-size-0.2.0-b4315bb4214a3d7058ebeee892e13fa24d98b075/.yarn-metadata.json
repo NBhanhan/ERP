@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/window-size/download/window-size-0.2.0.tgz#b4315bb4214a3d7058ebeee892e13fa24d98b075",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/window-size/download/window-size-0.2.0.tgz",
+    "hash": "b4315bb4214a3d7058ebeee892e13fa24d98b075",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b4315bb4214a3d7058ebeee892e13fa24d98b075"
+}

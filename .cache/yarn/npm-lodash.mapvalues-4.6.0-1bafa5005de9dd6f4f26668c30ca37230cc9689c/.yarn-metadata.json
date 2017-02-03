@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/lodash.mapvalues/download/lodash.mapvalues-4.6.0.tgz#1bafa5005de9dd6f4f26668c30ca37230cc9689c",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/lodash.mapvalues/download/lodash.mapvalues-4.6.0.tgz",
+    "hash": "1bafa5005de9dd6f4f26668c30ca37230cc9689c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1bafa5005de9dd6f4f26668c30ca37230cc9689c"
+}

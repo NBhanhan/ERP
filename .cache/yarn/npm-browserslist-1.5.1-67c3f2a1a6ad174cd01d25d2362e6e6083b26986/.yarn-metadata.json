@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/browserslist/download/browserslist-1.5.1.tgz#67c3f2a1a6ad174cd01d25d2362e6e6083b26986",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/browserslist/download/browserslist-1.5.1.tgz",
+    "hash": "67c3f2a1a6ad174cd01d25d2362e6e6083b26986",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "67c3f2a1a6ad174cd01d25d2362e6e6083b26986"
+}

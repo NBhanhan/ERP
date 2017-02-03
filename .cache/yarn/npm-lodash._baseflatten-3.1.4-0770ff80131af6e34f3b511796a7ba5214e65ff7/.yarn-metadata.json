@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/lodash._baseflatten/download/lodash._baseflatten-3.1.4.tgz#0770ff80131af6e34f3b511796a7ba5214e65ff7",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/lodash._baseflatten/download/lodash._baseflatten-3.1.4.tgz",
+    "hash": "0770ff80131af6e34f3b511796a7ba5214e65ff7",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "0770ff80131af6e34f3b511796a7ba5214e65ff7"
+}

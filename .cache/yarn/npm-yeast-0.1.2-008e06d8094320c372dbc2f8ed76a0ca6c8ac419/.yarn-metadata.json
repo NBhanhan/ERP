@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/yeast/download/yeast-0.1.2.tgz#008e06d8094320c372dbc2f8ed76a0ca6c8ac419",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/yeast/download/yeast-0.1.2.tgz",
+    "hash": "008e06d8094320c372dbc2f8ed76a0ca6c8ac419",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "008e06d8094320c372dbc2f8ed76a0ca6c8ac419"
+}

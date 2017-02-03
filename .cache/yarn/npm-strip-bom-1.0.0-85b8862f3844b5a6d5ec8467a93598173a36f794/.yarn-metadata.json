@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/strip-bom/download/strip-bom-1.0.0.tgz#85b8862f3844b5a6d5ec8467a93598173a36f794",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/strip-bom/download/strip-bom-1.0.0.tgz",
+    "hash": "85b8862f3844b5a6d5ec8467a93598173a36f794",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "85b8862f3844b5a6d5ec8467a93598173a36f794"
+}

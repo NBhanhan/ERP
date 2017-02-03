@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/builtin-status-codes/download/builtin-status-codes-1.0.0.tgz#30637ee262978ac07174e16d7f82f0ad06e085ad",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/builtin-status-codes/download/builtin-status-codes-1.0.0.tgz",
+    "hash": "30637ee262978ac07174e16d7f82f0ad06e085ad",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "30637ee262978ac07174e16d7f82f0ad06e085ad"
+}

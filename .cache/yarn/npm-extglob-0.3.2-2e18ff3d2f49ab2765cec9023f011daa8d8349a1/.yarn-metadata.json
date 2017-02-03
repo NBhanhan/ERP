@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/extglob/download/extglob-0.3.2.tgz#2e18ff3d2f49ab2765cec9023f011daa8d8349a1",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/extglob/download/extglob-0.3.2.tgz",
+    "hash": "2e18ff3d2f49ab2765cec9023f011daa8d8349a1",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "2e18ff3d2f49ab2765cec9023f011daa8d8349a1"
+}

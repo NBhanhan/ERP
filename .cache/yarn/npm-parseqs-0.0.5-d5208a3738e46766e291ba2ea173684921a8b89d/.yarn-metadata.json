@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/parseqs/download/parseqs-0.0.5.tgz#d5208a3738e46766e291ba2ea173684921a8b89d",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/parseqs/download/parseqs-0.0.5.tgz",
+    "hash": "d5208a3738e46766e291ba2ea173684921a8b89d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d5208a3738e46766e291ba2ea173684921a8b89d"
+}

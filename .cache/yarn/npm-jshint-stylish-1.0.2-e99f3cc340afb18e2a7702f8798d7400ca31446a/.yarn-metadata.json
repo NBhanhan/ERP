@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/jshint-stylish/download/jshint-stylish-1.0.2.tgz#e99f3cc340afb18e2a7702f8798d7400ca31446a",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/jshint-stylish/download/jshint-stylish-1.0.2.tgz",
+    "hash": "e99f3cc340afb18e2a7702f8798d7400ca31446a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e99f3cc340afb18e2a7702f8798d7400ca31446a"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/is-svg/download/is-svg-2.1.0.tgz#cf61090da0d9efbcab8722deba6f032208dbb0e9",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/is-svg/download/is-svg-2.1.0.tgz",
+    "hash": "cf61090da0d9efbcab8722deba6f032208dbb0e9",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "cf61090da0d9efbcab8722deba6f032208dbb0e9"
+}

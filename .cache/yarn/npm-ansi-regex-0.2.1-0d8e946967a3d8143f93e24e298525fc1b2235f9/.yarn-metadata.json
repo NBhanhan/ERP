@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/ansi-regex/download/ansi-regex-0.2.1.tgz#0d8e946967a3d8143f93e24e298525fc1b2235f9",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/ansi-regex/download/ansi-regex-0.2.1.tgz",
+    "hash": "0d8e946967a3d8143f93e24e298525fc1b2235f9",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "0d8e946967a3d8143f93e24e298525fc1b2235f9"
+}

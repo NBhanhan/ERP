@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/ripemd160/download/ripemd160-1.0.1.tgz#93a4bbd4942bc574b69a8fa57c71de10ecca7d6e",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/ripemd160/download/ripemd160-1.0.1.tgz",
+    "hash": "93a4bbd4942bc574b69a8fa57c71de10ecca7d6e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "93a4bbd4942bc574b69a8fa57c71de10ecca7d6e"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/strict-uri-encode/download/strict-uri-encode-1.1.0.tgz#279b225df1d582b1f54e65addd4352e18faa0713",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/strict-uri-encode/download/strict-uri-encode-1.1.0.tgz",
+    "hash": "279b225df1d582b1f54e65addd4352e18faa0713",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "279b225df1d582b1f54e65addd4352e18faa0713"
+}

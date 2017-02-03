@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/parse-passwd/download/parse-passwd-1.0.0.tgz#6d5b934a456993b23d37f40a382d6f1666a8e5c6",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/parse-passwd/download/parse-passwd-1.0.0.tgz",
+    "hash": "6d5b934a456993b23d37f40a382d6f1666a8e5c6",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6d5b934a456993b23d37f40a382d6f1666a8e5c6"
+}

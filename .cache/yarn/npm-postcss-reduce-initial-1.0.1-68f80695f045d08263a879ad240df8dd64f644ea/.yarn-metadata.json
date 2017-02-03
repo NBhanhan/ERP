@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss-reduce-initial/download/postcss-reduce-initial-1.0.1.tgz#68f80695f045d08263a879ad240df8dd64f644ea",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss-reduce-initial/download/postcss-reduce-initial-1.0.1.tgz",
+    "hash": "68f80695f045d08263a879ad240df8dd64f644ea",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "68f80695f045d08263a879ad240df8dd64f644ea"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/indexes-of/download/indexes-of-1.0.1.tgz#f30f716c8e2bd346c7b67d3df3915566a7c05607",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/indexes-of/download/indexes-of-1.0.1.tgz",
+    "hash": "f30f716c8e2bd346c7b67d3df3915566a7c05607",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f30f716c8e2bd346c7b67d3df3915566a7c05607"
+}

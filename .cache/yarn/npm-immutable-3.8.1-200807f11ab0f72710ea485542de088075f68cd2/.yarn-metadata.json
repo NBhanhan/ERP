@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/immutable/download/immutable-3.8.1.tgz#200807f11ab0f72710ea485542de088075f68cd2",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/immutable/download/immutable-3.8.1.tgz",
+    "hash": "200807f11ab0f72710ea485542de088075f68cd2",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "200807f11ab0f72710ea485542de088075f68cd2"
+}

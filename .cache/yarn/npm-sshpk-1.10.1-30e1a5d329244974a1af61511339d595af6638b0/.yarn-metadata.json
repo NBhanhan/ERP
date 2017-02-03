@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/sshpk/download/sshpk-1.10.1.tgz#30e1a5d329244974a1af61511339d595af6638b0",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/sshpk/download/sshpk-1.10.1.tgz",
+    "hash": "30e1a5d329244974a1af61511339d595af6638b0",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "30e1a5d329244974a1af61511339d595af6638b0"
+}

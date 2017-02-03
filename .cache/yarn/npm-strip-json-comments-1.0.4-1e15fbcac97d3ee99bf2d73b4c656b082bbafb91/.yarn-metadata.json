@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/strip-json-comments/download/strip-json-comments-1.0.4.tgz#1e15fbcac97d3ee99bf2d73b4c656b082bbafb91",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/strip-json-comments/download/strip-json-comments-1.0.4.tgz",
+    "hash": "1e15fbcac97d3ee99bf2d73b4c656b082bbafb91",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1e15fbcac97d3ee99bf2d73b4c656b082bbafb91"
+}

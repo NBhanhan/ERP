@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss-discard-duplicates/download/postcss-discard-duplicates-2.0.2.tgz#02be520e91571ffb10738766a981d5770989bb32",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss-discard-duplicates/download/postcss-discard-duplicates-2.0.2.tgz",
+    "hash": "02be520e91571ffb10738766a981d5770989bb32",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "02be520e91571ffb10738766a981d5770989bb32"
+}

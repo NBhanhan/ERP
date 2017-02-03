@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/gulp-phpspec/download/gulp-phpspec-0.5.4.tgz#de9e246efd9ce867fe4e3fda82daa5b47a478568",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/gulp-phpspec/download/gulp-phpspec-0.5.4.tgz",
+    "hash": "de9e246efd9ce867fe4e3fda82daa5b47a478568",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "de9e246efd9ce867fe4e3fda82daa5b47a478568"
+}

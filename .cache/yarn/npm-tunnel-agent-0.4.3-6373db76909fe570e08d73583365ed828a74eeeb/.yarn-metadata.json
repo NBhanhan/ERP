@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/tunnel-agent/download/tunnel-agent-0.4.3.tgz#6373db76909fe570e08d73583365ed828a74eeeb",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/tunnel-agent/download/tunnel-agent-0.4.3.tgz",
+    "hash": "6373db76909fe570e08d73583365ed828a74eeeb",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6373db76909fe570e08d73583365ed828a74eeeb"
+}

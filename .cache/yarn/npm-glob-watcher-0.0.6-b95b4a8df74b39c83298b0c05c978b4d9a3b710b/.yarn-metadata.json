@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/glob-watcher/download/glob-watcher-0.0.6.tgz#b95b4a8df74b39c83298b0c05c978b4d9a3b710b",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/glob-watcher/download/glob-watcher-0.0.6.tgz",
+    "hash": "b95b4a8df74b39c83298b0c05c978b4d9a3b710b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b95b4a8df74b39c83298b0c05c978b4d9a3b710b"
+}

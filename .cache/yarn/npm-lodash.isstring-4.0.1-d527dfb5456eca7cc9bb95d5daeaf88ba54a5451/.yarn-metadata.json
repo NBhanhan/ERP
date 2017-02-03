@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/lodash.isstring/download/lodash.isstring-4.0.1.tgz#d527dfb5456eca7cc9bb95d5daeaf88ba54a5451",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/lodash.isstring/download/lodash.isstring-4.0.1.tgz",
+    "hash": "d527dfb5456eca7cc9bb95d5daeaf88ba54a5451",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d527dfb5456eca7cc9bb95d5daeaf88ba54a5451"
+}

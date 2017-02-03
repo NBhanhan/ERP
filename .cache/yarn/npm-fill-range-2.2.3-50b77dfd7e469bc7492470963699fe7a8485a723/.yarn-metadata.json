@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/fill-range/download/fill-range-2.2.3.tgz#50b77dfd7e469bc7492470963699fe7a8485a723",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/fill-range/download/fill-range-2.2.3.tgz",
+    "hash": "50b77dfd7e469bc7492470963699fe7a8485a723",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "50b77dfd7e469bc7492470963699fe7a8485a723"
+}

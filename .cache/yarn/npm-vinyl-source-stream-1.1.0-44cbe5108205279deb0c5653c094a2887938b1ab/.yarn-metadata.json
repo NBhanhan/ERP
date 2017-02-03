@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/vinyl-source-stream/download/vinyl-source-stream-1.1.0.tgz#44cbe5108205279deb0c5653c094a2887938b1ab",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/vinyl-source-stream/download/vinyl-source-stream-1.1.0.tgz",
+    "hash": "44cbe5108205279deb0c5653c094a2887938b1ab",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "44cbe5108205279deb0c5653c094a2887938b1ab"
+}

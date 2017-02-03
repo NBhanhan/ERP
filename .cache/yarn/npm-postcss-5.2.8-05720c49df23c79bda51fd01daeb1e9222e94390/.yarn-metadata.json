@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss/download/postcss-5.2.8.tgz#05720c49df23c79bda51fd01daeb1e9222e94390",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss/download/postcss-5.2.8.tgz",
+    "hash": "05720c49df23c79bda51fd01daeb1e9222e94390",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "05720c49df23c79bda51fd01daeb1e9222e94390"
+}

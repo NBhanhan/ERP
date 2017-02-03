@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/ultron/download/ultron-1.0.2.tgz#ace116ab557cd197386a4e88f4685378c8b2e4fa",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/ultron/download/ultron-1.0.2.tgz",
+    "hash": "ace116ab557cd197386a4e88f4685378c8b2e4fa",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ace116ab557cd197386a4e88f4685378c8b2e4fa"
+}

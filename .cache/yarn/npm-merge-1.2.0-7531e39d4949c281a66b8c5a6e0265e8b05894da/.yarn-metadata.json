@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/merge/download/merge-1.2.0.tgz#7531e39d4949c281a66b8c5a6e0265e8b05894da",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/merge/download/merge-1.2.0.tgz",
+    "hash": "7531e39d4949c281a66b8c5a6e0265e8b05894da",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "7531e39d4949c281a66b8c5a6e0265e8b05894da"
+}

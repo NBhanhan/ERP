@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/caniuse-db/download/caniuse-db-1.0.30000602.tgz#06b2cbfb6c3aeef7ddb18cd588043549ad1a2d4e",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/caniuse-db/download/caniuse-db-1.0.30000602.tgz",
+    "hash": "06b2cbfb6c3aeef7ddb18cd588043549ad1a2d4e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "06b2cbfb6c3aeef7ddb18cd588043549ad1a2d4e"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/stream-exhaust/download/stream-exhaust-1.0.1.tgz#c0c4455e54ce5a179ca8736e73334b4e7fd67553",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/stream-exhaust/download/stream-exhaust-1.0.1.tgz",
+    "hash": "c0c4455e54ce5a179ca8736e73334b4e7fd67553",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c0c4455e54ce5a179ca8736e73334b4e7fd67553"
+}

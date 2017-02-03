@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/tildify/download/tildify-1.2.0.tgz#dcec03f55dca9b7aa3e5b04f21817eb56e63588a",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/tildify/download/tildify-1.2.0.tgz",
+    "hash": "dcec03f55dca9b7aa3e5b04f21817eb56e63588a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "dcec03f55dca9b7aa3e5b04f21817eb56e63588a"
+}

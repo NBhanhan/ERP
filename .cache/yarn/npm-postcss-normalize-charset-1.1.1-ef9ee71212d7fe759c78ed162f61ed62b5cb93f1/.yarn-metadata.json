@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss-normalize-charset/download/postcss-normalize-charset-1.1.1.tgz#ef9ee71212d7fe759c78ed162f61ed62b5cb93f1",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss-normalize-charset/download/postcss-normalize-charset-1.1.1.tgz",
+    "hash": "ef9ee71212d7fe759c78ed162f61ed62b5cb93f1",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ef9ee71212d7fe759c78ed162f61ed62b5cb93f1"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/node-emoji/download/node-emoji-1.4.3.tgz#5272f70b823c4df6d7c39f84fd8203f35b3e5d36",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/node-emoji/download/node-emoji-1.4.3.tgz",
+    "hash": "5272f70b823c4df6d7c39f84fd8203f35b3e5d36",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "5272f70b823c4df6d7c39f84fd8203f35b3e5d36"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/string-to-js/download/string-to-js-0.0.1.tgz#bf153c760636faa30769b804a0195552ba7ad80f",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/string-to-js/download/string-to-js-0.0.1.tgz",
+    "hash": "bf153c760636faa30769b804a0195552ba7ad80f",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "bf153c760636faa30769b804a0195552ba7ad80f"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss-merge-longhand/download/postcss-merge-longhand-2.0.1.tgz#ff59b5dec6d586ce2cea183138f55c5876fa9cdc",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss-merge-longhand/download/postcss-merge-longhand-2.0.1.tgz",
+    "hash": "ff59b5dec6d586ce2cea183138f55c5876fa9cdc",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ff59b5dec6d586ce2cea183138f55c5876fa9cdc"
+}

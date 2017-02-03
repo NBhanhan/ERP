@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/underscore/download/underscore-1.7.0.tgz#6bbaf0877500d36be34ecaa584e0db9fef035209",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/underscore/download/underscore-1.7.0.tgz",
+    "hash": "6bbaf0877500d36be34ecaa584e0db9fef035209",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6bbaf0877500d36be34ecaa584e0db9fef035209"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/jsonpointer/download/jsonpointer-4.0.1.tgz#4fd92cb34e0e9db3c89c8622ecf51f9b978c6cb9",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/jsonpointer/download/jsonpointer-4.0.1.tgz",
+    "hash": "4fd92cb34e0e9db3c89c8622ecf51f9b978c6cb9",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "4fd92cb34e0e9db3c89c8622ecf51f9b978c6cb9"
+}

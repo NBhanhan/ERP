@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/http-errors/download/http-errors-1.5.1.tgz#788c0d2c1de2c81b9e6e8c01843b6b97eb920750",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/http-errors/download/http-errors-1.5.1.tgz",
+    "hash": "788c0d2c1de2c81b9e6e8c01843b6b97eb920750",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "788c0d2c1de2c81b9e6e8c01843b6b97eb920750"
+}

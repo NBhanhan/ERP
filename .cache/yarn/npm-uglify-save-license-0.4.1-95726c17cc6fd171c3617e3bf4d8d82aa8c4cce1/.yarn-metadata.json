@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/uglify-save-license/download/uglify-save-license-0.4.1.tgz#95726c17cc6fd171c3617e3bf4d8d82aa8c4cce1",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/uglify-save-license/download/uglify-save-license-0.4.1.tgz",
+    "hash": "95726c17cc6fd171c3617e3bf4d8d82aa8c4cce1",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "95726c17cc6fd171c3617e3bf4d8d82aa8c4cce1"
+}

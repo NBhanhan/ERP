@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-traverse/download/babel-traverse-6.21.0.tgz#69c6365804f1a4f69eb1213f85b00a818b8c21ad",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-traverse/download/babel-traverse-6.21.0.tgz",
+    "hash": "69c6365804f1a4f69eb1213f85b00a818b8c21ad",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "69c6365804f1a4f69eb1213f85b00a818b8c21ad"
+}

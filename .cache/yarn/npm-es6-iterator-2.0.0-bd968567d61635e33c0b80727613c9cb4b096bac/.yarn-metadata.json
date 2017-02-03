@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/es6-iterator/download/es6-iterator-2.0.0.tgz#bd968567d61635e33c0b80727613c9cb4b096bac",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/es6-iterator/download/es6-iterator-2.0.0.tgz",
+    "hash": "bd968567d61635e33c0b80727613c9cb4b096bac",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "bd968567d61635e33c0b80727613c9cb4b096bac"
+}

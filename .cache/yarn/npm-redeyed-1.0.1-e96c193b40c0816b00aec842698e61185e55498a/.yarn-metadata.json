@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/redeyed/download/redeyed-1.0.1.tgz#e96c193b40c0816b00aec842698e61185e55498a",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/redeyed/download/redeyed-1.0.1.tgz",
+    "hash": "e96c193b40c0816b00aec842698e61185e55498a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e96c193b40c0816b00aec842698e61185e55498a"
+}

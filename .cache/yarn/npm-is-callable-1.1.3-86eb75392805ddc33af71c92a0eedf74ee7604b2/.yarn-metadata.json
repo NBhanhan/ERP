@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/is-callable/download/is-callable-1.1.3.tgz#86eb75392805ddc33af71c92a0eedf74ee7604b2",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/is-callable/download/is-callable-1.1.3.tgz",
+    "hash": "86eb75392805ddc33af71c92a0eedf74ee7604b2",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "86eb75392805ddc33af71c92a0eedf74ee7604b2"
+}

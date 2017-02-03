@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/stream-combiner2/download/stream-combiner2-1.0.2.tgz#ba72a6b50cbfabfa950fc8bc87604bd01eb60671",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/stream-combiner2/download/stream-combiner2-1.0.2.tgz",
+    "hash": "ba72a6b50cbfabfa950fc8bc87604bd01eb60671",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ba72a6b50cbfabfa950fc8bc87604bd01eb60671"
+}

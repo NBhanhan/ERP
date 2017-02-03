@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/array-filter/download/array-filter-0.0.1.tgz#7da8cf2e26628ed732803581fd21f67cacd2eeec",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/array-filter/download/array-filter-0.0.1.tgz",
+    "hash": "7da8cf2e26628ed732803581fd21f67cacd2eeec",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "7da8cf2e26628ed732803581fd21f67cacd2eeec"
+}

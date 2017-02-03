@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/gulp-coffee/download/gulp-coffee-2.3.3.tgz#af389bc89ea04ed81294976efbf9d7a7248b9ea7",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/gulp-coffee/download/gulp-coffee-2.3.3.tgz",
+    "hash": "af389bc89ea04ed81294976efbf9d7a7248b9ea7",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "af389bc89ea04ed81294976efbf9d7a7248b9ea7"
+}

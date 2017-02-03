@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-helper-optimise-call-expression/download/babel-helper-optimise-call-expression-6.18.0.tgz#9261d0299ee1a4f08a6dd28b7b7c777348fd8f0f",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-helper-optimise-call-expression/download/babel-helper-optimise-call-expression-6.18.0.tgz",
+    "hash": "9261d0299ee1a4f08a6dd28b7b7c777348fd8f0f",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "9261d0299ee1a4f08a6dd28b7b7c777348fd8f0f"
+}

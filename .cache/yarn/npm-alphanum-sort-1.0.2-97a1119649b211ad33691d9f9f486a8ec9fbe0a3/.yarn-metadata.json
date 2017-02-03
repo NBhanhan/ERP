@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/alphanum-sort/download/alphanum-sort-1.0.2.tgz#97a1119649b211ad33691d9f9f486a8ec9fbe0a3",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/alphanum-sort/download/alphanum-sort-1.0.2.tgz",
+    "hash": "97a1119649b211ad33691d9f9f486a8ec9fbe0a3",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "97a1119649b211ad33691d9f9f486a8ec9fbe0a3"
+}

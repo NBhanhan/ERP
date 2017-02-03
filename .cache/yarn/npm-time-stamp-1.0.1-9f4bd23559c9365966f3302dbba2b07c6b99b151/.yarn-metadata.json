@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/time-stamp/download/time-stamp-1.0.1.tgz#9f4bd23559c9365966f3302dbba2b07c6b99b151",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/time-stamp/download/time-stamp-1.0.1.tgz",
+    "hash": "9f4bd23559c9365966f3302dbba2b07c6b99b151",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "9f4bd23559c9365966f3302dbba2b07c6b99b151"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/mime-db/download/mime-db-1.25.0.tgz#c18dbd7c73a5dbf6f44a024dc0d165a1e7b1c392",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/mime-db/download/mime-db-1.25.0.tgz",
+    "hash": "c18dbd7c73a5dbf6f44a024dc0d165a1e7b1c392",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c18dbd7c73a5dbf6f44a024dc0d165a1e7b1c392"
+}

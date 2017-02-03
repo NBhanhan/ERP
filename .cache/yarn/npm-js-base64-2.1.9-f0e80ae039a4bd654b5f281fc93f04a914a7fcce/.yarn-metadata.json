@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/js-base64/download/js-base64-2.1.9.tgz#f0e80ae039a4bd654b5f281fc93f04a914a7fcce",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/js-base64/download/js-base64-2.1.9.tgz",
+    "hash": "f0e80ae039a4bd654b5f281fc93f04a914a7fcce",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f0e80ae039a4bd654b5f281fc93f04a914a7fcce"
+}

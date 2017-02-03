@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/sequencify/download/sequencify-0.0.7.tgz#90cff19d02e07027fd767f5ead3e7b95d1e7380c",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/sequencify/download/sequencify-0.0.7.tgz",
+    "hash": "90cff19d02e07027fd767f5ead3e7b95d1e7380c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "90cff19d02e07027fd767f5ead3e7b95d1e7380c"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/tough-cookie/download/tough-cookie-2.3.2.tgz#f081f76e4c85720e6c37a5faced737150d84072a",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/tough-cookie/download/tough-cookie-2.3.2.tgz",
+    "hash": "f081f76e4c85720e6c37a5faced737150d84072a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f081f76e4c85720e6c37a5faced737150d84072a"
+}

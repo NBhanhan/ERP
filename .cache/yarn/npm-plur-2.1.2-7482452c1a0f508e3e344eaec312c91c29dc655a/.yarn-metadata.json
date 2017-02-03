@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/plur/download/plur-2.1.2.tgz#7482452c1a0f508e3e344eaec312c91c29dc655a",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/plur/download/plur-2.1.2.tgz",
+    "hash": "7482452c1a0f508e3e344eaec312c91c29dc655a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "7482452c1a0f508e3e344eaec312c91c29dc655a"
+}

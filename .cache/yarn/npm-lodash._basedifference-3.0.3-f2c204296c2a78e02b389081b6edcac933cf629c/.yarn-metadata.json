@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/lodash._basedifference/download/lodash._basedifference-3.0.3.tgz#f2c204296c2a78e02b389081b6edcac933cf629c",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/lodash._basedifference/download/lodash._basedifference-3.0.3.tgz",
+    "hash": "f2c204296c2a78e02b389081b6edcac933cf629c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f2c204296c2a78e02b389081b6edcac933cf629c"
+}

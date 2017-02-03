@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/modify-filename/download/modify-filename-1.1.0.tgz#9a2dec83806fbb2d975f22beec859ca26b393aa1",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/modify-filename/download/modify-filename-1.1.0.tgz",
+    "hash": "9a2dec83806fbb2d975f22beec859ca26b393aa1",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "9a2dec83806fbb2d975f22beec859ca26b393aa1"
+}

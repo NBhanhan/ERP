@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/gulp-sass/download/gulp-sass-2.3.2.tgz#82b7ab90fe902cdc34c04f180d92f2c34902dd52",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/gulp-sass/download/gulp-sass-2.3.2.tgz",
+    "hash": "82b7ab90fe902cdc34c04f180d92f2c34902dd52",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "82b7ab90fe902cdc34c04f180d92f2c34902dd52"
+}

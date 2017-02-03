@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-plugin-transform-flow-strip-types/download/babel-plugin-transform-flow-strip-types-6.21.0.tgz#2eea3f8b5bb234339b47283feac155cfb237b948",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-plugin-transform-flow-strip-types/download/babel-plugin-transform-flow-strip-types-6.21.0.tgz",
+    "hash": "2eea3f8b5bb234339b47283feac155cfb237b948",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "2eea3f8b5bb234339b47283feac155cfb237b948"
+}

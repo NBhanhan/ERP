@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/each-async/download/each-async-1.1.1.tgz#dee5229bdf0ab6ba2012a395e1b869abf8813473",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/each-async/download/each-async-1.1.1.tgz",
+    "hash": "dee5229bdf0ab6ba2012a395e1b869abf8813473",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "dee5229bdf0ab6ba2012a395e1b869abf8813473"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/lexical-scope/download/lexical-scope-1.2.0.tgz#fcea5edc704a4b3a8796cdca419c3a0afaf22df4",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/lexical-scope/download/lexical-scope-1.2.0.tgz",
+    "hash": "fcea5edc704a4b3a8796cdca419c3a0afaf22df4",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "fcea5edc704a4b3a8796cdca419c3a0afaf22df4"
+}

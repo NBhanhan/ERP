@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/chalk/download/chalk-0.4.0.tgz#5199a3ddcd0c1efe23bc08c1b027b06176e0c64f",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/chalk/download/chalk-0.4.0.tgz",
+    "hash": "5199a3ddcd0c1efe23bc08c1b027b06176e0c64f",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "5199a3ddcd0c1efe23bc08c1b027b06176e0c64f"
+}

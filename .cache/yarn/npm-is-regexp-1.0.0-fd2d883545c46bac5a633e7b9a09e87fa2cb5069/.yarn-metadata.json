@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/is-regexp/download/is-regexp-1.0.0.tgz#fd2d883545c46bac5a633e7b9a09e87fa2cb5069",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/is-regexp/download/is-regexp-1.0.0.tgz",
+    "hash": "fd2d883545c46bac5a633e7b9a09e87fa2cb5069",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "fd2d883545c46bac5a633e7b9a09e87fa2cb5069"
+}

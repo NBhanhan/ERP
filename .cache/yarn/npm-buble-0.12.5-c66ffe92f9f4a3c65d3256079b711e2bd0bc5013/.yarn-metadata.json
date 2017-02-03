@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/buble/download/buble-0.12.5.tgz#c66ffe92f9f4a3c65d3256079b711e2bd0bc5013",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/buble/download/buble-0.12.5.tgz",
+    "hash": "c66ffe92f9f4a3c65d3256079b711e2bd0bc5013",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c66ffe92f9f4a3c65d3256079b711e2bd0bc5013"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/node-notifier/download/node-notifier-4.3.1.tgz#94a3e35c388938b4d9fa196fed6b36e9ab671119",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/node-notifier/download/node-notifier-4.3.1.tgz",
+    "hash": "94a3e35c388938b4d9fa196fed6b36e9ab671119",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "94a3e35c388938b4d9fa196fed6b36e9ab671119"
+}

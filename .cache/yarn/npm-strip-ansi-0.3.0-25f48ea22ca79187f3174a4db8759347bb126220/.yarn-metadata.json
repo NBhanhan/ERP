@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/strip-ansi/download/strip-ansi-0.3.0.tgz#25f48ea22ca79187f3174a4db8759347bb126220",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/strip-ansi/download/strip-ansi-0.3.0.tgz",
+    "hash": "25f48ea22ca79187f3174a4db8759347bb126220",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "25f48ea22ca79187f3174a4db8759347bb126220"
+}

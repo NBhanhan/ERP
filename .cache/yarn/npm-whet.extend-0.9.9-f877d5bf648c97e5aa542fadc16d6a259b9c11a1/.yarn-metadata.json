@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/whet.extend/download/whet.extend-0.9.9.tgz#f877d5bf648c97e5aa542fadc16d6a259b9c11a1",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/whet.extend/download/whet.extend-0.9.9.tgz",
+    "hash": "f877d5bf648c97e5aa542fadc16d6a259b9c11a1",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f877d5bf648c97e5aa542fadc16d6a259b9c11a1"
+}

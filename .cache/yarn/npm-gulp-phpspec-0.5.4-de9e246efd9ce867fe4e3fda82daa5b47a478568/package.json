@@ -1,0 +1,52 @@
+{
+  "name": "gulp-phpspec",
+  "version": "0.5.4",
+  "description": "PHP PHPSpec plugin for Gulp",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^2.3.0",
+    "chalk": "^1.0.0",
+    "expect": "^1.6.0",
+    "gulp-jshint": "^1.10.0",
+    "gulp-logger": "0.0.2",
+    "gulp-notify": "^2.2.0",
+    "gulp-todo": "^2.6.0",
+    "gulp-util": "~2.2.14",
+    "jshint": "^2.7.0",
+    "jshint-stylish": "^1.0.2",
+    "lodash": "^3.8.0",
+    "map-stream": "0.0.4"
+  },
+  "devDependencies": {
+    "jshint": "~2.4.4",
+    "mocha": "~1.17.1",
+    "should": "~3.1.2",
+    "gulp-notify": "^1.0.0-beta",
+    "gulp-shell": "^0.2.4",
+    "gulp": "^3.5.5"
+  },
+  "scripts": {
+    "test": "mocha spec --reporter spec",
+    "build": "mocha --reporter=spec && jshint ./*.js && jshint ./test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikeerickson/gulp-phpspec"
+  },
+  "keywords": [
+    "gulpplugin",
+    "phpspec"
+  ],
+  "author": "Mike Erickson <codedungeon@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeerickson/gulp-phpspec/issues"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "homepage": "https://github.com/mikeerickson/gulp-phpspec",
+  "directories": {
+    "test": "test"
+  }
+}

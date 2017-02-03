@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/colormin/download/colormin-1.1.2.tgz#ea2f7420a72b96881a38aae59ec124a6f7298133",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/colormin/download/colormin-1.1.2.tgz",
+    "hash": "ea2f7420a72b96881a38aae59ec124a6f7298133",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ea2f7420a72b96881a38aae59ec124a6f7298133"
+}

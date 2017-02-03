@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/vinyl-buffer/download/vinyl-buffer-1.0.0.tgz#ca067ea08431d507722b1de5083f602616ebc234",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/vinyl-buffer/download/vinyl-buffer-1.0.0.tgz",
+    "hash": "ca067ea08431d507722b1de5083f602616ebc234",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ca067ea08431d507722b1de5083f602616ebc234"
+}

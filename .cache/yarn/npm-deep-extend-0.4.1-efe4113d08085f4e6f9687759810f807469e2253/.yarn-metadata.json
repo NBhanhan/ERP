@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/deep-extend/download/deep-extend-0.4.1.tgz#efe4113d08085f4e6f9687759810f807469e2253",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/deep-extend/download/deep-extend-0.4.1.tgz",
+    "hash": "efe4113d08085f4e6f9687759810f807469e2253",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "efe4113d08085f4e6f9687759810f807469e2253"
+}

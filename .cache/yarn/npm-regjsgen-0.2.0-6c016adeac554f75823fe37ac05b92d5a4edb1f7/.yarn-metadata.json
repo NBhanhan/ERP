@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/regjsgen/download/regjsgen-0.2.0.tgz#6c016adeac554f75823fe37ac05b92d5a4edb1f7",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/regjsgen/download/regjsgen-0.2.0.tgz",
+    "hash": "6c016adeac554f75823fe37ac05b92d5a4edb1f7",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6c016adeac554f75823fe37ac05b92d5a4edb1f7"
+}

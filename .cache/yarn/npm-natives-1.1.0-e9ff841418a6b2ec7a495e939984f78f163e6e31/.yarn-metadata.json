@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/natives/download/natives-1.1.0.tgz#e9ff841418a6b2ec7a495e939984f78f163e6e31",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/natives/download/natives-1.1.0.tgz",
+    "hash": "e9ff841418a6b2ec7a495e939984f78f163e6e31",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e9ff841418a6b2ec7a495e939984f78f163e6e31"
+}

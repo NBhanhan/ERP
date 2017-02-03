@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/base64-arraybuffer/download/base64-arraybuffer-0.1.5.tgz#73926771923b5a19747ad666aa5cd4bf9c6e9ce8",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/base64-arraybuffer/download/base64-arraybuffer-0.1.5.tgz",
+    "hash": "73926771923b5a19747ad666aa5cd4bf9c6e9ce8",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "73926771923b5a19747ad666aa5cd4bf9c6e9ce8"
+}

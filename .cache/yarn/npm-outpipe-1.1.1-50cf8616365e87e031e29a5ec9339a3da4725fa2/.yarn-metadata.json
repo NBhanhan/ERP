@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/outpipe/download/outpipe-1.1.1.tgz#50cf8616365e87e031e29a5ec9339a3da4725fa2",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/outpipe/download/outpipe-1.1.1.tgz",
+    "hash": "50cf8616365e87e031e29a5ec9339a3da4725fa2",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "50cf8616365e87e031e29a5ec9339a3da4725fa2"
+}

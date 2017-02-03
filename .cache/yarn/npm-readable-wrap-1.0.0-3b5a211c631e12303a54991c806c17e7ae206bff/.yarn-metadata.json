@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/readable-wrap/download/readable-wrap-1.0.0.tgz#3b5a211c631e12303a54991c806c17e7ae206bff",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/readable-wrap/download/readable-wrap-1.0.0.tgz",
+    "hash": "3b5a211c631e12303a54991c806c17e7ae206bff",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "3b5a211c631e12303a54991c806c17e7ae206bff"
+}

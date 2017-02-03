@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/aws4/download/aws4-1.5.0.tgz#0a29ffb79c31c9e712eeb087e8e7a64b4a56d755",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/aws4/download/aws4-1.5.0.tgz",
+    "hash": "0a29ffb79c31c9e712eeb087e8e7a64b4a56d755",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "0a29ffb79c31c9e712eeb087e8e7a64b4a56d755"
+}

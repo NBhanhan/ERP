@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-helper-regex/download/babel-helper-regex-6.18.0.tgz#ae0ebfd77de86cb2f1af258e2cc20b5fe893ecc6",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-helper-regex/download/babel-helper-regex-6.18.0.tgz",
+    "hash": "ae0ebfd77de86cb2f1af258e2cc20b5fe893ecc6",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ae0ebfd77de86cb2f1af258e2cc20b5fe893ecc6"
+}

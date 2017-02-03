@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/arraybuffer.slice/download/arraybuffer.slice-0.0.6.tgz#f33b2159f0532a3f3107a272c0ccfbd1ad2979ca",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/arraybuffer.slice/download/arraybuffer.slice-0.0.6.tgz",
+    "hash": "f33b2159f0532a3f3107a272c0ccfbd1ad2979ca",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f33b2159f0532a3f3107a272c0ccfbd1ad2979ca"
+}

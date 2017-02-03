@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss-calc/download/postcss-calc-5.3.1.tgz#77bae7ca928ad85716e2fda42f261bf7c1d65b5e",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss-calc/download/postcss-calc-5.3.1.tgz",
+    "hash": "77bae7ca928ad85716e2fda42f261bf7c1d65b5e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "77bae7ca928ad85716e2fda42f261bf7c1d65b5e"
+}

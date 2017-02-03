@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-helpers/download/babel-helpers-6.16.0.tgz#1095ec10d99279460553e67eb3eee9973d3867e3",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-helpers/download/babel-helpers-6.16.0.tgz",
+    "hash": "1095ec10d99279460553e67eb3eee9973d3867e3",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1095ec10d99279460553e67eb3eee9973d3867e3"
+}

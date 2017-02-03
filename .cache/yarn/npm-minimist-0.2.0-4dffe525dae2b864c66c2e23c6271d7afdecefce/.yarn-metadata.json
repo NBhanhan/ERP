@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/minimist/download/minimist-0.2.0.tgz#4dffe525dae2b864c66c2e23c6271d7afdecefce",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/minimist/download/minimist-0.2.0.tgz",
+    "hash": "4dffe525dae2b864c66c2e23c6271d7afdecefce",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "4dffe525dae2b864c66c2e23c6271d7afdecefce"
+}

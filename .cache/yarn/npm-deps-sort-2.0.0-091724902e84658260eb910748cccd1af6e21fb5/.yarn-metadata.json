@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/deps-sort/download/deps-sort-2.0.0.tgz#091724902e84658260eb910748cccd1af6e21fb5",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/deps-sort/download/deps-sort-2.0.0.tgz",
+    "hash": "091724902e84658260eb910748cccd1af6e21fb5",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "091724902e84658260eb910748cccd1af6e21fb5"
+}

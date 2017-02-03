@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/builtins/download/builtins-0.0.7.tgz#355219cd6cf18dbe7c01cc7fd2dce765cfdc549a",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/builtins/download/builtins-0.0.7.tgz",
+    "hash": "355219cd6cf18dbe7c01cc7fd2dce765cfdc549a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "355219cd6cf18dbe7c01cc7fd2dce765cfdc549a"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/shelljs/download/shelljs-0.3.0.tgz#3596e6307a781544f591f37da618360f31db57b1",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/shelljs/download/shelljs-0.3.0.tgz",
+    "hash": "3596e6307a781544f591f37da618360f31db57b1",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "3596e6307a781544f591f37da618360f31db57b1"
+}

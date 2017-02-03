@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/purdy/download/purdy-1.4.1.tgz#1a59d7780c13a6f500e88121baaaff24a3144efd",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/purdy/download/purdy-1.4.1.tgz",
+    "hash": "1a59d7780c13a6f500e88121baaaff24a3144efd",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1a59d7780c13a6f500e88121baaaff24a3144efd"
+}

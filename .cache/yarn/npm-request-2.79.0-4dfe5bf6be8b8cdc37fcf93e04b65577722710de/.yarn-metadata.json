@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/request/download/request-2.79.0.tgz#4dfe5bf6be8b8cdc37fcf93e04b65577722710de",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/request/download/request-2.79.0.tgz",
+    "hash": "4dfe5bf6be8b8cdc37fcf93e04b65577722710de",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "4dfe5bf6be8b8cdc37fcf93e04b65577722710de"
+}

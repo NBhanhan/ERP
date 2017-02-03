@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-modules-umd/download/babel-plugin-transform-es2015-modules-umd-6.18.0.tgz#23351770ece5c1f8e83ed67cb1d7992884491e50",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-modules-umd/download/babel-plugin-transform-es2015-modules-umd-6.18.0.tgz",
+    "hash": "23351770ece5c1f8e83ed67cb1d7992884491e50",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "23351770ece5c1f8e83ed67cb1d7992884491e50"
+}

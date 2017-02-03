@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-helper-replace-supers/download/babel-helper-replace-supers-6.18.0.tgz#28ec69877be4144dbd64f4cc3a337e89f29a924e",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-helper-replace-supers/download/babel-helper-replace-supers-6.18.0.tgz",
+    "hash": "28ec69877be4144dbd64f4cc3a337e89f29a924e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "28ec69877be4144dbd64f4cc3a337e89f29a924e"
+}

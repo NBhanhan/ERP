@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-generator/download/babel-generator-6.21.0.tgz#605f1269c489a1c75deeca7ea16d43d4656c8494",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-generator/download/babel-generator-6.21.0.tgz",
+    "hash": "605f1269c489a1c75deeca7ea16d43d4656c8494",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "605f1269c489a1c75deeca7ea16d43d4656c8494"
+}

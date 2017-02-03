@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/accord/download/accord-0.26.4.tgz#fc4c8d3ebab406a07cb28819b859651c44a92e80",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/accord/download/accord-0.26.4.tgz",
+    "hash": "fc4c8d3ebab406a07cb28819b859651c44a92e80",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "fc4c8d3ebab406a07cb28819b859651c44a92e80"
+}

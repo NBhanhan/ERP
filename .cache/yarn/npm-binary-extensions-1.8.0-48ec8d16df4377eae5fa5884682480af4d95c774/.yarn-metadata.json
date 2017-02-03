@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/binary-extensions/download/binary-extensions-1.8.0.tgz#48ec8d16df4377eae5fa5884682480af4d95c774",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/binary-extensions/download/binary-extensions-1.8.0.tgz",
+    "hash": "48ec8d16df4377eae5fa5884682480af4d95c774",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "48ec8d16df4377eae5fa5884682480af4d95c774"
+}

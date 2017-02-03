@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-plugin-transform-strict-mode/download/babel-plugin-transform-strict-mode-6.18.0.tgz#df7cf2991fe046f44163dcd110d5ca43bc652b9d",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-plugin-transform-strict-mode/download/babel-plugin-transform-strict-mode-6.18.0.tgz",
+    "hash": "df7cf2991fe046f44163dcd110d5ca43bc652b9d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "df7cf2991fe046f44163dcd110d5ca43bc652b9d"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/better-assert/download/better-assert-1.0.2.tgz#40866b9e1b9e0b55b481894311e68faffaebc522",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/better-assert/download/better-assert-1.0.2.tgz",
+    "hash": "40866b9e1b9e0b55b481894311e68faffaebc522",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "40866b9e1b9e0b55b481894311e68faffaebc522"
+}

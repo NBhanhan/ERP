@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/mime/download/mime-1.2.4.tgz#11b5fdaf29c2509255176b80ad520294f5de92b7",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/mime/download/mime-1.2.4.tgz",
+    "hash": "11b5fdaf29c2509255176b80ad520294f5de92b7",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "11b5fdaf29c2509255176b80ad520294f5de92b7"
+}

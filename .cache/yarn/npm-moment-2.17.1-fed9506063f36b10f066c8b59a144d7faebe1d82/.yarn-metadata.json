@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/moment/download/moment-2.17.1.tgz#fed9506063f36b10f066c8b59a144d7faebe1d82",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/moment/download/moment-2.17.1.tgz",
+    "hash": "fed9506063f36b10f066c8b59a144d7faebe1d82",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "fed9506063f36b10f066c8b59a144d7faebe1d82"
+}

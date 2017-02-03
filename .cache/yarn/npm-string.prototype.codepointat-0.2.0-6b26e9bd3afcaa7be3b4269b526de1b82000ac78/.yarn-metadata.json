@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/string.prototype.codepointat/download/string.prototype.codepointat-0.2.0.tgz#6b26e9bd3afcaa7be3b4269b526de1b82000ac78",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/string.prototype.codepointat/download/string.prototype.codepointat-0.2.0.tgz",
+    "hash": "6b26e9bd3afcaa7be3b4269b526de1b82000ac78",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6b26e9bd3afcaa7be3b4269b526de1b82000ac78"
+}

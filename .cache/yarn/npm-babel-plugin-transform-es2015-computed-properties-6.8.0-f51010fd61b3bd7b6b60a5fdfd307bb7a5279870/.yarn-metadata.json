@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-computed-properties/download/babel-plugin-transform-es2015-computed-properties-6.8.0.tgz#f51010fd61b3bd7b6b60a5fdfd307bb7a5279870",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-computed-properties/download/babel-plugin-transform-es2015-computed-properties-6.8.0.tgz",
+    "hash": "f51010fd61b3bd7b6b60a5fdfd307bb7a5279870",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f51010fd61b3bd7b6b60a5fdfd307bb7a5279870"
+}

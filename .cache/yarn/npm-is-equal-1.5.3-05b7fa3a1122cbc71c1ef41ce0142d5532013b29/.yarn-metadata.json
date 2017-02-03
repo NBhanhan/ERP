@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/is-equal/download/is-equal-1.5.3.tgz#05b7fa3a1122cbc71c1ef41ce0142d5532013b29",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/is-equal/download/is-equal-1.5.3.tgz",
+    "hash": "05b7fa3a1122cbc71c1ef41ce0142d5532013b29",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "05b7fa3a1122cbc71c1ef41ce0142d5532013b29"
+}

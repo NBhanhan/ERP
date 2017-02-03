@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-modules-commonjs/download/babel-plugin-transform-es2015-modules-commonjs-6.18.0.tgz#c15ae5bb11b32a0abdcc98a5837baa4ee8d67bcc",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-modules-commonjs/download/babel-plugin-transform-es2015-modules-commonjs-6.18.0.tgz",
+    "hash": "c15ae5bb11b32a0abdcc98a5837baa4ee8d67bcc",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c15ae5bb11b32a0abdcc98a5837baa4ee8d67bcc"
+}

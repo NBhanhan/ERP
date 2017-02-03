@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/fs-extra/download/fs-extra-1.0.0.tgz#cd3ce5f7e7cb6145883fcae3191e9877f8587950",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/fs-extra/download/fs-extra-1.0.0.tgz",
+    "hash": "cd3ce5f7e7cb6145883fcae3191e9877f8587950",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "cd3ce5f7e7cb6145883fcae3191e9877f8587950"
+}

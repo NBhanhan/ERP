@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/chalkline/download/chalkline-0.0.4.tgz#c0bb6cd2268f5a306a3d4ae5be8aa23a14a9c12d",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/chalkline/download/chalkline-0.0.4.tgz",
+    "hash": "c0bb6cd2268f5a306a3d4ae5be8aa23a14a9c12d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c0bb6cd2268f5a306a3d4ae5be8aa23a14a9c12d"
+}

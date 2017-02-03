@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/stream-splicer/download/stream-splicer-2.0.0.tgz#1b63be438a133e4b671cc1935197600175910d83",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/stream-splicer/download/stream-splicer-2.0.0.tgz",
+    "hash": "1b63be438a133e4b671cc1935197600175910d83",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1b63be438a133e4b671cc1935197600175910d83"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-plugin-transform-react-display-name/download/babel-plugin-transform-react-display-name-6.8.0.tgz#f7a084977383d728bdbdc2835bba0159577f660e",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-plugin-transform-react-display-name/download/babel-plugin-transform-react-display-name-6.8.0.tgz",
+    "hash": "f7a084977383d728bdbdc2835bba0159577f660e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f7a084977383d728bdbdc2835bba0159577f660e"
+}

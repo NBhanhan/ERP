@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/gulp-less/download/gulp-less-3.3.0.tgz#d085565da3c810307fde7c7874e86520dc503234",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/gulp-less/download/gulp-less-3.3.0.tgz",
+    "hash": "d085565da3c810307fde7c7874e86520dc503234",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d085565da3c810307fde7c7874e86520dc503234"
+}

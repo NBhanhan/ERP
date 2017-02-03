@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/chokidar/download/chokidar-1.6.1.tgz#2f4447ab5e96e50fb3d789fd90d4c72e0e4c70c2",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/chokidar/download/chokidar-1.6.1.tgz",
+    "hash": "2f4447ab5e96e50fb3d789fd90d4c72e0e4c70c2",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "2f4447ab5e96e50fb3d789fd90d4c72e0e4c70c2"
+}

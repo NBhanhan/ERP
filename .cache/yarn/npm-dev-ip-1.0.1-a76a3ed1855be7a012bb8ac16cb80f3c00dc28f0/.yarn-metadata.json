@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/dev-ip/download/dev-ip-1.0.1.tgz#a76a3ed1855be7a012bb8ac16cb80f3c00dc28f0",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/dev-ip/download/dev-ip-1.0.1.tgz",
+    "hash": "a76a3ed1855be7a012bb8ac16cb80f3c00dc28f0",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a76a3ed1855be7a012bb8ac16cb80f3c00dc28f0"
+}

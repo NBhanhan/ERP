@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/buffer-shims/download/buffer-shims-1.0.0.tgz#9978ce317388c649ad8793028c3477ef044a8b51",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/buffer-shims/download/buffer-shims-1.0.0.tgz",
+    "hash": "9978ce317388c649ad8793028c3477ef044a8b51",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "9978ce317388c649ad8793028c3477ef044a8b51"
+}

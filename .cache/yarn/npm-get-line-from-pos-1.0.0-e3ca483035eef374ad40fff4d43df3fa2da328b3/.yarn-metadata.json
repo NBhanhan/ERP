@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/get-line-from-pos/download/get-line-from-pos-1.0.0.tgz#e3ca483035eef374ad40fff4d43df3fa2da328b3",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/get-line-from-pos/download/get-line-from-pos-1.0.0.tgz",
+    "hash": "e3ca483035eef374ad40fff4d43df3fa2da328b3",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e3ca483035eef374ad40fff4d43df3fa2da328b3"
+}

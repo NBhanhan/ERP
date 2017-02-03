@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/parse-filepath/download/parse-filepath-0.5.0.tgz#b7cf9b8a2824bd77f70fb92cd17d8a2404bf4d6a",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/parse-filepath/download/parse-filepath-0.5.0.tgz",
+    "hash": "b7cf9b8a2824bd77f70fb92cd17d8a2404bf4d6a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b7cf9b8a2824bd77f70fb92cd17d8a2404bf4d6a"
+}

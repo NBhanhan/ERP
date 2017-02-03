@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-template-literals/download/babel-plugin-transform-es2015-template-literals-6.8.0.tgz#86eb876d0a2c635da4ec048b4f7de9dfc897e66b",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-template-literals/download/babel-plugin-transform-es2015-template-literals-6.8.0.tgz",
+    "hash": "86eb876d0a2c635da4ec048b4f7de9dfc897e66b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "86eb876d0a2c635da4ec048b4f7de9dfc897e66b"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-shorthand-properties/download/babel-plugin-transform-es2015-shorthand-properties-6.18.0.tgz#e2ede3b7df47bf980151926534d1dd0cbea58f43",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-shorthand-properties/download/babel-plugin-transform-es2015-shorthand-properties-6.18.0.tgz",
+    "hash": "e2ede3b7df47bf980151926534d1dd0cbea58f43",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e2ede3b7df47bf980151926534d1dd0cbea58f43"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/irregular-plurals/download/irregular-plurals-1.2.0.tgz#38f299834ba8c00c30be9c554e137269752ff3ac",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/irregular-plurals/download/irregular-plurals-1.2.0.tgz",
+    "hash": "38f299834ba8c00c30be9c554e137269752ff3ac",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "38f299834ba8c00c30be9c554e137269752ff3ac"
+}

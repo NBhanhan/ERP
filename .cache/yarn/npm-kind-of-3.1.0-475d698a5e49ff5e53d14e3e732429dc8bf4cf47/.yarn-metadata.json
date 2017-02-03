@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/kind-of/download/kind-of-3.1.0.tgz#475d698a5e49ff5e53d14e3e732429dc8bf4cf47",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/kind-of/download/kind-of-3.1.0.tgz",
+    "hash": "475d698a5e49ff5e53d14e3e732429dc8bf4cf47",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "475d698a5e49ff5e53d14e3e732429dc8bf4cf47"
+}

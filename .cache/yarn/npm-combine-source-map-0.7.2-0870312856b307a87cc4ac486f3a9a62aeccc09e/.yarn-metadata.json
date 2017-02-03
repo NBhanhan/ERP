@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/combine-source-map/download/combine-source-map-0.7.2.tgz#0870312856b307a87cc4ac486f3a9a62aeccc09e",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/combine-source-map/download/combine-source-map-0.7.2.tgz",
+    "hash": "0870312856b307a87cc4ac486f3a9a62aeccc09e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "0870312856b307a87cc4ac486f3a9a62aeccc09e"
+}

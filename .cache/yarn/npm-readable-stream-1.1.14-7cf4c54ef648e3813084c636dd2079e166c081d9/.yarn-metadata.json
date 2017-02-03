@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/readable-stream/download/readable-stream-1.1.14.tgz#7cf4c54ef648e3813084c636dd2079e166c081d9",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/readable-stream/download/readable-stream-1.1.14.tgz",
+    "hash": "7cf4c54ef648e3813084c636dd2079e166c081d9",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "7cf4c54ef648e3813084c636dd2079e166c081d9"
+}

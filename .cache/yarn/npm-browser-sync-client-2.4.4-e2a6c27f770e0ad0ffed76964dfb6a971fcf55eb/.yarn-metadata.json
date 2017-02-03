@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/browser-sync-client/download/browser-sync-client-2.4.4.tgz#e2a6c27f770e0ad0ffed76964dfb6a971fcf55eb",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/browser-sync-client/download/browser-sync-client-2.4.4.tgz",
+    "hash": "e2a6c27f770e0ad0ffed76964dfb6a971fcf55eb",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e2a6c27f770e0ad0ffed76964dfb6a971fcf55eb"
+}

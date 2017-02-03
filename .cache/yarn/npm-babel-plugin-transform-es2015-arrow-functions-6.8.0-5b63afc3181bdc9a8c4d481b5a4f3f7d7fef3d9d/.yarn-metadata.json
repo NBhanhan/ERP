@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-arrow-functions/download/babel-plugin-transform-es2015-arrow-functions-6.8.0.tgz#5b63afc3181bdc9a8c4d481b5a4f3f7d7fef3d9d",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-arrow-functions/download/babel-plugin-transform-es2015-arrow-functions-6.8.0.tgz",
+    "hash": "5b63afc3181bdc9a8c4d481b5a4f3f7d7fef3d9d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "5b63afc3181bdc9a8c4d481b5a4f3f7d7fef3d9d"
+}

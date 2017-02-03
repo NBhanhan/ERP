@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/vlq/download/vlq-0.2.1.tgz#14439d711891e682535467f8587c5630e4222a6c",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/vlq/download/vlq-0.2.1.tgz",
+    "hash": "14439d711891e682535467f8587c5630e4222a6c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "14439d711891e682535467f8587c5630e4222a6c"
+}

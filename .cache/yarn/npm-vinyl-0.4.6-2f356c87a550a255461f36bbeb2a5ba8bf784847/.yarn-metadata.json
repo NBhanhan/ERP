@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/vinyl/download/vinyl-0.4.6.tgz#2f356c87a550a255461f36bbeb2a5ba8bf784847",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/vinyl/download/vinyl-0.4.6.tgz",
+    "hash": "2f356c87a550a255461f36bbeb2a5ba8bf784847",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "2f356c87a550a255461f36bbeb2a5ba8bf784847"
+}

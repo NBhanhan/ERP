@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/tfunk/download/tfunk-3.1.0.tgz#38e4414fc64977d87afdaa72facb6d29f82f7b5b",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/tfunk/download/tfunk-3.1.0.tgz",
+    "hash": "38e4414fc64977d87afdaa72facb6d29f82f7b5b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "38e4414fc64977d87afdaa72facb6d29f82f7b5b"
+}

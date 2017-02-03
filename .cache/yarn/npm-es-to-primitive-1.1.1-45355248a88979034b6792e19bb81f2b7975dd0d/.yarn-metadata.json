@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/es-to-primitive/download/es-to-primitive-1.1.1.tgz#45355248a88979034b6792e19bb81f2b7975dd0d",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/es-to-primitive/download/es-to-primitive-1.1.1.tgz",
+    "hash": "45355248a88979034b6792e19bb81f2b7975dd0d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "45355248a88979034b6792e19bb81f2b7975dd0d"
+}

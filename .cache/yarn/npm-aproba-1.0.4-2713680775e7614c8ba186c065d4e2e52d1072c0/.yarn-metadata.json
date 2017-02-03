@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/aproba/download/aproba-1.0.4.tgz#2713680775e7614c8ba186c065d4e2e52d1072c0",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/aproba/download/aproba-1.0.4.tgz",
+    "hash": "2713680775e7614c8ba186c065d4e2e52d1072c0",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "2713680775e7614c8ba186c065d4e2e52d1072c0"
+}

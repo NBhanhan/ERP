@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/clone-stats/download/clone-stats-0.0.1.tgz#b88f94a82cf38b8791d58046ea4029ad88ca99d1",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/clone-stats/download/clone-stats-0.0.1.tgz",
+    "hash": "b88f94a82cf38b8791d58046ea4029ad88ca99d1",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b88f94a82cf38b8791d58046ea4029ad88ca99d1"
+}

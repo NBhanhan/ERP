@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/har-validator/download/har-validator-2.0.6.tgz#cdcbc08188265ad119b6a5a7c8ab70eecfb5d27d",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/har-validator/download/har-validator-2.0.6.tgz",
+    "hash": "cdcbc08188265ad119b6a5a7c8ab70eecfb5d27d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "cdcbc08188265ad119b6a5a7c8ab70eecfb5d27d"
+}

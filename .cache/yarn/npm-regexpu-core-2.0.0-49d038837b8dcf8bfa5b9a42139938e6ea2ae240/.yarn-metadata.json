@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/regexpu-core/download/regexpu-core-2.0.0.tgz#49d038837b8dcf8bfa5b9a42139938e6ea2ae240",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/regexpu-core/download/regexpu-core-2.0.0.tgz",
+    "hash": "49d038837b8dcf8bfa5b9a42139938e6ea2ae240",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "49d038837b8dcf8bfa5b9a42139938e6ea2ae240"
+}

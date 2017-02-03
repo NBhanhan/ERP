@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/shell-quote/download/shell-quote-0.0.1.tgz#1a41196f3c0333c482323593d6886ecf153dd986",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/shell-quote/download/shell-quote-0.0.1.tgz",
+    "hash": "1a41196f3c0333c482323593d6886ecf153dd986",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1a41196f3c0333c482323593d6886ecf153dd986"
+}

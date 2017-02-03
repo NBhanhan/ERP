@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/node-gyp/download/node-gyp-3.4.0.tgz#dda558393b3ecbbe24c9e6b8703c71194c63fa36",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/node-gyp/download/node-gyp-3.4.0.tgz",
+    "hash": "dda558393b3ecbbe24c9e6b8703c71194c63fa36",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "dda558393b3ecbbe24c9e6b8703c71194c63fa36"
+}

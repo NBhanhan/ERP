@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/acorn-object-spread/download/acorn-object-spread-1.0.0.tgz#48ead0f4a8eb16995a17a0db9ffc6acaada4ba68",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/acorn-object-spread/download/acorn-object-spread-1.0.0.tgz",
+    "hash": "48ead0f4a8eb16995a17a0db9ffc6acaada4ba68",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "48ead0f4a8eb16995a17a0db9ffc6acaada4ba68"
+}

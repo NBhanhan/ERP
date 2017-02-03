@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/browserify-aes/download/browserify-aes-1.0.6.tgz#5e7725dbdef1fd5930d4ebab48567ce451c48a0a",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/browserify-aes/download/browserify-aes-1.0.6.tgz",
+    "hash": "5e7725dbdef1fd5930d4ebab48567ce451c48a0a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "5e7725dbdef1fd5930d4ebab48567ce451c48a0a"
+}

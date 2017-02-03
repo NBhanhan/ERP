@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/promise/download/promise-7.1.1.tgz#489654c692616b8aa55b0724fa809bb7db49c5bf",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/promise/download/promise-7.1.1.tgz",
+    "hash": "489654c692616b8aa55b0724fa809bb7db49c5bf",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "489654c692616b8aa55b0724fa809bb7db49c5bf"
+}

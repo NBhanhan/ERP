@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/gulp-todo/download/gulp-todo-2.6.2.tgz#7589689a784784eeb6a4c32fdf27aab12e7dcf36",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/gulp-todo/download/gulp-todo-2.6.2.tgz",
+    "hash": "7589689a784784eeb6a4c32fdf27aab12e7dcf36",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "7589689a784784eeb6a4c32fdf27aab12e7dcf36"
+}

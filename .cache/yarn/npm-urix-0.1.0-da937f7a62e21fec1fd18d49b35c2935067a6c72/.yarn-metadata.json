@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/urix/download/urix-0.1.0.tgz#da937f7a62e21fec1fd18d49b35c2935067a6c72",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/urix/download/urix-0.1.0.tgz",
+    "hash": "da937f7a62e21fec1fd18d49b35c2935067a6c72",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "da937f7a62e21fec1fd18d49b35c2935067a6c72"
+}

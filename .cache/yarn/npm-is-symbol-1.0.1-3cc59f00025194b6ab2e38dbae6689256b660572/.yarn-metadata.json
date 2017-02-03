@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/is-symbol/download/is-symbol-1.0.1.tgz#3cc59f00025194b6ab2e38dbae6689256b660572",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/is-symbol/download/is-symbol-1.0.1.tgz",
+    "hash": "3cc59f00025194b6ab2e38dbae6689256b660572",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "3cc59f00025194b6ab2e38dbae6689256b660572"
+}

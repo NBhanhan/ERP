@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/lodash._createcache/download/lodash._createcache-3.1.2.tgz#56d6a064017625e79ebca6b8018e17440bdcf093",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/lodash._createcache/download/lodash._createcache-3.1.2.tgz",
+    "hash": "56d6a064017625e79ebca6b8018e17440bdcf093",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "56d6a064017625e79ebca6b8018e17440bdcf093"
+}

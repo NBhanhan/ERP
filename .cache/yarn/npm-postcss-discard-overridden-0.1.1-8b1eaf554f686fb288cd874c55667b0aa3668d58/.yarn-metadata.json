@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss-discard-overridden/download/postcss-discard-overridden-0.1.1.tgz#8b1eaf554f686fb288cd874c55667b0aa3668d58",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss-discard-overridden/download/postcss-discard-overridden-0.1.1.tgz",
+    "hash": "8b1eaf554f686fb288cd874c55667b0aa3668d58",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "8b1eaf554f686fb288cd874c55667b0aa3668d58"
+}

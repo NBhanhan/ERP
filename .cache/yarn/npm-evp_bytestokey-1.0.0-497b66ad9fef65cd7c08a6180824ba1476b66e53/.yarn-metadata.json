@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/evp_bytestokey/download/evp_bytestokey-1.0.0.tgz#497b66ad9fef65cd7c08a6180824ba1476b66e53",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/evp_bytestokey/download/evp_bytestokey-1.0.0.tgz",
+    "hash": "497b66ad9fef65cd7c08a6180824ba1476b66e53",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "497b66ad9fef65cd7c08a6180824ba1476b66e53"
+}

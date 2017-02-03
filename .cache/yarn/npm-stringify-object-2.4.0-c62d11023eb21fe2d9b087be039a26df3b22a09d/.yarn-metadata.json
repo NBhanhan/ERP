@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/stringify-object/download/stringify-object-2.4.0.tgz#c62d11023eb21fe2d9b087be039a26df3b22a09d",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/stringify-object/download/stringify-object-2.4.0.tgz",
+    "hash": "c62d11023eb21fe2d9b087be039a26df3b22a09d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c62d11023eb21fe2d9b087be039a26df3b22a09d"
+}

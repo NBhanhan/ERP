@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/yargs-parser/download/yargs-parser-4.2.0.tgz#6ced869cd05a3dca6a1eaee38b68aeed4b0b4101",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/yargs-parser/download/yargs-parser-4.2.0.tgz",
+    "hash": "6ced869cd05a3dca6a1eaee38b68aeed4b0b4101",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6ced869cd05a3dca6a1eaee38b68aeed4b0b4101"
+}

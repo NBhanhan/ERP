@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-helper-call-delegate/download/babel-helper-call-delegate-6.18.0.tgz#05b14aafa430884b034097ef29e9f067ea4133bd",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-helper-call-delegate/download/babel-helper-call-delegate-6.18.0.tgz",
+    "hash": "05b14aafa430884b034097ef29e9f067ea4133bd",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "05b14aafa430884b034097ef29e9f067ea4133bd"
+}

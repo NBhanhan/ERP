@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/gulp-phpunit/download/gulp-phpunit-0.11.3.tgz#fb3bb6d305e5c0ad47190871b172352b9a3fdb26",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/gulp-phpunit/download/gulp-phpunit-0.11.3.tgz",
+    "hash": "fb3bb6d305e5c0ad47190871b172352b9a3fdb26",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "fb3bb6d305e5c0ad47190871b172352b9a3fdb26"
+}

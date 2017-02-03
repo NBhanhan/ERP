@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/del/download/del-1.2.1.tgz#aed6e5bcd7cb7325df34f563125fa265b2c1a014",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/del/download/del-1.2.1.tgz",
+    "hash": "aed6e5bcd7cb7325df34f563125fa265b2c1a014",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "aed6e5bcd7cb7325df34f563125fa265b2c1a014"
+}

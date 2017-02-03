@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/jshint/download/jshint-2.9.4.tgz#5e3ba97848d5290273db514aee47fe24cf592934",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/jshint/download/jshint-2.9.4.tgz",
+    "hash": "5e3ba97848d5290273db514aee47fe24cf592934",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "5e3ba97848d5290273db514aee47fe24cf592934"
+}

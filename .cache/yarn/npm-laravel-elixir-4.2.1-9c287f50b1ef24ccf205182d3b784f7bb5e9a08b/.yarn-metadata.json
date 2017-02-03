@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/laravel-elixir/download/laravel-elixir-4.2.1.tgz#9c287f50b1ef24ccf205182d3b784f7bb5e9a08b",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/laravel-elixir/download/laravel-elixir-4.2.1.tgz",
+    "hash": "9c287f50b1ef24ccf205182d3b784f7bb5e9a08b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "9c287f50b1ef24ccf205182d3b784f7bb5e9a08b"
+}

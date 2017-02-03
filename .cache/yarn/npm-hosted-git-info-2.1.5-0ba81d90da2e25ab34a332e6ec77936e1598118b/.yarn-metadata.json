@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/hosted-git-info/download/hosted-git-info-2.1.5.tgz#0ba81d90da2e25ab34a332e6ec77936e1598118b",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/hosted-git-info/download/hosted-git-info-2.1.5.tgz",
+    "hash": "0ba81d90da2e25ab34a332e6ec77936e1598118b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "0ba81d90da2e25ab34a332e6ec77936e1598118b"
+}

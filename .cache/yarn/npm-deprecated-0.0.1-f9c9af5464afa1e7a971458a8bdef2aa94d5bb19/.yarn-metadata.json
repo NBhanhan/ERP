@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/deprecated/download/deprecated-0.0.1.tgz#f9c9af5464afa1e7a971458a8bdef2aa94d5bb19",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/deprecated/download/deprecated-0.0.1.tgz",
+    "hash": "f9c9af5464afa1e7a971458a8bdef2aa94d5bb19",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f9c9af5464afa1e7a971458a8bdef2aa94d5bb19"
+}

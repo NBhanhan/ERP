@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/normalize-url/download/normalize-url-1.8.0.tgz#a9550b079aa3523c85d78df24eef1959fce359ab",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/normalize-url/download/normalize-url-1.8.0.tgz",
+    "hash": "a9550b079aa3523c85d78df24eef1959fce359ab",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a9550b079aa3523c85d78df24eef1959fce359ab"
+}

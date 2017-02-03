@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-modules-systemjs/download/babel-plugin-transform-es2015-modules-systemjs-6.19.0.tgz#50438136eba74527efa00a5b0fefaf1dc4071da6",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-modules-systemjs/download/babel-plugin-transform-es2015-modules-systemjs-6.19.0.tgz",
+    "hash": "50438136eba74527efa00a5b0fefaf1dc4071da6",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "50438136eba74527efa00a5b0fefaf1dc4071da6"
+}

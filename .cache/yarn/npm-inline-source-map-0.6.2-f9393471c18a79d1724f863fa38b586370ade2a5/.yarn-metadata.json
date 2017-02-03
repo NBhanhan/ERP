@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/inline-source-map/download/inline-source-map-0.6.2.tgz#f9393471c18a79d1724f863fa38b586370ade2a5",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/inline-source-map/download/inline-source-map-0.6.2.tgz",
+    "hash": "f9393471c18a79d1724f863fa38b586370ade2a5",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f9393471c18a79d1724f863fa38b586370ade2a5"
+}

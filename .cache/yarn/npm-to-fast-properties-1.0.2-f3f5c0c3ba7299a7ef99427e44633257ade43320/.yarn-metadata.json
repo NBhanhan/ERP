@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/to-fast-properties/download/to-fast-properties-1.0.2.tgz#f3f5c0c3ba7299a7ef99427e44633257ade43320",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/to-fast-properties/download/to-fast-properties-1.0.2.tgz",
+    "hash": "f3f5c0c3ba7299a7ef99427e44633257ade43320",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f3f5c0c3ba7299a7ef99427e44633257ade43320"
+}

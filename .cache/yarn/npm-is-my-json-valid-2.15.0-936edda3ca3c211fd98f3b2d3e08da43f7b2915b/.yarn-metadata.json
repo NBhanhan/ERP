@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/is-my-json-valid/download/is-my-json-valid-2.15.0.tgz#936edda3ca3c211fd98f3b2d3e08da43f7b2915b",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/is-my-json-valid/download/is-my-json-valid-2.15.0.tgz",
+    "hash": "936edda3ca3c211fd98f3b2d3e08da43f7b2915b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "936edda3ca3c211fd98f3b2d3e08da43f7b2915b"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/is-buffer/download/is-buffer-1.1.4.tgz#cfc86ccd5dc5a52fa80489111c6920c457e2d98b",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/is-buffer/download/is-buffer-1.1.4.tgz",
+    "hash": "cfc86ccd5dc5a52fa80489111c6920c457e2d98b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "cfc86ccd5dc5a52fa80489111c6920c457e2d98b"
+}

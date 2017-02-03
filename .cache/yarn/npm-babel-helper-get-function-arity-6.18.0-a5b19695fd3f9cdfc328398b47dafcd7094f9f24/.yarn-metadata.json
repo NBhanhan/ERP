@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-helper-get-function-arity/download/babel-helper-get-function-arity-6.18.0.tgz#a5b19695fd3f9cdfc328398b47dafcd7094f9f24",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-helper-get-function-arity/download/babel-helper-get-function-arity-6.18.0.tgz",
+    "hash": "a5b19695fd3f9cdfc328398b47dafcd7094f9f24",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a5b19695fd3f9cdfc328398b47dafcd7094f9f24"
+}

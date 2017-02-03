@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/gulp-notify/download/gulp-notify-2.2.0.tgz#046c8285c292e97eed4e15a009c26cbbe5cef135",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/gulp-notify/download/gulp-notify-2.2.0.tgz",
+    "hash": "046c8285c292e97eed4e15a009c26cbbe5cef135",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "046c8285c292e97eed4e15a009c26cbbe5cef135"
+}

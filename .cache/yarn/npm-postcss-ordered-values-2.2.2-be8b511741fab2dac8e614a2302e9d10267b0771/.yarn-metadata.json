@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss-ordered-values/download/postcss-ordered-values-2.2.2.tgz#be8b511741fab2dac8e614a2302e9d10267b0771",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss-ordered-values/download/postcss-ordered-values-2.2.2.tgz",
+    "hash": "be8b511741fab2dac8e614a2302e9d10267b0771",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "be8b511741fab2dac8e614a2302e9d10267b0771"
+}

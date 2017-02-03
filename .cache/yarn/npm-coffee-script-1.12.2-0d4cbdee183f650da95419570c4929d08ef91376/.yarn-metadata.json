@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/coffee-script/download/coffee-script-1.12.2.tgz#0d4cbdee183f650da95419570c4929d08ef91376",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/coffee-script/download/coffee-script-1.12.2.tgz",
+    "hash": "0d4cbdee183f650da95419570c4929d08ef91376",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "0d4cbdee183f650da95419570c4929d08ef91376"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/duplexer2/download/duplexer2-0.1.4.tgz#8b12dab878c0d69e3e7891051662a32fc6bddcc1",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/duplexer2/download/duplexer2-0.1.4.tgz",
+    "hash": "8b12dab878c0d69e3e7891051662a32fc6bddcc1",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "8b12dab878c0d69e3e7891051662a32fc6bddcc1"
+}

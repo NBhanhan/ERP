@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/bubleify/download/bubleify-0.5.1.tgz#f65c47cee31b80cad8b9e747bbe187d7fe51e927",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/bubleify/download/bubleify-0.5.1.tgz",
+    "hash": "f65c47cee31b80cad8b9e747bbe187d7fe51e927",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f65c47cee31b80cad8b9e747bbe187d7fe51e927"
+}

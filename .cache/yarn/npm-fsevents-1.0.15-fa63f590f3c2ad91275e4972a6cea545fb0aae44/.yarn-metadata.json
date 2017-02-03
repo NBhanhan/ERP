@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/fsevents/download/fsevents-1.0.15.tgz#fa63f590f3c2ad91275e4972a6cea545fb0aae44",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/fsevents/download/fsevents-1.0.15.tgz",
+    "hash": "fa63f590f3c2ad91275e4972a6cea545fb0aae44",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "fa63f590f3c2ad91275e4972a6cea545fb0aae44"
+}

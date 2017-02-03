@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/detect-indent/download/detect-indent-4.0.0.tgz#f76d064352cdf43a1cb6ce619c4ee3a9475de208",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/detect-indent/download/detect-indent-4.0.0.tgz",
+    "hash": "f76d064352cdf43a1cb6ce619c4ee3a9475de208",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f76d064352cdf43a1cb6ce619c4ee3a9475de208"
+}

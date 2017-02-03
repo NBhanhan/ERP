@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/has-ansi/download/has-ansi-0.1.0.tgz#84f265aae8c0e6a88a12d7022894b7568894c62e",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/has-ansi/download/has-ansi-0.1.0.tgz",
+    "hash": "84f265aae8c0e6a88a12d7022894b7568894c62e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "84f265aae8c0e6a88a12d7022894b7568894c62e"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/browserify-sign/download/browserify-sign-4.0.0.tgz#10773910c3c206d5420a46aad8694f820b85968f",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/browserify-sign/download/browserify-sign-4.0.0.tgz",
+    "hash": "10773910c3c206d5420a46aad8694f820b85968f",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "10773910c3c206d5420a46aad8694f820b85968f"
+}

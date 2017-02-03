@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/callsite/download/callsite-1.0.0.tgz#280398e5d664bd74038b6f0905153e6e8af1bc20",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/callsite/download/callsite-1.0.0.tgz",
+    "hash": "280398e5d664bd74038b6f0905153e6e8af1bc20",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "280398e5d664bd74038b6f0905153e6e8af1bc20"
+}

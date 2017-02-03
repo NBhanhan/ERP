@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/vinyl-paths/download/vinyl-paths-1.0.0.tgz#fc272ada915b4c3e8264cfb06de75d3ce07c8a9e",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/vinyl-paths/download/vinyl-paths-1.0.0.tgz",
+    "hash": "fc272ada915b4c3e8264cfb06de75d3ce07c8a9e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "fc272ada915b4c3e8264cfb06de75d3ce07c8a9e"
+}

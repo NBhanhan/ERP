@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/acorn/download/acorn-4.0.4.tgz#17a8d6a7a6c4ef538b814ec9abac2779293bf30a",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/acorn/download/acorn-4.0.4.tgz",
+    "hash": "17a8d6a7a6c4ef538b814ec9abac2779293bf30a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "17a8d6a7a6c4ef538b814ec9abac2779293bf30a"
+}

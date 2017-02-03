@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/lodash.keysin/download/lodash.keysin-3.0.8.tgz#22c4493ebbedb1427962a54b445b2c8a767fb47f",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/lodash.keysin/download/lodash.keysin-3.0.8.tgz",
+    "hash": "22c4493ebbedb1427962a54b445b2c8a767fb47f",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "22c4493ebbedb1427962a54b445b2c8a767fb47f"
+}

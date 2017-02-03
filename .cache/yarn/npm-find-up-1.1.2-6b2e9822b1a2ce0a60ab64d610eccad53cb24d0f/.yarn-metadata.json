@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/find-up/download/find-up-1.1.2.tgz#6b2e9822b1a2ce0a60ab64d610eccad53cb24d0f",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/find-up/download/find-up-1.1.2.tgz",
+    "hash": "6b2e9822b1a2ce0a60ab64d610eccad53cb24d0f",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6b2e9822b1a2ce0a60ab64d610eccad53cb24d0f"
+}

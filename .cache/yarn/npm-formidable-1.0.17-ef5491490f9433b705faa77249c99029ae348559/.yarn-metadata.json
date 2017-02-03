@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/formidable/download/formidable-1.0.17.tgz#ef5491490f9433b705faa77249c99029ae348559",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/formidable/download/formidable-1.0.17.tgz",
+    "hash": "ef5491490f9433b705faa77249c99029ae348559",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ef5491490f9433b705faa77249c99029ae348559"
+}

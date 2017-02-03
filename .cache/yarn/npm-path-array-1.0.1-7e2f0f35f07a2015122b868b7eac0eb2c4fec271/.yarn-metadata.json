@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/path-array/download/path-array-1.0.1.tgz#7e2f0f35f07a2015122b868b7eac0eb2c4fec271",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/path-array/download/path-array-1.0.1.tgz",
+    "hash": "7e2f0f35f07a2015122b868b7eac0eb2c4fec271",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "7e2f0f35f07a2015122b868b7eac0eb2c4fec271"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/eazy-logger/download/eazy-logger-3.0.2.tgz#a325aa5e53d13a2225889b2ac4113b2b9636f4fc",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/eazy-logger/download/eazy-logger-3.0.2.tgz",
+    "hash": "a325aa5e53d13a2225889b2ac4113b2b9636f4fc",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a325aa5e53d13a2225889b2ac4113b2b9636f4fc"
+}

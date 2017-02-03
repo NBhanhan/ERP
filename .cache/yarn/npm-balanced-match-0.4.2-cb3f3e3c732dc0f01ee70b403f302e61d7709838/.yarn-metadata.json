@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/balanced-match/download/balanced-match-0.4.2.tgz#cb3f3e3c732dc0f01ee70b403f302e61d7709838",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/balanced-match/download/balanced-match-0.4.2.tgz",
+    "hash": "cb3f3e3c732dc0f01ee70b403f302e61d7709838",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "cb3f3e3c732dc0f01ee70b403f302e61d7709838"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-duplicate-keys/download/babel-plugin-transform-es2015-duplicate-keys-6.8.0.tgz#fd8f7f7171fc108cc1c70c3164b9f15a81c25f7d",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-duplicate-keys/download/babel-plugin-transform-es2015-duplicate-keys-6.8.0.tgz",
+    "hash": "fd8f7f7171fc108cc1c70c3164b9f15a81c25f7d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "fd8f7f7171fc108cc1c70c3164b9f15a81c25f7d"
+}

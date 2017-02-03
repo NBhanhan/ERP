@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/cycle/download/cycle-1.0.3.tgz#21e80b2be8580f98b468f379430662b046c34ad2",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/cycle/download/cycle-1.0.3.tgz",
+    "hash": "21e80b2be8580f98b468f379430662b046c34ad2",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "21e80b2be8580f98b468f379430662b046c34ad2"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/uniq/download/uniq-1.0.1.tgz#b31c5ae8254844a3a8281541ce2b04b865a734ff",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/uniq/download/uniq-1.0.1.tgz",
+    "hash": "b31c5ae8254844a3a8281541ce2b04b865a734ff",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b31c5ae8254844a3a8281541ce2b04b865a734ff"
+}

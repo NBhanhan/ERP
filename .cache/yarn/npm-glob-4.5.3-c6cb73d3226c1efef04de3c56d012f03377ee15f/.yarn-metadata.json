@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/glob/download/glob-4.5.3.tgz#c6cb73d3226c1efef04de3c56d012f03377ee15f",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/glob/download/glob-4.5.3.tgz",
+    "hash": "c6cb73d3226c1efef04de3c56d012f03377ee15f",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c6cb73d3226c1efef04de3c56d012f03377ee15f"
+}

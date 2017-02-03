@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/globule/download/globule-1.1.0.tgz#c49352e4dc183d85893ee825385eb994bb6df45f",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/globule/download/globule-1.1.0.tgz",
+    "hash": "c49352e4dc183d85893ee825385eb994bb6df45f",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c49352e4dc183d85893ee825385eb994bb6df45f"
+}

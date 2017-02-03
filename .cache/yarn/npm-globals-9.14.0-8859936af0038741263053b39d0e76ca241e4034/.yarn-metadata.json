@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/globals/download/globals-9.14.0.tgz#8859936af0038741263053b39d0e76ca241e4034",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/globals/download/globals-9.14.0.tgz",
+    "hash": "8859936af0038741263053b39d0e76ca241e4034",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "8859936af0038741263053b39d0e76ca241e4034"
+}

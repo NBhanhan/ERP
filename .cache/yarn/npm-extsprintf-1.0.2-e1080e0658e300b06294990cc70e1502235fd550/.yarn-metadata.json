@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/extsprintf/download/extsprintf-1.0.2.tgz#e1080e0658e300b06294990cc70e1502235fd550",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/extsprintf/download/extsprintf-1.0.2.tgz",
+    "hash": "e1080e0658e300b06294990cc70e1502235fd550",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e1080e0658e300b06294990cc70e1502235fd550"
+}

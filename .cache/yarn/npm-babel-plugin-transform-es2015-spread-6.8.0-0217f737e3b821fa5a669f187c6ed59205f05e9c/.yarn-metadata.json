@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-spread/download/babel-plugin-transform-es2015-spread-6.8.0.tgz#0217f737e3b821fa5a669f187c6ed59205f05e9c",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-spread/download/babel-plugin-transform-es2015-spread-6.8.0.tgz",
+    "hash": "0217f737e3b821fa5a669f187c6ed59205f05e9c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "0217f737e3b821fa5a669f187c6ed59205f05e9c"
+}

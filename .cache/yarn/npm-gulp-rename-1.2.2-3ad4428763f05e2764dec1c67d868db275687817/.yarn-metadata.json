@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/gulp-rename/download/gulp-rename-1.2.2.tgz#3ad4428763f05e2764dec1c67d868db275687817",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/gulp-rename/download/gulp-rename-1.2.2.tgz",
+    "hash": "3ad4428763f05e2764dec1c67d868db275687817",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "3ad4428763f05e2764dec1c67d868db275687817"
+}

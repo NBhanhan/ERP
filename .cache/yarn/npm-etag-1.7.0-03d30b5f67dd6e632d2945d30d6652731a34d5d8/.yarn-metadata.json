@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/etag/download/etag-1.7.0.tgz#03d30b5f67dd6e632d2945d30d6652731a34d5d8",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/etag/download/etag-1.7.0.tgz",
+    "hash": "03d30b5f67dd6e632d2945d30d6652731a34d5d8",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "03d30b5f67dd6e632d2945d30d6652731a34d5d8"
+}

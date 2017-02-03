@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/nan/download/nan-2.5.0.tgz#aa8f1e34531d807e9e27755b234b4a6ec0c152a8",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/nan/download/nan-2.5.0.tgz",
+    "hash": "aa8f1e34531d807e9e27755b234b4a6ec0c152a8",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "aa8f1e34531d807e9e27755b234b4a6ec0c152a8"
+}

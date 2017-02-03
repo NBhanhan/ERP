@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/base64id/download/base64id-0.1.0.tgz#02ce0fdeee0cef4f40080e1e73e834f0b1bfce3f",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/base64id/download/base64id-0.1.0.tgz",
+    "hash": "02ce0fdeee0cef4f40080e1e73e834f0b1bfce3f",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "02ce0fdeee0cef4f40080e1e73e834f0b1bfce3f"
+}

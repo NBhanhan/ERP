@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/marked-terminal/download/marked-terminal-1.7.0.tgz#c8c460881c772c7604b64367007ee5f77f125904",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/marked-terminal/download/marked-terminal-1.7.0.tgz",
+    "hash": "c8c460881c772c7604b64367007ee5f77f125904",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c8c460881c772c7604b64367007ee5f77f125904"
+}

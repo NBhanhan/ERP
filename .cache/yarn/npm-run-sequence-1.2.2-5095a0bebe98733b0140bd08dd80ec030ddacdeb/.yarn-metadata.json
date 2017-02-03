@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/run-sequence/download/run-sequence-1.2.2.tgz#5095a0bebe98733b0140bd08dd80ec030ddacdeb",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/run-sequence/download/run-sequence-1.2.2.tgz",
+    "hash": "5095a0bebe98733b0140bd08dd80ec030ddacdeb",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "5095a0bebe98733b0140bd08dd80ec030ddacdeb"
+}

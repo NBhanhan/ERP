@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/colors/download/colors-1.1.2.tgz#168a4701756b6a7f51a12ce0c97bfa28c084ed63",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/colors/download/colors-1.1.2.tgz",
+    "hash": "168a4701756b6a7f51a12ce0c97bfa28c084ed63",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "168a4701756b6a7f51a12ce0c97bfa28c084ed63"
+}

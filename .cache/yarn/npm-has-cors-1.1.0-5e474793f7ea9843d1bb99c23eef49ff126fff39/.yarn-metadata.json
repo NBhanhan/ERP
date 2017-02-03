@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/has-cors/download/has-cors-1.1.0.tgz#5e474793f7ea9843d1bb99c23eef49ff126fff39",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/has-cors/download/has-cors-1.1.0.tgz",
+    "hash": "5e474793f7ea9843d1bb99c23eef49ff126fff39",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "5e474793f7ea9843d1bb99c23eef49ff126fff39"
+}

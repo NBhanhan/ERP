@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/num2fraction/download/num2fraction-1.2.2.tgz#6f682b6a027a4e9ddfa4564cd2589d1d4e669ede",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/num2fraction/download/num2fraction-1.2.2.tgz",
+    "hash": "6f682b6a027a4e9ddfa4564cd2589d1d4e669ede",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6f682b6a027a4e9ddfa4564cd2589d1d4e669ede"
+}

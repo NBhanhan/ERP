@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/css/download/css-2.2.1.tgz#73a4c81de85db664d4ee674f7d47085e3b2d55dc",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/css/download/css-2.2.1.tgz",
+    "hash": "73a4c81de85db664d4ee674f7d47085e3b2d55dc",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "73a4c81de85db664d4ee674f7d47085e3b2d55dc"
+}

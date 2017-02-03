@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/debug-fabulous/download/debug-fabulous-0.0.4.tgz#fa071c5d87484685424807421ca4b16b0b1a0763",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/debug-fabulous/download/debug-fabulous-0.0.4.tgz",
+    "hash": "fa071c5d87484685424807421ca4b16b0b1a0763",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "fa071c5d87484685424807421ca4b16b0b1a0763"
+}

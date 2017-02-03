@@ -1,0 +1,16 @@
+{
+  "artifacts": [
+    "vendor",
+    "vendor/linux-x64-48",
+    "vendor/linux-x64-48/binding.node"
+  ],
+  "hash": "7240fbbff2396304b4223527ed3020589c004fc2",
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/node-sass/download/node-sass-3.13.1.tgz#7240fbbff2396304b4223527ed3020589c004fc2",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/node-sass/download/node-sass-3.13.1.tgz",
+    "hash": "7240fbbff2396304b4223527ed3020589c004fc2",
+    "registry": "npm"
+  },
+  "registry": "npm"
+}

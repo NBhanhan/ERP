@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/glob2base/download/glob2base-0.0.12.tgz#9d419b3e28f12e83a362164a277055922c9c0d56",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/glob2base/download/glob2base-0.0.12.tgz",
+    "hash": "9d419b3e28f12e83a362164a277055922c9c0d56",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "9d419b3e28f12e83a362164a277055922c9c0d56"
+}

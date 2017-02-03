@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/first-chunk-stream/download/first-chunk-stream-2.0.0.tgz#1bdecdb8e083c0664b91945581577a43a9f31d70",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/first-chunk-stream/download/first-chunk-stream-2.0.0.tgz",
+    "hash": "1bdecdb8e083c0664b91945581577a43a9f31d70",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1bdecdb8e083c0664b91945581577a43a9f31d70"
+}

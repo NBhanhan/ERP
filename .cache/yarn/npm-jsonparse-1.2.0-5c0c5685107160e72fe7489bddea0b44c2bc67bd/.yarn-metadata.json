@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/jsonparse/download/jsonparse-1.2.0.tgz#5c0c5685107160e72fe7489bddea0b44c2bc67bd",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/jsonparse/download/jsonparse-1.2.0.tgz",
+    "hash": "5c0c5685107160e72fe7489bddea0b44c2bc67bd",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "5c0c5685107160e72fe7489bddea0b44c2bc67bd"
+}

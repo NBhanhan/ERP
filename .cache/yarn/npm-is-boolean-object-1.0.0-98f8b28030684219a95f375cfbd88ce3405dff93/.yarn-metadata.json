@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/is-boolean-object/download/is-boolean-object-1.0.0.tgz#98f8b28030684219a95f375cfbd88ce3405dff93",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/is-boolean-object/download/is-boolean-object-1.0.0.tgz",
+    "hash": "98f8b28030684219a95f375cfbd88ce3405dff93",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "98f8b28030684219a95f375cfbd88ce3405dff93"
+}

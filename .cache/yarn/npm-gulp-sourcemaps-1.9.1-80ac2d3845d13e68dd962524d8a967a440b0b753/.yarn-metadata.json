@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/gulp-sourcemaps/download/gulp-sourcemaps-1.9.1.tgz#80ac2d3845d13e68dd962524d8a967a440b0b753",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/gulp-sourcemaps/download/gulp-sourcemaps-1.9.1.tgz",
+    "hash": "80ac2d3845d13e68dd962524d8a967a440b0b753",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "80ac2d3845d13e68dd962524d8a967a440b0b753"
+}

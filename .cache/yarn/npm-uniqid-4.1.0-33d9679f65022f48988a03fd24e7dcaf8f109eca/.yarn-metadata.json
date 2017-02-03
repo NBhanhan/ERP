@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/uniqid/download/uniqid-4.1.0.tgz#33d9679f65022f48988a03fd24e7dcaf8f109eca",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/uniqid/download/uniqid-4.1.0.tgz",
+    "hash": "33d9679f65022f48988a03fd24e7dcaf8f109eca",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "33d9679f65022f48988a03fd24e7dcaf8f109eca"
+}

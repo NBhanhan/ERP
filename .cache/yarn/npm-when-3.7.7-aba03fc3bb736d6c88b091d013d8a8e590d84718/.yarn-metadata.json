@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/when/download/when-3.7.7.tgz#aba03fc3bb736d6c88b091d013d8a8e590d84718",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/when/download/when-3.7.7.tgz",
+    "hash": "aba03fc3bb736d6c88b091d013d8a8e590d84718",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "aba03fc3bb736d6c88b091d013d8a8e590d84718"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/bs-recipes/download/bs-recipes-1.3.2.tgz#aebff3bfc9dca4cab3c2938d91e43473cf41b6c1",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/bs-recipes/download/bs-recipes-1.3.2.tgz",
+    "hash": "aebff3bfc9dca4cab3c2938d91e43473cf41b6c1",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "aebff3bfc9dca4cab3c2938d91e43473cf41b6c1"
+}

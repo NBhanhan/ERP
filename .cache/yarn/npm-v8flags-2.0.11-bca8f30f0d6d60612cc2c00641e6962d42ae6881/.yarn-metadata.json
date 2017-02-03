@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/v8flags/download/v8flags-2.0.11.tgz#bca8f30f0d6d60612cc2c00641e6962d42ae6881",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/v8flags/download/v8flags-2.0.11.tgz",
+    "hash": "bca8f30f0d6d60612cc2c00641e6962d42ae6881",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "bca8f30f0d6d60612cc2c00641e6962d42ae6881"
+}

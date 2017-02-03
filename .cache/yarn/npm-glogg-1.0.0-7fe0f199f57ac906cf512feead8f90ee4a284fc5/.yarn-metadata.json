@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/glogg/download/glogg-1.0.0.tgz#7fe0f199f57ac906cf512feead8f90ee4a284fc5",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/glogg/download/glogg-1.0.0.tgz",
+    "hash": "7fe0f199f57ac906cf512feead8f90ee4a284fc5",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "7fe0f199f57ac906cf512feead8f90ee4a284fc5"
+}

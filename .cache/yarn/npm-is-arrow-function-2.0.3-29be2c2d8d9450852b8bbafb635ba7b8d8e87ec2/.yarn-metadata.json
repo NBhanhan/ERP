@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/is-arrow-function/download/is-arrow-function-2.0.3.tgz#29be2c2d8d9450852b8bbafb635ba7b8d8e87ec2",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/is-arrow-function/download/is-arrow-function-2.0.3.tgz",
+    "hash": "29be2c2d8d9450852b8bbafb635ba7b8d8e87ec2",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "29be2c2d8d9450852b8bbafb635ba7b8d8e87ec2"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/yallist/download/yallist-2.0.0.tgz#306c543835f09ee1a4cb23b7bce9ab341c91cdd4",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/yallist/download/yallist-2.0.0.tgz",
+    "hash": "306c543835f09ee1a4cb23b7bce9ab341c91cdd4",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "306c543835f09ee1a4cb23b7bce9ab341c91cdd4"
+}

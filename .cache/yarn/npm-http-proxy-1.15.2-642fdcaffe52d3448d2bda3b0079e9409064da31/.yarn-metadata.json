@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/http-proxy/download/http-proxy-1.15.2.tgz#642fdcaffe52d3448d2bda3b0079e9409064da31",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/http-proxy/download/http-proxy-1.15.2.tgz",
+    "hash": "642fdcaffe52d3448d2bda3b0079e9409064da31",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "642fdcaffe52d3448d2bda3b0079e9409064da31"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babelify/download/babelify-7.3.0.tgz#aa56aede7067fd7bd549666ee16dc285087e88e5",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babelify/download/babelify-7.3.0.tgz",
+    "hash": "aa56aede7067fd7bd549666ee16dc285087e88e5",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "aa56aede7067fd7bd549666ee16dc285087e88e5"
+}

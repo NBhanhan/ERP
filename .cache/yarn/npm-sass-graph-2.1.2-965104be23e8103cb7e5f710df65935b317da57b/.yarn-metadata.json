@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/sass-graph/download/sass-graph-2.1.2.tgz#965104be23e8103cb7e5f710df65935b317da57b",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/sass-graph/download/sass-graph-2.1.2.tgz",
+    "hash": "965104be23e8103cb7e5f710df65935b317da57b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "965104be23e8103cb7e5f710df65935b317da57b"
+}

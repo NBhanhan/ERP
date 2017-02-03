@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/console-control-strings/download/console-control-strings-1.1.0.tgz#3d7cf4464db6446ea644bf4b39507f9851008e8e",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/console-control-strings/download/console-control-strings-1.1.0.tgz",
+    "hash": "3d7cf4464db6446ea644bf4b39507f9851008e8e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "3d7cf4464db6446ea644bf4b39507f9851008e8e"
+}

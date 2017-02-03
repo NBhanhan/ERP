@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/dom-serializer/download/dom-serializer-0.1.0.tgz#073c697546ce0780ce23be4a28e293e40bc30c82",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/dom-serializer/download/dom-serializer-0.1.0.tgz",
+    "hash": "073c697546ce0780ce23be4a28e293e40bc30c82",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "073c697546ce0780ce23be4a28e293e40bc30c82"
+}

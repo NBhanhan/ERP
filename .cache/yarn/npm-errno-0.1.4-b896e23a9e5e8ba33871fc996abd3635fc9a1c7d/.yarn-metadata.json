@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/errno/download/errno-0.1.4.tgz#b896e23a9e5e8ba33871fc996abd3635fc9a1c7d",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/errno/download/errno-0.1.4.tgz",
+    "hash": "b896e23a9e5e8ba33871fc996abd3635fc9a1c7d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b896e23a9e5e8ba33871fc996abd3635fc9a1c7d"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/gulp-messenger/download/gulp-messenger-0.7.0.tgz#c856f1e8159d484beb717caf600497973f815e57",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/gulp-messenger/download/gulp-messenger-0.7.0.tgz",
+    "hash": "c856f1e8159d484beb717caf600497973f815e57",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c856f1e8159d484beb717caf600497973f815e57"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/lodash._bindcallback/download/lodash._bindcallback-3.0.1.tgz#e531c27644cf8b57a99e17ed95b35c748789392e",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/lodash._bindcallback/download/lodash._bindcallback-3.0.1.tgz",
+    "hash": "e531c27644cf8b57a99e17ed95b35c748789392e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e531c27644cf8b57a99e17ed95b35c748789392e"
+}

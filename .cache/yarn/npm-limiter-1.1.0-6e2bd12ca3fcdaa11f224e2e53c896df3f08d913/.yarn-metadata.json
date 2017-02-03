@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/limiter/download/limiter-1.1.0.tgz#6e2bd12ca3fcdaa11f224e2e53c896df3f08d913",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/limiter/download/limiter-1.1.0.tgz",
+    "hash": "6e2bd12ca3fcdaa11f224e2e53c896df3f08d913",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6e2bd12ca3fcdaa11f224e2e53c896df3f08d913"
+}

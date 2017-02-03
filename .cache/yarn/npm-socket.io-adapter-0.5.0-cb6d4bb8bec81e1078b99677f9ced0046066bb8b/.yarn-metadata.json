@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/socket.io-adapter/download/socket.io-adapter-0.5.0.tgz#cb6d4bb8bec81e1078b99677f9ced0046066bb8b",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/socket.io-adapter/download/socket.io-adapter-0.5.0.tgz",
+    "hash": "cb6d4bb8bec81e1078b99677f9ced0046066bb8b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "cb6d4bb8bec81e1078b99677f9ced0046066bb8b"
+}

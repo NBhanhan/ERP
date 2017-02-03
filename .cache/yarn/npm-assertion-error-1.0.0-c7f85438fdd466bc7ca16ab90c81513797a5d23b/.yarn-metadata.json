@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/assertion-error/download/assertion-error-1.0.0.tgz#c7f85438fdd466bc7ca16ab90c81513797a5d23b",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/assertion-error/download/assertion-error-1.0.0.tgz",
+    "hash": "c7f85438fdd466bc7ca16ab90c81513797a5d23b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c7f85438fdd466bc7ca16ab90c81513797a5d23b"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/lodash.clonedeep/download/lodash.clonedeep-4.5.0.tgz#e23f3f9c4f8fbdde872529c1071857a086e5ccef",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/lodash.clonedeep/download/lodash.clonedeep-4.5.0.tgz",
+    "hash": "e23f3f9c4f8fbdde872529c1071857a086e5ccef",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e23f3f9c4f8fbdde872529c1071857a086e5ccef"
+}

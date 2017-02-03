@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/finalhandler/download/finalhandler-0.5.0.tgz#e9508abece9b6dba871a6942a1d7911b91911ac7",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/finalhandler/download/finalhandler-0.5.0.tgz",
+    "hash": "e9508abece9b6dba871a6942a1d7911b91911ac7",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e9508abece9b6dba871a6942a1d7911b91911ac7"
+}

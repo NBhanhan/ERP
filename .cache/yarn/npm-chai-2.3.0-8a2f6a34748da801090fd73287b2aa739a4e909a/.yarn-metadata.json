@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/chai/download/chai-2.3.0.tgz#8a2f6a34748da801090fd73287b2aa739a4e909a",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/chai/download/chai-2.3.0.tgz",
+    "hash": "8a2f6a34748da801090fd73287b2aa739a4e909a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "8a2f6a34748da801090fd73287b2aa739a4e909a"
+}

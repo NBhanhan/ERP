@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/elliptic/download/elliptic-6.3.2.tgz#e4c81e0829cf0a65ab70e998b8232723b5c1bc48",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/elliptic/download/elliptic-6.3.2.tgz",
+    "hash": "e4c81e0829cf0a65ab70e998b8232723b5c1bc48",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e4c81e0829cf0a65ab70e998b8232723b5c1bc48"
+}

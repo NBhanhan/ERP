@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/gulp-jshint/download/gulp-jshint-1.12.0.tgz#23fbd1bafdd6fbfe61ea64667a74809a961d03de",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/gulp-jshint/download/gulp-jshint-1.12.0.tgz",
+    "hash": "23fbd1bafdd6fbfe61ea64667a74809a961d03de",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "23fbd1bafdd6fbfe61ea64667a74809a961d03de"
+}

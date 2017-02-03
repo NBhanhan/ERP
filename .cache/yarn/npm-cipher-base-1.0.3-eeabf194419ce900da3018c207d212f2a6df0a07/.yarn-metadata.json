@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/cipher-base/download/cipher-base-1.0.3.tgz#eeabf194419ce900da3018c207d212f2a6df0a07",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/cipher-base/download/cipher-base-1.0.3.tgz",
+    "hash": "eeabf194419ce900da3018c207d212f2a6df0a07",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "eeabf194419ce900da3018c207d212f2a6df0a07"
+}

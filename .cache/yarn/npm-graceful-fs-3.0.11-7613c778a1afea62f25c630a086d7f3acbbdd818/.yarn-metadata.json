@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/graceful-fs/download/graceful-fs-3.0.11.tgz#7613c778a1afea62f25c630a086d7f3acbbdd818",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/graceful-fs/download/graceful-fs-3.0.11.tgz",
+    "hash": "7613c778a1afea62f25c630a086d7f3acbbdd818",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "7613c778a1afea62f25c630a086d7f3acbbdd818"
+}

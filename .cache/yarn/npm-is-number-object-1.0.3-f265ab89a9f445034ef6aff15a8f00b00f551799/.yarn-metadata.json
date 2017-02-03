@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/is-number-object/download/is-number-object-1.0.3.tgz#f265ab89a9f445034ef6aff15a8f00b00f551799",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/is-number-object/download/is-number-object-1.0.3.tgz",
+    "hash": "f265ab89a9f445034ef6aff15a8f00b00f551799",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f265ab89a9f445034ef6aff15a8f00b00f551799"
+}

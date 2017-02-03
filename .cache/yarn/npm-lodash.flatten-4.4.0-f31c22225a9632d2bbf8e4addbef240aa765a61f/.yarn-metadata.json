@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/lodash.flatten/download/lodash.flatten-4.4.0.tgz#f31c22225a9632d2bbf8e4addbef240aa765a61f",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/lodash.flatten/download/lodash.flatten-4.4.0.tgz",
+    "hash": "f31c22225a9632d2bbf8e4addbef240aa765a61f",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f31c22225a9632d2bbf8e4addbef240aa765a61f"
+}

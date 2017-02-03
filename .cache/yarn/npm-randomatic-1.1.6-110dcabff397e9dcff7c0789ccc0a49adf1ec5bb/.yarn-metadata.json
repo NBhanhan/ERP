@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/randomatic/download/randomatic-1.1.6.tgz#110dcabff397e9dcff7c0789ccc0a49adf1ec5bb",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/randomatic/download/randomatic-1.1.6.tgz",
+    "hash": "110dcabff397e9dcff7c0789ccc0a49adf1ec5bb",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "110dcabff397e9dcff7c0789ccc0a49adf1ec5bb"
+}

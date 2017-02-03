@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/winston/download/winston-1.1.2.tgz#68edd769ff79d4f9528cf0e5d80021aade67480c",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/winston/download/winston-1.1.2.tgz",
+    "hash": "68edd769ff79d4f9528cf0e5d80021aade67480c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "68edd769ff79d4f9528cf0e5d80021aade67480c"
+}

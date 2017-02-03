@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/es5-ext/download/es5-ext-0.10.12.tgz#aa84641d4db76b62abba5e45fd805ecbab140047",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/es5-ext/download/es5-ext-0.10.12.tgz",
+    "hash": "aa84641d4db76b62abba5e45fd805ecbab140047",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "aa84641d4db76b62abba5e45fd805ecbab140047"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/deap/download/deap-1.0.0.tgz#b148bf82430a27699b7483a03eb6b67585bfc888",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/deap/download/deap-1.0.0.tgz",
+    "hash": "b148bf82430a27699b7483a03eb6b67585bfc888",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b148bf82430a27699b7483a03eb6b67585bfc888"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/object-assign/download/object-assign-3.0.0.tgz#9bedd5ca0897949bca47e7ff408062d549f587f2",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/object-assign/download/object-assign-3.0.0.tgz",
+    "hash": "9bedd5ca0897949bca47e7ff408062d549f587f2",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "9bedd5ca0897949bca47e7ff408062d549f587f2"
+}

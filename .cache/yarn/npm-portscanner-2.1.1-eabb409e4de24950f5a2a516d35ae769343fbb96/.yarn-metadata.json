@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/portscanner/download/portscanner-2.1.1.tgz#eabb409e4de24950f5a2a516d35ae769343fbb96",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/portscanner/download/portscanner-2.1.1.tgz",
+    "hash": "eabb409e4de24950f5a2a516d35ae769343fbb96",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "eabb409e4de24950f5a2a516d35ae769343fbb96"
+}

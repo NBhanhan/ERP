@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/glob-stream/download/glob-stream-3.1.18.tgz#9170a5f12b790306fdfe598f313f8f7954fd143b",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/glob-stream/download/glob-stream-3.1.18.tgz",
+    "hash": "9170a5f12b790306fdfe598f313f8f7954fd143b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "9170a5f12b790306fdfe598f313f8f7954fd143b"
+}

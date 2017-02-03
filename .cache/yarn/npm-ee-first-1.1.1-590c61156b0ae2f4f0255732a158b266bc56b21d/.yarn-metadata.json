@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/ee-first/download/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/ee-first/download/ee-first-1.1.1.tgz",
+    "hash": "590c61156b0ae2f4f0255732a158b266bc56b21d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "590c61156b0ae2f4f0255732a158b266bc56b21d"
+}

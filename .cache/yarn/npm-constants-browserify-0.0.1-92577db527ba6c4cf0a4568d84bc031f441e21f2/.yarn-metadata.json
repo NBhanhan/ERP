@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/constants-browserify/download/constants-browserify-0.0.1.tgz#92577db527ba6c4cf0a4568d84bc031f441e21f2",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/constants-browserify/download/constants-browserify-0.0.1.tgz",
+    "hash": "92577db527ba6c4cf0a4568d84bc031f441e21f2",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "92577db527ba6c4cf0a4568d84bc031f441e21f2"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/pbkdf2/download/pbkdf2-3.0.9.tgz#f2c4b25a600058b3c3773c086c37dbbee1ffe693",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/pbkdf2/download/pbkdf2-3.0.9.tgz",
+    "hash": "f2c4b25a600058b3c3773c086c37dbbee1ffe693",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f2c4b25a600058b3c3773c086c37dbbee1ffe693"
+}

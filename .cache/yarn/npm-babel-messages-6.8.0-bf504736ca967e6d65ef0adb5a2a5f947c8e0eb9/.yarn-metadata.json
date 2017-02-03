@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-messages/download/babel-messages-6.8.0.tgz#bf504736ca967e6d65ef0adb5a2a5f947c8e0eb9",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-messages/download/babel-messages-6.8.0.tgz",
+    "hash": "bf504736ca967e6d65ef0adb5a2a5f947c8e0eb9",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "bf504736ca967e6d65ef0adb5a2a5f947c8e0eb9"
+}

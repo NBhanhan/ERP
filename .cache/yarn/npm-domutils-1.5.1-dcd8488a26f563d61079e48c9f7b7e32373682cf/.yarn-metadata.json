@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/domutils/download/domutils-1.5.1.tgz#dcd8488a26f563d61079e48c9f7b7e32373682cf",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/domutils/download/domutils-1.5.1.tgz",
+    "hash": "dcd8488a26f563d61079e48c9f7b7e32373682cf",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "dcd8488a26f563d61079e48c9f7b7e32373682cf"
+}

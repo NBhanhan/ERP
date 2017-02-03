@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/timers-browserify/download/timers-browserify-1.4.2.tgz#c9c58b575be8407375cb5e2462dacee74359f41d",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/timers-browserify/download/timers-browserify-1.4.2.tgz",
+    "hash": "c9c58b575be8407375cb5e2462dacee74359f41d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c9c58b575be8407375cb5e2462dacee74359f41d"
+}

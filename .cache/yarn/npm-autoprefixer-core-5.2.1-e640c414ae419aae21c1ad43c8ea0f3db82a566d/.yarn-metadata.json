@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/autoprefixer-core/download/autoprefixer-core-5.2.1.tgz#e640c414ae419aae21c1ad43c8ea0f3db82a566d",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/autoprefixer-core/download/autoprefixer-core-5.2.1.tgz",
+    "hash": "e640c414ae419aae21c1ad43c8ea0f3db82a566d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e640c414ae419aae21c1ad43c8ea0f3db82a566d"
+}

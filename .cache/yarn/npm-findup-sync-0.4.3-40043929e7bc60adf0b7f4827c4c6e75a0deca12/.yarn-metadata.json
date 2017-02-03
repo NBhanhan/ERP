@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/findup-sync/download/findup-sync-0.4.3.tgz#40043929e7bc60adf0b7f4827c4c6e75a0deca12",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/findup-sync/download/findup-sync-0.4.3.tgz",
+    "hash": "40043929e7bc60adf0b7f4827c4c6e75a0deca12",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "40043929e7bc60adf0b7f4827c4c6e75a0deca12"
+}

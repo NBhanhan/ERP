@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/component-emitter/download/component-emitter-1.2.1.tgz#137918d6d78283f7df7a6b7c5a63e140e69425e6",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/component-emitter/download/component-emitter-1.2.1.tgz",
+    "hash": "137918d6d78283f7df7a6b7c5a63e140e69425e6",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "137918d6d78283f7df7a6b7c5a63e140e69425e6"
+}

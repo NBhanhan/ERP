@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/browser-resolve/download/browser-resolve-1.11.2.tgz#8ff09b0a2c421718a1051c260b32e48f442938ce",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/browser-resolve/download/browser-resolve-1.11.2.tgz",
+    "hash": "8ff09b0a2c421718a1051c260b32e48f442938ce",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "8ff09b0a2c421718a1051c260b32e48f442938ce"
+}

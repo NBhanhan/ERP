@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss-reduce-idents/download/postcss-reduce-idents-2.3.1.tgz#024e8e219f52773313408573db9645ba62d2d2fe",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss-reduce-idents/download/postcss-reduce-idents-2.3.1.tgz",
+    "hash": "024e8e219f52773313408573db9645ba62d2d2fe",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "024e8e219f52773313408573db9645ba62d2d2fe"
+}

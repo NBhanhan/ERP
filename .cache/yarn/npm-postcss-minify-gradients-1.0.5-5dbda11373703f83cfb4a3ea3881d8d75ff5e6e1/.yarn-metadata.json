@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss-minify-gradients/download/postcss-minify-gradients-1.0.5.tgz#5dbda11373703f83cfb4a3ea3881d8d75ff5e6e1",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss-minify-gradients/download/postcss-minify-gradients-1.0.5.tgz",
+    "hash": "5dbda11373703f83cfb4a3ea3881d8d75ff5e6e1",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "5dbda11373703f83cfb4a3ea3881d8d75ff5e6e1"
+}

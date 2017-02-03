@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/caseless/download/caseless-0.11.0.tgz#715b96ea9841593cc33067923f5ec60ebda4f7d7",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/caseless/download/caseless-0.11.0.tgz",
+    "hash": "715b96ea9841593cc33067923f5ec60ebda4f7d7",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "715b96ea9841593cc33067923f5ec60ebda4f7d7"
+}

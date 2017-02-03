@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/string-length/download/string-length-1.0.1.tgz#56970fb1c38558e9e70b728bf3de269ac45adfac",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/string-length/download/string-length-1.0.1.tgz",
+    "hash": "56970fb1c38558e9e70b728bf3de269ac45adfac",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "56970fb1c38558e9e70b728bf3de269ac45adfac"
+}

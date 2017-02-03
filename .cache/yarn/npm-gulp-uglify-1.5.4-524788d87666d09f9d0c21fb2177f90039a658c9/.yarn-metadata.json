@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/gulp-uglify/download/gulp-uglify-1.5.4.tgz#524788d87666d09f9d0c21fb2177f90039a658c9",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/gulp-uglify/download/gulp-uglify-1.5.4.tgz",
+    "hash": "524788d87666d09f9d0c21fb2177f90039a658c9",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "524788d87666d09f9d0c21fb2177f90039a658c9"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/yargs/download/yargs-4.8.1.tgz#c0c42924ca4aaa6b0e6da1739dfb216439f9ddc0",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/yargs/download/yargs-4.8.1.tgz",
+    "hash": "c0c42924ca4aaa6b0e6da1739dfb216439f9ddc0",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c0c42924ca4aaa6b0e6da1739dfb216439f9ddc0"
+}

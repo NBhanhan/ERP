@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/lodash.indexof/download/lodash.indexof-4.0.5.tgz#53714adc2cddd6ed87638f893aa9b6c24e31ef3c",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/lodash.indexof/download/lodash.indexof-4.0.5.tgz",
+    "hash": "53714adc2cddd6ed87638f893aa9b6c24e31ef3c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "53714adc2cddd6ed87638f893aa9b6c24e31ef3c"
+}

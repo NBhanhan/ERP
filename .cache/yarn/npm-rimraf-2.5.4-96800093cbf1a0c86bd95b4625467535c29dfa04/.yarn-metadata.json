@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/rimraf/download/rimraf-2.5.4.tgz#96800093cbf1a0c86bd95b4625467535c29dfa04",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/rimraf/download/rimraf-2.5.4.tgz",
+    "hash": "96800093cbf1a0c86bd95b4625467535c29dfa04",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "96800093cbf1a0c86bd95b4625467535c29dfa04"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/lodash._escapestringchar/download/lodash._escapestringchar-2.4.1.tgz#ecfe22618a2ade50bfeea43937e51df66f0edb72",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/lodash._escapestringchar/download/lodash._escapestringchar-2.4.1.tgz",
+    "hash": "ecfe22618a2ade50bfeea43937e51df66f0edb72",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ecfe22618a2ade50bfeea43937e51df66f0edb72"
+}

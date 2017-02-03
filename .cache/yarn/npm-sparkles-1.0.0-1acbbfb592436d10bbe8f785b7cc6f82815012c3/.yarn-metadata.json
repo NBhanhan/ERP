@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/sparkles/download/sparkles-1.0.0.tgz#1acbbfb592436d10bbe8f785b7cc6f82815012c3",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/sparkles/download/sparkles-1.0.0.tgz",
+    "hash": "1acbbfb592436d10bbe8f785b7cc6f82815012c3",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1acbbfb592436d10bbe8f785b7cc6f82815012c3"
+}

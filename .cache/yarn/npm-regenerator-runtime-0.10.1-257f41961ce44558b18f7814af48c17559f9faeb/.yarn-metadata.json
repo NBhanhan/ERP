@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/regenerator-runtime/download/regenerator-runtime-0.10.1.tgz#257f41961ce44558b18f7814af48c17559f9faeb",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/regenerator-runtime/download/regenerator-runtime-0.10.1.tgz",
+    "hash": "257f41961ce44558b18f7814af48c17559f9faeb",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "257f41961ce44558b18f7814af48c17559f9faeb"
+}

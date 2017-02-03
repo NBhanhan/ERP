@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/tar-pack/download/tar-pack-3.3.0.tgz#30931816418f55afc4d21775afdd6720cee45dae",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/tar-pack/download/tar-pack-3.3.0.tgz",
+    "hash": "30931816418f55afc4d21775afdd6720cee45dae",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "30931816418f55afc4d21775afdd6720cee45dae"
+}

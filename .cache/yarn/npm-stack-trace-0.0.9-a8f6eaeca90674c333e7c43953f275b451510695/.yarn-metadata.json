@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/stack-trace/download/stack-trace-0.0.9.tgz#a8f6eaeca90674c333e7c43953f275b451510695",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/stack-trace/download/stack-trace-0.0.9.tgz",
+    "hash": "a8f6eaeca90674c333e7c43953f275b451510695",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a8f6eaeca90674c333e7c43953f275b451510695"
+}

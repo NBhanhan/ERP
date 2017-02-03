@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/home-or-tmp/download/home-or-tmp-2.0.0.tgz#e36c3f2d2cae7d746a857e38d18d5f32a7882db8",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/home-or-tmp/download/home-or-tmp-2.0.0.tgz",
+    "hash": "e36c3f2d2cae7d746a857e38d18d5f32a7882db8",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e36c3f2d2cae7d746a857e38d18d5f32a7882db8"
+}

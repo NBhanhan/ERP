@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-unicode-regex/download/babel-plugin-transform-es2015-unicode-regex-6.11.0.tgz#6298ceabaad88d50a3f4f392d8de997260f6ef2c",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-unicode-regex/download/babel-plugin-transform-es2015-unicode-regex-6.11.0.tgz",
+    "hash": "6298ceabaad88d50a3f4f392d8de997260f6ef2c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6298ceabaad88d50a3f4f392d8de997260f6ef2c"
+}

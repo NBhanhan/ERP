@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/randombytes/download/randombytes-2.0.3.tgz#674c99760901c3c4112771a31e521dc349cc09ec",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/randombytes/download/randombytes-2.0.3.tgz",
+    "hash": "674c99760901c3c4112771a31e521dc349cc09ec",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "674c99760901c3c4112771a31e521dc349cc09ec"
+}

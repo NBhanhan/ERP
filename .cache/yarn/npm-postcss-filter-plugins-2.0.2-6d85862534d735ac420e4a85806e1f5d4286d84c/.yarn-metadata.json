@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss-filter-plugins/download/postcss-filter-plugins-2.0.2.tgz#6d85862534d735ac420e4a85806e1f5d4286d84c",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss-filter-plugins/download/postcss-filter-plugins-2.0.2.tgz",
+    "hash": "6d85862534d735ac420e4a85806e1f5d4286d84c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6d85862534d735ac420e4a85806e1f5d4286d84c"
+}

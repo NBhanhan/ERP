@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/onetime/download/onetime-1.1.0.tgz#a1f7838f8314c516f05ecefcbc4ccfe04b4ed789",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/onetime/download/onetime-1.1.0.tgz",
+    "hash": "a1f7838f8314c516f05ecefcbc4ccfe04b4ed789",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a1f7838f8314c516f05ecefcbc4ccfe04b4ed789"
+}

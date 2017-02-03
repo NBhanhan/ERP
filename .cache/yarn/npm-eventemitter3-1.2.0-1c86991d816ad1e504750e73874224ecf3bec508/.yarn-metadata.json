@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/eventemitter3/download/eventemitter3-1.2.0.tgz#1c86991d816ad1e504750e73874224ecf3bec508",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/eventemitter3/download/eventemitter3-1.2.0.tgz",
+    "hash": "1c86991d816ad1e504750e73874224ecf3bec508",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1c86991d816ad1e504750e73874224ecf3bec508"
+}

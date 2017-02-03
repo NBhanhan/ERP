@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/shellwords/download/shellwords-0.1.0.tgz#66afd47b6a12932d9071cbfd98a52e785cd0ba14",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/shellwords/download/shellwords-0.1.0.tgz",
+    "hash": "66afd47b6a12932d9071cbfd98a52e785cd0ba14",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "66afd47b6a12932d9071cbfd98a52e785cd0ba14"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss-zindex/download/postcss-zindex-2.2.0.tgz#d2109ddc055b91af67fc4cb3b025946639d2af22",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss-zindex/download/postcss-zindex-2.2.0.tgz",
+    "hash": "d2109ddc055b91af67fc4cb3b025946639d2af22",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d2109ddc055b91af67fc4cb3b025946639d2af22"
+}

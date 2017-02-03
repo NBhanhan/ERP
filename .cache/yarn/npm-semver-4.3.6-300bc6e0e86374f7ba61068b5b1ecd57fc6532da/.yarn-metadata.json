@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/semver/download/semver-4.3.6.tgz#300bc6e0e86374f7ba61068b5b1ecd57fc6532da",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/semver/download/semver-4.3.6.tgz",
+    "hash": "300bc6e0e86374f7ba61068b5b1ecd57fc6532da",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "300bc6e0e86374f7ba61068b5b1ecd57fc6532da"
+}

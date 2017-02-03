@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/js-tokens/download/js-tokens-2.0.0.tgz#79903f5563ee778cc1162e6dcf1a0027c97f9cb5",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/js-tokens/download/js-tokens-2.0.0.tgz",
+    "hash": "79903f5563ee778cc1162e6dcf1a0027c97f9cb5",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "79903f5563ee778cc1162e6dcf1a0027c97f9cb5"
+}

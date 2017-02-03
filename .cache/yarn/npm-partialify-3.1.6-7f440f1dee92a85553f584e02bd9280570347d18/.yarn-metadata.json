@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/partialify/download/partialify-3.1.6.tgz#7f440f1dee92a85553f584e02bd9280570347d18",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/partialify/download/partialify-3.1.6.tgz",
+    "hash": "7f440f1dee92a85553f584e02bd9280570347d18",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "7f440f1dee92a85553f584e02bd9280570347d18"
+}

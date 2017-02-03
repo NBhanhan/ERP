@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/cardinal/download/cardinal-1.0.0.tgz#50e21c1b0aa37729f9377def196b5a9cec932ee9",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/cardinal/download/cardinal-1.0.0.tgz",
+    "hash": "50e21c1b0aa37729f9377def196b5a9cec932ee9",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "50e21c1b0aa37729f9377def196b5a9cec932ee9"
+}

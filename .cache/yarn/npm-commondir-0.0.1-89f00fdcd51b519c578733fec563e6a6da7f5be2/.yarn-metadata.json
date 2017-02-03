@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/commondir/download/commondir-0.0.1.tgz#89f00fdcd51b519c578733fec563e6a6da7f5be2",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/commondir/download/commondir-0.0.1.tgz",
+    "hash": "89f00fdcd51b519c578733fec563e6a6da7f5be2",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "89f00fdcd51b519c578733fec563e6a6da7f5be2"
+}

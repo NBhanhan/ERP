@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/clap/download/clap-1.1.2.tgz#316545bf22229225a2cecaa6824cd2f56a9709ed",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/clap/download/clap-1.1.2.tgz",
+    "hash": "316545bf22229225a2cecaa6824cd2f56a9709ed",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "316545bf22229225a2cecaa6824cd2f56a9709ed"
+}

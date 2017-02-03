@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-sticky-regex/download/babel-plugin-transform-es2015-sticky-regex-6.8.0.tgz#e73d300a440a35d5c64f5c2a344dc236e3df47be",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-plugin-transform-es2015-sticky-regex/download/babel-plugin-transform-es2015-sticky-regex-6.8.0.tgz",
+    "hash": "e73d300a440a35d5c64f5c2a344dc236e3df47be",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e73d300a440a35d5c64f5c2a344dc236e3df47be"
+}

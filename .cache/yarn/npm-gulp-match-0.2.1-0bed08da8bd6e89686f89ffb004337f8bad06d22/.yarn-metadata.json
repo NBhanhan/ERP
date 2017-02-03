@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/gulp-match/download/gulp-match-0.2.1.tgz#0bed08da8bd6e89686f89ffb004337f8bad06d22",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/gulp-match/download/gulp-match-0.2.1.tgz",
+    "hash": "0bed08da8bd6e89686f89ffb004337f8bad06d22",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "0bed08da8bd6e89686f89ffb004337f8bad06d22"
+}

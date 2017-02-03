@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/liftoff/download/liftoff-2.3.0.tgz#a98f2ff67183d8ba7cfaca10548bd7ff0550b385",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/liftoff/download/liftoff-2.3.0.tgz",
+    "hash": "a98f2ff67183d8ba7cfaca10548bd7ff0550b385",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a98f2ff67183d8ba7cfaca10548bd7ff0550b385"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/browser-pack/download/browser-pack-5.0.1.tgz#4197719b20c6e0aaa09451c5111e53efb6fbc18d",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/browser-pack/download/browser-pack-5.0.1.tgz",
+    "hash": "4197719b20c6e0aaa09451c5111e53efb6fbc18d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "4197719b20c6e0aaa09451c5111e53efb6fbc18d"
+}

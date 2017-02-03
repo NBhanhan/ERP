@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/homedir-polyfill/download/homedir-polyfill-1.0.1.tgz#4c2bbc8a758998feebf5ed68580f76d46768b4bc",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/homedir-polyfill/download/homedir-polyfill-1.0.1.tgz",
+    "hash": "4c2bbc8a758998feebf5ed68580f76d46768b4bc",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "4c2bbc8a758998feebf5ed68580f76d46768b4bc"
+}

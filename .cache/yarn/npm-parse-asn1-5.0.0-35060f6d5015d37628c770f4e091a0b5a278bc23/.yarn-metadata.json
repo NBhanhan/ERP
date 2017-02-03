@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/parse-asn1/download/parse-asn1-5.0.0.tgz#35060f6d5015d37628c770f4e091a0b5a278bc23",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/parse-asn1/download/parse-asn1-5.0.0.tgz",
+    "hash": "35060f6d5015d37628c770f4e091a0b5a278bc23",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "35060f6d5015d37628c770f4e091a0b5a278bc23"
+}

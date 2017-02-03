@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/is-date-object/download/is-date-object-1.0.1.tgz#9aa20eb6aeebbff77fbd33e74ca01b33581d3a16",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/is-date-object/download/is-date-object-1.0.1.tgz",
+    "hash": "9aa20eb6aeebbff77fbd33e74ca01b33581d3a16",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "9aa20eb6aeebbff77fbd33e74ca01b33581d3a16"
+}

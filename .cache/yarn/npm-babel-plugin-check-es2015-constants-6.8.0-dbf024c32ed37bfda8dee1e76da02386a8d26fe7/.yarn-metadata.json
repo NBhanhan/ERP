@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-plugin-check-es2015-constants/download/babel-plugin-check-es2015-constants-6.8.0.tgz#dbf024c32ed37bfda8dee1e76da02386a8d26fe7",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-plugin-check-es2015-constants/download/babel-plugin-check-es2015-constants-6.8.0.tgz",
+    "hash": "dbf024c32ed37bfda8dee1e76da02386a8d26fe7",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "dbf024c32ed37bfda8dee1e76da02386a8d26fe7"
+}

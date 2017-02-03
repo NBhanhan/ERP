@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-plugin-syntax-flow/download/babel-plugin-syntax-flow-6.18.0.tgz#4c3ab20a2af26aa20cd25995c398c4eb70310c8d",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-plugin-syntax-flow/download/babel-plugin-syntax-flow-6.18.0.tgz",
+    "hash": "4c3ab20a2af26aa20cd25995c398c4eb70310c8d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "4c3ab20a2af26aa20cd25995c398c4eb70310c8d"
+}

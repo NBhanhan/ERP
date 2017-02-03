@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/log-symbols/download/log-symbols-1.0.2.tgz#376ff7b58ea3086a0f09facc74617eca501e1a18",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/log-symbols/download/log-symbols-1.0.2.tgz",
+    "hash": "376ff7b58ea3086a0f09facc74617eca501e1a18",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "376ff7b58ea3086a0f09facc74617eca501e1a18"
+}

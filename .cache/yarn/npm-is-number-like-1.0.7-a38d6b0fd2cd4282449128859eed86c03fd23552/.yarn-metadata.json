@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/is-number-like/download/is-number-like-1.0.7.tgz#a38d6b0fd2cd4282449128859eed86c03fd23552",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/is-number-like/download/is-number-like-1.0.7.tgz",
+    "hash": "a38d6b0fd2cd4282449128859eed86c03fd23552",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a38d6b0fd2cd4282449128859eed86c03fd23552"
+}

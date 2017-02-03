@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/subarg/download/subarg-1.0.0.tgz#f62cf17581e996b48fc965699f54c06ae268b8d2",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/subarg/download/subarg-1.0.0.tgz",
+    "hash": "f62cf17581e996b48fc965699f54c06ae268b8d2",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f62cf17581e996b48fc965699f54c06ae268b8d2"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/babel-core/download/babel-core-6.21.0.tgz#75525480c21c803f826ef3867d22c19f080a3724",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/babel-core/download/babel-core-6.21.0.tgz",
+    "hash": "75525480c21c803f826ef3867d22c19f080a3724",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "75525480c21c803f826ef3867d22c19f080a3724"
+}

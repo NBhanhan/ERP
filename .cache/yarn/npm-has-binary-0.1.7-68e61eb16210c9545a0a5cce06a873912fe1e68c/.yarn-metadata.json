@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/has-binary/download/has-binary-0.1.7.tgz#68e61eb16210c9545a0a5cce06a873912fe1e68c",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/has-binary/download/has-binary-0.1.7.tgz",
+    "hash": "68e61eb16210c9545a0a5cce06a873912fe1e68c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "68e61eb16210c9545a0a5cce06a873912fe1e68c"
+}

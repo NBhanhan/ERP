@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/fstream/download/fstream-1.0.10.tgz#604e8a92fe26ffd9f6fae30399d4984e1ab22822",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/fstream/download/fstream-1.0.10.tgz",
+    "hash": "604e8a92fe26ffd9f6fae30399d4984e1ab22822",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "604e8a92fe26ffd9f6fae30399d4984e1ab22822"
+}

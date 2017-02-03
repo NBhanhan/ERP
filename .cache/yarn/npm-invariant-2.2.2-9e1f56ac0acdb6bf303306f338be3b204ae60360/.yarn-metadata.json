@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/invariant/download/invariant-2.2.2.tgz#9e1f56ac0acdb6bf303306f338be3b204ae60360",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/invariant/download/invariant-2.2.2.tgz",
+    "hash": "9e1f56ac0acdb6bf303306f338be3b204ae60360",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "9e1f56ac0acdb6bf303306f338be3b204ae60360"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/dateformat/download/dateformat-2.0.0.tgz#2743e3abb5c3fc2462e527dca445e04e9f4dee17",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/dateformat/download/dateformat-2.0.0.tgz",
+    "hash": "2743e3abb5c3fc2462e527dca445e04e9f4dee17",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "2743e3abb5c3fc2462e527dca445e04e9f4dee17"
+}

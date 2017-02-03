@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/depd/download/depd-1.1.0.tgz#e1bd82c6aab6ced965b97b88b17ed3e528ca18c3",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/depd/download/depd-1.1.0.tgz",
+    "hash": "e1bd82c6aab6ced965b97b88b17ed3e528ca18c3",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e1bd82c6aab6ced965b97b88b17ed3e528ca18c3"
+}

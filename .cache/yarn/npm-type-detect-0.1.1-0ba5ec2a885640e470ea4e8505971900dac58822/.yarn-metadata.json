@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/type-detect/download/type-detect-0.1.1.tgz#0ba5ec2a885640e470ea4e8505971900dac58822",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/type-detect/download/type-detect-0.1.1.tgz",
+    "hash": "0ba5ec2a885640e470ea4e8505971900dac58822",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "0ba5ec2a885640e470ea4e8505971900dac58822"
+}

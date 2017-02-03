@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "http://registry.npm.taobao.org/postcss-unique-selectors/download/postcss-unique-selectors-2.0.2.tgz#981d57d29ddcb33e7b1dfe1fd43b8649f933ca1d",
+    "type": "tarball",
+    "reference": "http://registry.npm.taobao.org/postcss-unique-selectors/download/postcss-unique-selectors-2.0.2.tgz",
+    "hash": "981d57d29ddcb33e7b1dfe1fd43b8649f933ca1d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "981d57d29ddcb33e7b1dfe1fd43b8649f933ca1d"
+}
