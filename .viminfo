@@ -8,8 +8,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:wq
 :q
+:wq
 
 # Search String History (newest to oldest):
 
@@ -24,7 +24,7 @@
 	!
 
 # File marks:
-'0  7  23  ~/Code/ERP_Supplier/.env
+'0  7  0  ~/Code/ERP_Supplier/.env
 '1  1  6  ~/Code/ERP_Supplier/resources/views/welcome.blade.php
 '2  41  43  ~/Code/Laravel/resources/views/welcome.blade.php
 '3  1  0  /etc/nginx/sites-available/homestead.app
@@ -33,7 +33,7 @@
 '6  19  0  ~/Code/Laravel/resources/views/welcome.blade.php
 
 # Jumplist (newest first):
--'  7  23  ~/Code/ERP_Supplier/.env
+-'  7  0  ~/Code/ERP_Supplier/.env
 -'  1  0  ~/Code/ERP_Supplier/.env
 -'  1  6  ~/Code/ERP_Supplier/resources/views/welcome.blade.php
 -'  41  43  ~/Code/Laravel/resources/views/welcome.blade.php
@@ -93,12 +93,47 @@
 -'  1  0  ~/Code/sample/resources/views/welcome.blade.php
 -'  13  0  ~/Code/sample/resources/views/welcome.blade.php
 -'  1  0  ~/Code/sample/resources/views/welcome.blade.php
+-'  1  6  ~/Code/ERP_Supplier/resources/views/welcome.blade.php
+-'  41  43  ~/Code/Laravel/resources/views/welcome.blade.php
+-'  1  0  ~/Code/Laravel/resources/views/welcome.blade.php
+-'  1  0  /etc/nginx/sites-available/homestead.app
+-'  13  0  ~/Code/sample/resources/views/welcome.blade.php
+-'  1  0  ~/Code/sample/resources/views/welcome.blade.php
+-'  10  0  ~/Code/Laravel/resources/views/welcome.blade.php
+-'  19  0  ~/Code/Laravel/resources/views/welcome.blade.php
+-'  13  0  ~/Code/sample/resources/views/welcome.blade.php
+-'  1  0  ~/Code/sample/resources/views/welcome.blade.php
+-'  1  0  /etc/nginx/sites-available/homestead.app
+-'  13  0  ~/Code/sample/resources/views/welcome.blade.php
+-'  1  0  ~/Code/sample/resources/views/welcome.blade.php
+-'  13  0  ~/Code/sample/resources/views/welcome.blade.php
+-'  1  0  ~/Code/sample/resources/views/welcome.blade.php
+-'  41  43  ~/Code/Laravel/resources/views/welcome.blade.php
+-'  1  0  ~/Code/Laravel/resources/views/welcome.blade.php
+-'  1  0  /etc/nginx/sites-available/homestead.app
+-'  13  0  ~/Code/sample/resources/views/welcome.blade.php
+-'  1  0  ~/Code/sample/resources/views/welcome.blade.php
+-'  10  0  ~/Code/Laravel/resources/views/welcome.blade.php
+-'  19  0  ~/Code/Laravel/resources/views/welcome.blade.php
+-'  13  0  ~/Code/sample/resources/views/welcome.blade.php
+-'  1  0  ~/Code/sample/resources/views/welcome.blade.php
+-'  1  0  /etc/nginx/sites-available/homestead.app
+-'  13  0  ~/Code/sample/resources/views/welcome.blade.php
+-'  1  0  ~/Code/sample/resources/views/welcome.blade.php
+-'  13  0  ~/Code/sample/resources/views/welcome.blade.php
+-'  1  0  ~/Code/sample/resources/views/welcome.blade.php
+-'  1  6  ~/Code/ERP_Supplier/resources/views/welcome.blade.php
+-'  41  43  ~/Code/Laravel/resources/views/welcome.blade.php
+-'  1  0  ~/Code/Laravel/resources/views/welcome.blade.php
+-'  1  0  /etc/nginx/sites-available/homestead.app
+-'  13  0  ~/Code/sample/resources/views/welcome.blade.php
+-'  1  0  ~/Code/sample/resources/views/welcome.blade.php
 
 # History of marks within files (newest to oldest):
 
 > ~/Code/ERP_Supplier/.env
-	"	7	23
-	^	7	24
+	"	7	0
+	^	7	0
 	.	7	23
 	+	7	23
 
