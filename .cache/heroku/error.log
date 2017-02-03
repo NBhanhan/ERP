@@ -115,3 +115,17 @@ Manually visit https://protected-mesa-93352.herokuapp.com/ in your browser.
     at process._tickCallback (internal/process/next_tick.js:103:7)
 2017/02/03 04:40:18 {"id":"invalid_params","message":"Name is already taken"}
 2017/02/03 04:40:31 heroku-cli/5.6.8-9647e01 (linux-amd64) go1.7.4 /usr/lib/heroku/bin/heroku cmd: rename
+2017/02/03 04:45:20 heroku-cli/5.6.8-9647e01 (linux-amd64) go1.7.4 /usr/lib/heroku/bin/heroku cmd: config:set
+2017/02/03 04:47:55 heroku-cli/5.6.8-9647e01 (linux-amd64) go1.7.4 /usr/lib/heroku/bin/heroku cmd: open
+2017/02/03 04:47:57 Error: Error opening web browser.
+Error: Exited with code 3
+
+Manually visit https://erpsupplier.herokuapp.com/ in your browser.
+    at err (/usr/lib/heroku/lib/node_modules/heroku-apps/node_modules/heroku-cli-util/lib/open.js:10:16)
+    at ChildProcess.<anonymous> (/usr/lib/heroku/lib/node_modules/opn/index.js:86:5)
+    at ChildProcess.g (events.js:286:16)
+    at emitTwo (events.js:106:13)
+    at ChildProcess.emit (events.js:191:7)
+    at maybeClose (internal/child_process.js:852:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:215:5)
+2017/02/03 04:48:24 heroku-cli/5.6.8-9647e01 (linux-amd64) go1.7.4 /usr/lib/heroku/bin/heroku cmd: logs

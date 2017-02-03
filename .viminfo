@@ -24,16 +24,19 @@
 	!
 
 # File marks:
-'0  7  14  ~/Code/ERP/.env
-'1  7  0  ~/Code/ERP_Supplier/.env
-'2  1  6  ~/Code/ERP_Supplier/resources/views/welcome.blade.php
-'3  41  43  ~/Code/Laravel/resources/views/welcome.blade.php
-'4  1  0  /etc/nginx/sites-available/homestead.app
-'5  13  0  ~/Code/sample/resources/views/welcome.blade.php
-'6  10  0  ~/Code/Laravel/resources/views/welcome.blade.php
-'7  19  0  ~/Code/Laravel/resources/views/welcome.blade.php
+'0  23  31  ~/Code/ERP/.editorconfig
+'1  7  14  ~/Code/ERP/.env
+'2  7  0  ~/Code/ERP_Supplier/.env
+'3  1  6  ~/Code/ERP_Supplier/resources/views/welcome.blade.php
+'4  41  43  ~/Code/Laravel/resources/views/welcome.blade.php
+'5  1  0  /etc/nginx/sites-available/homestead.app
+'6  13  0  ~/Code/sample/resources/views/welcome.blade.php
+'7  10  0  ~/Code/Laravel/resources/views/welcome.blade.php
+'8  19  0  ~/Code/Laravel/resources/views/welcome.blade.php
 
 # Jumplist (newest first):
+-'  23  31  ~/Code/ERP/.editorconfig
+-'  1  0  ~/Code/ERP/.editorconfig
 -'  7  14  ~/Code/ERP/.env
 -'  1  0  ~/Code/ERP/.env
 -'  7  0  ~/Code/ERP_Supplier/.env
@@ -131,10 +134,14 @@
 -'  1  0  /etc/nginx/sites-available/homestead.app
 -'  13  0  ~/Code/sample/resources/views/welcome.blade.php
 -'  1  0  ~/Code/sample/resources/views/welcome.blade.php
--'  7  0  ~/Code/ERP_Supplier/.env
--'  1  0  ~/Code/ERP_Supplier/.env
 
 # History of marks within files (newest to oldest):
+
+> ~/Code/ERP/.editorconfig
+	"	23	31
+	^	23	32
+	.	23	0
+	+	23	0
 
 > ~/Code/ERP/.env
 	"	7	14

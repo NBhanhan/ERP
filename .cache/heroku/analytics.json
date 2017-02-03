@@ -300,6 +300,45 @@
       "status": 0,
       "runtime": 1790,
       "valid": true
+    },
+    {
+      "command": "config:set",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.1.20",
+      "timestamp": 1486097120,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 2862,
+      "valid": true
+    },
+    {
+      "command": "open",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.1.20",
+      "timestamp": 1486097275,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 1,
+      "runtime": 2543,
+      "valid": true
+    },
+    {
+      "command": "logs",
+      "plugin": "heroku-run",
+      "plugin_version": "3.3.4",
+      "timestamp": 1486097304,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 3152,
+      "valid": true
     }
   ]
 }
