@@ -200,6 +200,106 @@
       "status": 1,
       "runtime": 2681,
       "valid": true
+    },
+    {
+      "command": "buildpacks:set",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.1.20",
+      "timestamp": 1486096528,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 1,
+      "runtime": 2816,
+      "valid": true
+    },
+    {
+      "command": "buildpacks:set",
+      "timestamp": 1486096555,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "go",
+      "status": 2,
+      "runtime": 11,
+      "valid": false
+    },
+    {
+      "command": "buildpacks:set",
+      "timestamp": 1486096566,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "go",
+      "status": 2,
+      "runtime": 3,
+      "valid": false
+    },
+    {
+      "command": "buildpacks:set",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.1.20",
+      "timestamp": 1486096643,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 1,
+      "runtime": 2486,
+      "valid": true
+    },
+    {
+      "command": "create",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.1.20",
+      "timestamp": 1486096705,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 1977,
+      "valid": true
+    },
+    {
+      "command": "create",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.1.20",
+      "timestamp": 1486096791,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 1624,
+      "valid": true
+    },
+    {
+      "command": "rename",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.1.20",
+      "timestamp": 1486096816,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 1,
+      "runtime": 2574,
+      "valid": true
+    },
+    {
+      "command": "rename",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.1.20",
+      "timestamp": 1486096831,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 1790,
+      "valid": true
     }
   ]
 }
