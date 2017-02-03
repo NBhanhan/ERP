@@ -1,0 +1,7 @@
+2017/02/03 01:51:03 heroku-cli/5.6.8-9647e01 (linux-amd64) go1.7.4 /usr/lib/heroku/bin/heroku cmd: login
+2017/02/03 01:51:03 Email: 
+2017/02/03 01:51:19 triggering background update
+2017/02/03 01:51:19 heroku-cli/5.6.8-9647e01 (linux-amd64) go1.7.4 /usr/lib/heroku/bin/heroku cmd: update
+2017/02/03 01:51:20 heroku-cli: Updating plugins...
+2017/02/03 01:51:20  done
+2017/02/03 01:51:35 heroku-cli/5.6.8-9647e01 (linux-amd64) go1.7.4 /usr/lib/heroku/bin/heroku cmd: keys:add
