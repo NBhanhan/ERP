@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<tDOCTYPE html>
 <html>
     <head>
         <title>Laravel</title>

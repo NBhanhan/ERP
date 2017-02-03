@@ -101,3 +101,79 @@ git remote add origin https://github.com/NBhanhan/EIDETIKA.git
 git push -u origin master
 vagrant halt
 exit
+ls
+cd Code
+ls
+cd
+rm -f sample
+ls
+cd Code
+ls
+rm -f sample/
+rm -rf sample/
+ls
+git remote add origin git@github.com:NBhanhan/EIDETIKA.git
+cd
+git remote add origin git@github.com:NBhanhan/EIDETIKA.git
+git push -u origin master
+git remote rm origin
+git remote add origin git@github.com:NBhanhan/EIDETIKA.git
+git push -u origin master
+vagrant provision
+ls
+cd ~/Code
+ls
+composer create-project laravel/laravel ERP_Supplier --prefer-dist "5.1.*"
+ls
+cd
+heroku login
+heroku keys:add
+echo web: vendor/bin/heroku-php-apache2 public/ > Procfile
+git add -A
+git commit -m "Procfile for Heroku"
+git push
+heroku create
+heroku rename Supplier
+heroku rename supplier
+heroku buildpacks:set heroku/php
+php artisan key:generate
+git push keroku master
+php artisan key:generate
+ls
+cd Code
+ls
+cd ERP_Supplier/
+heroku buildpacks:set heroku/php
+php artisan key:generate
+heroku config:set APP_KEY=4QMEJyvrpEbmlAKY17bUXAXnDePuQy8Y
+cd - 
+heroku config:set APP_KEY=4QMEJyvrpEbmlAKY17bUXAXnDePuQy8Y
+cd
+heroku config:set APP_KEY=4QMEJyvrpEbmlAKY17bUXAXnDePuQy8Y
+git push heroku master
+heroku open
+ls
+cd Code
+ls
+cd ERP_Supplier/
+ls
+cd resources/
+ls
+cd views/
+ls
+vim welcome.blade.php 
+cd
+ls
+cd Code
+ls
+cd ERP_Supplier/
+ls
+git push heroku master
+cd
+git push heroku master
+ls
+cd Code
+ls
+rm -rf Laravel/
+cd
+exit

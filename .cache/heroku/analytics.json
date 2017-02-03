@@ -13,6 +13,117 @@
       "status": 0,
       "runtime": 26057,
       "valid": true
+    },
+    {
+      "command": "create",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.1.20",
+      "timestamp": 1486086981,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 1616,
+      "valid": true
+    },
+    {
+      "command": "rename",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.1.20",
+      "timestamp": 1486087067,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 1,
+      "runtime": 2877,
+      "valid": true
+    },
+    {
+      "command": "rename",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.1.20",
+      "timestamp": 1486087084,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 1,
+      "runtime": 2489,
+      "valid": true
+    },
+    {
+      "command": "buildpacks:set",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.1.20",
+      "timestamp": 1486087104,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 2642,
+      "valid": true
+    },
+    {
+      "command": "buildpacks:set",
+      "timestamp": 1486087312,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "go",
+      "status": 2,
+      "runtime": 5,
+      "valid": false
+    },
+    {
+      "command": "config:set",
+      "timestamp": 1486087435,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "go",
+      "status": 2,
+      "runtime": 7,
+      "valid": false
+    },
+    {
+      "command": "config:set",
+      "timestamp": 1486087451,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "go",
+      "status": 2,
+      "runtime": 11,
+      "valid": false
+    },
+    {
+      "command": "config:set",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.1.20",
+      "timestamp": 1486087477,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 2852,
+      "valid": true
+    },
+    {
+      "command": "open",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.1.20",
+      "timestamp": 1486088224,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 1,
+      "runtime": 2568,
+      "valid": true
     }
   ]
 }
